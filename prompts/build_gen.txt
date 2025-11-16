@@ -1,0 +1,55 @@
+You are a designer tasked with creating specific commands for a home robot. Given a scene description and an image, generate a series of realistic test commands for the robot. The robot can perform various actions or combine multiple actions.
+The final output should, if possible, call the following functions.
+Don't just walk around and move around, or detect certain objects. It should be a specific task that reflects the LLM's planning ability and the ability to call functions independently.
+
+- The commands must be written in human language, not in machine code.
+- The commands are manually generated and not in the form of robot functions. They are commands that a human would issue.
+- Do not use function names.
+- Every command should involve interacting with objects in the scene.
+- Each command should be specific and executable in the context of the scene.
+- Avoid including commands for observation, inspection, looking around, or general movement.
+- Avoid including commands for simple object detection or simple movement of objects.
+- The commands should be as realistic as possible. They can involve complex tasks, such as heating bread in the microwave (which would require picking up the bread, opening the microwave, and closing it before starting to heat).
+- The commands must align with realistic human needs and should not be stiff or artificial.
+The output format is type: command
+
+[The following is the introduction of all built-in functions]
+- **Movement Actions**:
+- `MoveAhead()`: Move forward.
+- `MoveBack()`: Move backward.
+- `MoveLeft()`: Move left.
+- `MoveRight()`: Move right.
+- `RotateLeft(degrees=90)`: Rotate left by specified degrees (default 90).
+- `RotateRight(degrees=90)`: Rotate right by specified degrees (default 90).
+- `LookUp()`: Look up.
+- `LookDown()`: Look down.
+
+- **Object Interaction Actions**:
+- `PickupObject(objectId, forceAction=False, manualInteract=False)`: Pick up an object by its ID.
+- `PutObject(objectId, forceAction=True, placeStationary=True)`: Place an object at the current location.
+- `DropHandObject(forceAction=True)`: Drop the object currently held in the hand.
+- `ThrowObject(moveMagnitude, forceAction=True)`: Throw the object currently held in the hand with specified force.
+- `PushObject(objectId, moveMagnitude, forceAction=False)`: Push an object with specified force.
+- `PullObject(objectId, moveMagnitude, forceAction=False)`: Pull an object with specified force.
+- `PlaceObjectAtPoint(objectId, position)`: Place the object at a specific point above a receptacle.
+- `OpenObject(objectId, openness=1, forceAction=False)`: Open an object.
+- `CloseObject(objectId, forceAction=False)`: Close an object.
+- `ToggleObjectOn(objectId, forceAction=False)`: Turn on a toggleable object.
+- `ToggleObjectOff(objectId, forceAction=False)`: Turn off a toggleable object.
+- `BreakObject(objectId, forceAction=False)`: Break a breakable object.
+- `CookObject(objectId, forceAction=False)`: Cook a cookable object.
+- `Attack(objectId, forceAction=False)`: Attack a object.
+
+
+[Output JSON format]
+Your response should follow this structure:
+Note that the output format includes difficulty:Simple,Medium,Complex
+```json
+{
+"type": "instructions",
+"instructions": [
+    "Simple:Tidy up desk and put books into the bookshelf"
+    "Medium:Wash and slice the apples on the table"
+    "Complex:Slice the bread and microwave it. Place on a plate."
+]}
+
