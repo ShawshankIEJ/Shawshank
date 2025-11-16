@@ -1,0 +1,29 @@
+{
+    "scene_name": "FloorPlan316",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan316_001.jpg",
+    "agent_position": [
+        0.75,
+        0.9019328355789185,
+        0.0
+    ],
+    "agent_rotation": 180.0,
+    "visible_objects": [
+        {
+            "objectType": "Chair",
+            "objectId": "Chair|+00.96|00.00|-01.75"
+        },
+        {
+            "objectType": "Desk",
+            "objectId": "Desk|+00.62|00.00|-01.51"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "Laptop",
+            "objectId": "Laptop|+01.64|+00.70|-01.02"
+        }
+    ]
+}

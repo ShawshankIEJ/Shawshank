@@ -1,0 +1,403 @@
+Type,Instruction,Scenario,address
+Simple,"Place the mug and bowl neatly on the desk, ensuring they are aligned.",bedroom,FloorPlan301_001
+Medium,"Pick up the pen and pencil, then place them inside the tissue box on the shelf.",bedroom,FloorPlan301_001
+Complex,"Retrieve the CD from the desk, open the shelf compartment, insert the CD into the shelf, and close the compartment securely.",bedroom,FloorPlan301_001
+Simple,Pick up the cell phone from the bed and place it on the nightstand,bedroom,FloorPlan301_002
+Medium,Move the laptop from the bed to the desk and turn it on,bedroom,FloorPlan301_002
+Complex,"Gather the book and cell phone from the bed, place them neatly on the dresser, and then make the bed by pulling the sheets tight",bedroom,FloorPlan301_002
+Simple,Pick up the boots from the floor and place them neatly beside the dresser,bedroom,FloorPlan301_003
+Medium,Turn on the desk lamp and adjust its position so it illuminates the dresser better,bedroom,FloorPlan301_003
+Complex,"Move the golden statue to the top drawer, open the drawer, place the statue inside, and close the drawer",bedroom,FloorPlan301_003
+Simple,Pick up the basketball from the floor and place it in the corner near the door.,bedroom,FloorPlan301_004
+Medium,"Retrieve the cell phone from the bed, charge it using the charger on the nightstand, and return it to the bed.",bedroom,FloorPlan301_004
+Complex,"Move the dog bed slightly closer to the window, pick up the basketball, and place it inside the dog bed for the pet to play with.",bedroom,FloorPlan301_004
+Simple,Move to the cardboard box and place it next to the trash bin,bedroom,FloorPlan301_005
+Medium,"Open the cabinet door, retrieve the bowl, and place it on the countertop",bedroom,FloorPlan301_005
+Complex,"Pick up the broom from the corner, sweep the floor near the door, and place the broom back against the wall",bedroom,FloorPlan301_005
+Simple,Pick up the keychain from the desk and place it in the drawer under the desk,bedroom,FloorPlan302_001
+Medium,Move the laptop to the left side of the desk and organize the pens and pencil into a neat row,bedroom,FloorPlan302_001
+Complex,"Retrieve the book from the floor, open it to the first page, and place it upright on the desk beside the laptop",bedroom,FloorPlan302_001
+Simple,Pick up the teddy bear from the bed and place it on the side table,bedroom,FloorPlan302_002
+Medium,"Open the drawer, retrieve the alarm clock, and set it on the bedside table",bedroom,FloorPlan302_002
+Complex,"Remove the pillow from the bed, fold it neatly, and place it on the side table next to the teddy bear",bedroom,FloorPlan302_002
+Simple,Turn on the desk lamp and then turn it off,bedroom,FloorPlan302_003
+Medium,"Open the drawer, place the garbage can inside it, and close the drawer",bedroom,FloorPlan302_003
+Complex,"Pick up the desk lamp, move it to the side table, and place it there while ensuring the light switch is turned on",bedroom,FloorPlan302_003
+Simple,Pick up the pen from the desk and place it in the drawer of the desk.,bedroom,FloorPlan302_004
+Medium,Retrieve the tennis racket leaning against the wall and hang it on the hook near the door.,bedroom,FloorPlan302_004
+Complex,"Open the cabinet above the desk, place the laptop inside, close the cabinet, then move the chair closer to the desk.",bedroom,FloorPlan302_004
+Simple,Place the purple pillow neatly on the bed,bedroom,FloorPlan302_005
+Medium,Move the teddy bear from the floor to the desk and arrange it beside the laptop,bedroom,FloorPlan302_005
+Complex,"Retrieve the alarm clock from the bedside table, set it to 7:00 AM, and place it back securely",bedroom,FloorPlan302_005
+Simple,Place the CD from the side table into the shelf unit,bedroom,FloorPlan303_001
+Medium,Retrieve the yellow plate from the shelf and place it on the side table,bedroom,FloorPlan303_001
+Complex,"Open the drawer, remove the vase, place it on the shelf, then close the drawer",bedroom,FloorPlan303_001
+Simple,Place the cloth inside the open box on the floor,bedroom,FloorPlan303_002
+Medium,Move the tennis racket from the floor to the shelf and arrange it neatly,bedroom,FloorPlan303_002
+Complex,"Pick up the garbage bag, move it to the garbage can, and place it inside for disposal",bedroom,FloorPlan303_002
+Simple,Pick up the pen and pencil from the desk and place them in the drawer.,bedroom,FloorPlan303_003
+Medium,"Turn on the desk lamp, then pick up the mug and place it on the side table next to the bed.",bedroom,FloorPlan303_003
+Complex,"Open the drawer, retrieve the credit card, place it back in the drawer, then close the drawer and turn off the desk lamp.",bedroom,FloorPlan303_003
+Simple,Pick up the credit card from the nightstand and place it on the bed.,bedroom,FloorPlan303_004
+Medium,"Open the drawer, take out the pillow, and place it neatly at the head of the bed.",bedroom,FloorPlan303_004
+Complex,"Retrieve the alarm clock from the side table, set it to 7:00 AM, and place it back on the nightstand beside the bed.",bedroom,FloorPlan303_004
+Simple,Pick up the book from the side table and place it on the top shelf of the shelving unit,bedroom,FloorPlan303_005
+Medium,"Retrieve the CD from the side table, insert it into the CD player on the shelf, and play it",bedroom,FloorPlan303_005
+Complex,"Open the drawer beneath the side table, remove the cell phone, charge it using the power outlet near the bed, then return it to the drawer and close it",bedroom,FloorPlan303_005
+Simple,Make the bed by pulling the blanket and adjusting the pillow,bedroom,FloorPlan303_006
+Medium,"Pick up the mug from the desk, fill it with water from the sink, and place it back on the desk",bedroom,FloorPlan303_006
+Complex,"Turn on the lamp, organize the papers on the bulletin board, and move the chair closer to the desk",bedroom,FloorPlan303_006
+Simple,Pick up the red ball from the floor and place it in the basket near the bed,bedroom,FloorPlan304_001
+Medium,"Open the drawer of the wooden dresser, retrieve the folded clothes, and neatly arrange them on the bed",bedroom,FloorPlan304_001
+Complex,"Retrieve the book from the top bunk of the bunk bed, bring it to the desk, open it, and place a bookmark inside before returning it to the shelf",bedroom,FloorPlan304_001
+Simple,Place the red pillow from the lower bunk onto the upper bunk,bedroom,FloorPlan304_002
+Medium,Move the small trash can next to the bed and empty it into the larger bin in the corner,bedroom,FloorPlan304_002
+Complex,"Retrieve the toy from the dresser, place it on the upper bunk, then adjust the blanket to cover it neatly",bedroom,FloorPlan304_002
+Simple,Move the chair closer to the desk and adjust its position for better seating alignment,bedroom,FloorPlan304_003
+Medium,Pick up the box from the floor and place it neatly under the desk to clear the space,bedroom,FloorPlan304_003
+Complex,"Retrieve the box, open it if possible, and check its contents before placing it on the desk for inspection",bedroom,FloorPlan304_003
+Simple,Pick up the pen and place it in the drawer under the desk,bedroom,FloorPlan304_004
+Medium,"Open the laptop, then pick up the mug and place it on the shelf above the desk",bedroom,FloorPlan304_004
+Complex,"Retrieve the book from the desk, open the drawer, place the book inside, close the drawer, and then use the phone to take a photo of the clock",bedroom,FloorPlan304_004
+Simple,Open the laundry hamper and place the clothes inside it,bedroom,FloorPlan305_001
+Medium,Move the laundry hamper to a corner of the room and close its lid,bedroom,FloorPlan305_001
+Complex,"Retrieve the clothes from the floor, place them in the laundry hamper, and then move the hamper near the door for collection",bedroom,FloorPlan305_001
+Simple,Pick up the credit card from the desk and place it in the drawer,bedroom,FloorPlan305_002
+Medium,"Open the drawer, remove the books from the shelf, and organize them neatly on the desk",bedroom,FloorPlan305_002
+Complex,"Turn on the laptop, pick up the bowl, place it on the shelf, then close the drawer and move the keychain to the top of the desk",bedroom,FloorPlan305_002
+Simple,Pick up the baseball bat and place it against the wall near the bed,bedroom,FloorPlan305_003
+Medium,Retrieve the baseball from the floor and place it inside the open box next to the dresser,bedroom,FloorPlan305_003
+Complex,"Move the lamp on the dresser to a new position on the nightstand, then adjust the bed cover to be neatly aligned",bedroom,FloorPlan305_003
+Simple,Make the bed by pulling up the blue blanket and adjusting the pillow.,bedroom,FloorPlan305_004
+Medium,"Move to the desk, pick up the laptop, and place it on the bed for charging.",bedroom,FloorPlan305_004
+Complex,"Pick up the camera from the desk, walk to the wall, and place it on a shelf if available, then adjust the lamp hanging near the bed.",bedroom,FloorPlan305_004
+Simple,Place the blue pillow neatly at the head of the bed,bedroom,FloorPlan306_001
+Medium,Retrieve the teddy bear from the floor and place it on the bed near the window,bedroom,FloorPlan306_001
+Complex,"Adjust the bed sheets to ensure they are properly spread, then position the pillow and teddy bear in an organized and cozy arrangement",bedroom,FloorPlan306_001
+Simple,Pick up the pen from the desk and place it in the drawer.,bedroom,FloorPlan306_002
+Medium,"Turn on the desk lamp, then pick up the book and place it on the chair beside the desk.",bedroom,FloorPlan306_002
+Complex,"Open the top drawer, retrieve the keychain, place it on the desk, then close the drawer and turn off the lamp.",bedroom,FloorPlan306_002
+Simple,Pick up the teddy bear from the bed and place it on the nightstand,bedroom,FloorPlan306_003
+Medium,Move the pillow to the head of the bed and adjust the blanket neatly,bedroom,FloorPlan306_003
+Complex,"Retrieve the blue pillow from the bed, place it on the floor near the door, then pick up the teddy bear and put it back on the bed in a sitting position",bedroom,FloorPlan306_003
+Simple,Pick up the pen from the desk and place it in the drawer,bedroom,FloorPlan306_004
+Medium,"Retrieve the cell phone from the desk, charge it using the laptop's USB port, and return it to the desk",bedroom,FloorPlan306_004
+Complex,"Open the drawer, remove the pencil, use it to write a note on a piece of paper found under the bed, then place the paper on the desk",bedroom,FloorPlan306_004
+Simple,Pick up the book from the desk and place it on the shelf,bedroom,FloorPlan307_001
+Medium,Move the laptop to the left side of the desk and place the bowl next to it,bedroom,FloorPlan307_001
+Complex,"Turn on the desk lamp, pick up the pen and pencil, and place them in the cup holder on the desk",bedroom,FloorPlan307_001
+Simple,Pick up the cloth from the floor and place it on the side table,bedroom,FloorPlan307_002
+Medium,Collect both cloths from the floor and put them into the garbage can,bedroom,FloorPlan307_002
+Complex,"Move the alarm clock to the side table, then open the CD case and place the CD inside the garbage can",bedroom,FloorPlan307_002
+Simple,Pick up the bucket from the floor and place it beside the bed.,bedroom,FloorPlan307_003
+Medium,Retrieve the tennis racket from the corner and place it under the bed for storage.,bedroom,FloorPlan307_003
+Complex,"Move the bucket to the center of the room, then pick up the tennis racket and place it inside the bucket before moving both items to the far side of the bed.",bedroom,FloorPlan307_003
+Simple,Place the credit card on the desk and organize the items on the shelf,bedroom,FloorPlan307_004
+Medium,Retrieve the keychain from the desk and hang it on the door handle,bedroom,FloorPlan307_004
+Complex,"Open the drawer, remove the notebook, place it on the shelf, and then close the drawer",bedroom,FloorPlan307_004
+Simple,Pick up the pen and place it inside the pencil holder on the desk,bedroom,FloorPlan308_001
+Medium,"Open the book on the desk, flip through its pages, and then close it neatly",bedroom,FloorPlan308_001
+Complex,"Take the cell phone from the desk, place it in the bowl, then move the bowl to the window sill for charging",bedroom,FloorPlan308_001
+Simple,Pick up the basketball from the floor and place it under the bed.,bedroom,FloorPlan308_002
+Medium,Tidy the bed by straightening the red checkered blanket and adjusting the pillow.,bedroom,FloorPlan308_002
+Complex,"Retrieve the candle from the bedside, place it on the nightstand, then turn on the lamp to illuminate the room.",bedroom,FloorPlan308_002
+Simple,Pick up the mug from the desk and place it on the shelf above the desk,bedroom,FloorPlan308_003
+Medium,"Open the drawer under the desk, retrieve the credit card, and place it in the laptop's card reader slot",bedroom,FloorPlan308_003
+Complex,"Turn on the desk lamp, open the top drawer, take out a book from the shelf, place it on the desk, and then close the drawer",bedroom,FloorPlan308_003
+Simple,Open the safe and retrieve the item inside,bedroom,FloorPlan308_004
+Medium,Move the bucket to the corner of the room and place it beside the safe,bedroom,FloorPlan308_004
+Complex,"Use the mirror to check the room's layout, then open the safe, take out the object, and place it on the floor near the bucket",bedroom,FloorPlan308_004
+Simple,Place the laundry hamper next to the bed and tidy up the room,bedroom,FloorPlan308_005
+Medium,Pick up the pillow from the bed and place it neatly at the head of the bed,bedroom,FloorPlan308_005
+Complex,Fold the red plaid blanket on the bed and arrange it evenly across the mattress,bedroom,FloorPlan308_005
+Simple,Pick up the teddy bear from the floor and place it on the bed.,bedroom,FloorPlan309_001
+Medium,Retrieve the cell phone from the bed and charge it using the lamp's power outlet if available.,bedroom,FloorPlan309_001
+Complex,"Move the teddy bear to the foot of the bed, adjust the pillows for comfort, and ensure the bed is neatly arranged.",bedroom,FloorPlan309_001
+Simple,Open the drawer and place the notebook inside,bedroom,FloorPlan309_002
+Medium,Move the chair closer to the desk and adjust its position for comfortable seating,bedroom,FloorPlan309_002
+Complex,"Retrieve the laptop from the desk, open it, and then place it back on the desk with the screen facing upward",bedroom,FloorPlan309_002
+Simple,Arrange the three armchairs in a straight line facing the mirror,bedroom,FloorPlan309_003
+Medium,Move the leftmost armchair closer to the center chair and rotate it to face the mirror,bedroom,FloorPlan309_003
+Complex,"Reposition all three armchairs into a semi-circle formation centered around the mirror, ensuring equal spacing between each",bedroom,FloorPlan309_003
+Simple,Pick up the keychain from the side table and place it on the bed.,bedroom,FloorPlan309_004
+Medium,"Turn on the desk lamp, then move the alarm clock to the laundry hamper and close the hamper lid.",bedroom,FloorPlan309_004
+Complex,"Retrieve the mug from the side table, fill it with water from the nearby sink (if accessible), and place it back on the side table next to the lamp.",bedroom,FloorPlan309_004
+Simple,Organize the desk by placing the pen and pencil into the drawer of the cabinet,bedroom,FloorPlan310_001
+Medium,"Retrieve the book from the desk, open the cabinet, and place the book inside the shelf compartment",bedroom,FloorPlan310_001
+Complex,"Pick up the laptop, move it to the center of the desk, then open it and turn it on to check for any notifications",bedroom,FloorPlan310_001
+Simple,Pick up the keychain from the nightstand and place it on the bed,bedroom,FloorPlan310_002
+Medium,"Open the drawer, retrieve the hidden item, and place it on the side table",bedroom,FloorPlan310_002
+Complex,"Turn on the alarm clock, pick up the pillow, move to the center of the room, and place the pillow neatly at the head of the bed",bedroom,FloorPlan310_002
+Simple,Pick up the baseball bat and place it against the wall near the bed,bedroom,FloorPlan310_003
+Medium,Retrieve the basketball from the floor and place it in the corner beside the tennis racket,bedroom,FloorPlan310_003
+Complex,"Pick up the tennis racket, move to the center of the room, and use it to gently push the basketball toward the bed",bedroom,FloorPlan310_003
+Simple,Move to the desk and place the laptop on the table,bedroom,FloorPlan310_004
+Medium,Pick up the baseball bat from the floor and place it in the closet,bedroom,FloorPlan310_004
+Complex,"Retrieve the book from the shelf, open it, read a page, then close it and return it to the shelf",bedroom,FloorPlan310_004
+Simple,Pick up the remote control from the dresser and place it on the armchair,bedroom,FloorPlan311_001
+Medium,"Turn on the desk lamp, then pick up the alarm clock and set it on the side table next to the lamp",bedroom,FloorPlan311_001
+Complex,"Open the drawer, retrieve the remote control if not already taken, place it on the side table, and turn off the desk lamp after ensuring the room is properly lit",bedroom,FloorPlan311_001
+Simple,Pick up the book from the desk and place it on the bookshelf in the corner.,bedroom,FloorPlan311_002
+Medium,"Gather all pens and pencils from the desk, place them in the drawer of the desk, then turn on the desk lamp.",bedroom,FloorPlan311_002
+Complex,"Retrieve the credit card and keychain from the desk, place them in the laptop bag on the chair, then close the laptop and move it to the side table.",bedroom,FloorPlan311_002
+Simple,"Move to the counter and pick up the cup, then place it on the table in the adjacent room.",bedroom,FloorPlan311_003
+Medium,"Open the cabinet under the counter, retrieve the bottle, and pour its contents into the glass on the countertop.",bedroom,FloorPlan311_003
+Complex,"Retrieve the bread from the kitchen area, slice it using the knife on the counter, heat it in the microwave, and place the toasted bread onto a plate on the dining table.",bedroom,FloorPlan311_003
+Simple,Move to the bed and adjust the pillows to make it neat,bedroom,FloorPlan311_004
+Medium,Retrieve the remote from the dresser and turn on the TV,bedroom,FloorPlan311_004
+Complex,"Pick up the lamp from the side table, place it on the dresser, and then turn on the ceiling light",bedroom,FloorPlan311_004
+Simple,Turn on the lamp on the left side of the table and adjust the chair position for better seating alignment,bedroom,FloorPlan311_005
+Medium,Move the laptop from the desk to the TV stand and turn on the monitor,bedroom,FloorPlan311_005
+Complex,"Retrieve the remote control from the TV stand, place it on the armchair, then turn on both lamps in the room and open the drawer under the TV stand to store a small object",bedroom,FloorPlan311_005
+Simple,Pick up the pen from the desk and place it in the top shelf compartment,bedroom,FloorPlan312_001
+Medium,Collect the keychain and credit card from the floor and put them inside the drawer of the desk,bedroom,FloorPlan312_001
+Complex,"Retrieve the book from the bottom shelf, open it on the desk, and use the pencil to mark a note on the first page before placing it back on the shelf",bedroom,FloorPlan312_001
+Simple,Move the red pillow to the head of the bed and adjust the blue blanket neatly.,bedroom,FloorPlan312_002
+Medium,"Pick up the laptop from the bed, place it on the side table, and close the laptop lid.",bedroom,FloorPlan312_002
+Complex,"Open the drawer, retrieve a book if present, place it on the bed beside the laptop, then fold the blanket over the book and pillow.",bedroom,FloorPlan312_002
+Simple,Pick up the laptop from the bed and place it on the desk,bedroom,FloorPlan312_003
+Medium,Retrieve the dumbbells from the floor and place them neatly on the shelf,bedroom,FloorPlan312_003
+Complex,"Open the drawer, take out the notebook, place it on the desk, then close the drawer and turn on the lamp",bedroom,FloorPlan312_003
+Simple,Move to the desk and organize the papers into a neat stack,bedroom,FloorPlan312_004
+Medium,"Pick up the book from the desk, place it on the top shelf of the bookshelf, then close the drawer under the desk",bedroom,FloorPlan312_004
+Complex,"Retrieve the laptop from the desk, carry it to the chair, open it, and then move it back to the desk while ensuring all cables are properly connected",bedroom,FloorPlan312_004
+Simple,Move the alarm clock from the side table to the top of the shelving unit,bedroom,FloorPlan313_001
+Medium,Rearrange the books on the shelf by placing the red book in the second row and the blue book in the first row,bedroom,FloorPlan313_001
+Complex,"Pick up the houseplant from the top of the shelving unit, place it on the floor beside the chair, then return it to its original position",bedroom,FloorPlan313_001
+Simple,Pick up the mug from the desk and place it on the shelf,bedroom,FloorPlan313_002
+Medium,"Open the drawer, retrieve the pen, and place it in the tissue box on the desk",bedroom,FloorPlan313_002
+Complex,"Turn on the desk lamp, pick up the book, open it, and place it on the chair next to the desk",bedroom,FloorPlan313_002
+Simple,Tuck the blanket neatly around the bed and place the teddy bear on the pillow,bedroom,FloorPlan313_003
+Medium,Pick up the tennis racket from the floor and place it in a corner near the wall,bedroom,FloorPlan313_003
+Complex,"Fold the blanket properly, adjust the pillow, and position the teddy bear sitting upright on the bed",bedroom,FloorPlan313_003
+Simple,Close the blinds on the window to block out the light,bedroom,FloorPlan313_004
+Medium,Pick up the keychain from the desk and place it in the drawer,bedroom,FloorPlan313_004
+Complex,"Open the drawer, retrieve the CD from inside, place it on the desk, then close the drawer",bedroom,FloorPlan313_004
+Simple,Make the bed by pulling up the blanket and smoothing it out,bedroom,FloorPlan314_001
+Medium,Retrieve the pillow from the floor and place it neatly on the bed,bedroom,FloorPlan314_001
+Complex,"Move to the door, open it, pick up the trash can from the corner, and return it to the bedside table",bedroom,FloorPlan314_001
+Simple,Pick up the credit card from the desk and place it in the drawer,bedroom,FloorPlan314_002
+Medium,"Turn on the laptop, then pick up the cell phone and place it on the chair",bedroom,FloorPlan314_002
+Complex,"Open the drawer, retrieve the CD, insert it into the laptop, and close the drawer",bedroom,FloorPlan314_002
+Simple,Open the drawer under the desk and place the laptop inside,bedroom,FloorPlan314_003
+Medium,Move the chair closer to the desk and adjust its position for better seating,bedroom,FloorPlan314_003
+Complex,"Retrieve a notebook from the side table, open the top drawer of the desk, place the notebook inside, then close the drawer",bedroom,FloorPlan314_003
+Simple,Pick up the book from the table and place it on the top drawer.,bedroom,FloorPlan314_004
+Medium,"Open the drawer, place the keychain inside, and close the drawer.",bedroom,FloorPlan314_004
+Complex,"Retrieve the alarm clock from the table, move it to the floor, and set it down beside the box.",bedroom,FloorPlan314_004
+Simple,Place the pen and pencil into the mug on the desk,bedroom,FloorPlan315_001
+Medium,Turn on the desk lamp and organize the items on the desk by placing the credit card and keychain in the drawer,bedroom,FloorPlan315_001
+Complex,"Pick up the laptop, move it to the center of the desk, open it, then turn on the desk lamp and place the mug beside the laptop",bedroom,FloorPlan315_001
+Simple,Move the teddy bear from the floor to the bed and place it near the pillow,bedroom,FloorPlan315_002
+Medium,Retrieve the clock from the dresser and set it on the nightstand beside the bed,bedroom,FloorPlan315_002
+Complex,"Fold the bedsheet neatly, adjust the pillow position, and place the teddy bear in a sitting pose on the bed",bedroom,FloorPlan315_002
+Simple,Pick up the mug from the desk and place it in the cabinet.,bedroom,FloorPlan315_003
+Medium,"Turn on the lamp, then pick up the laptop and place it on the dresser.",bedroom,FloorPlan315_003
+Complex,"Move the bowl from the desk to the cabinet, open the drawer under the desk, and place the pen inside before closing the drawer.",bedroom,FloorPlan315_003
+Simple,Tidy the bed by straightening the yellow blanket and adjusting the pillow.,bedroom,FloorPlan315_004
+Medium,Pick up the stuffed animal from the bed and place it on the dresser.,bedroom,FloorPlan315_004
+Complex,"Retrieve the camera from the dresser, place it on the bed, then adjust the lighting by turning on the ceiling light.",bedroom,FloorPlan315_004
+Simple,Move the chair closer to the desk and adjust its position for better ergonomics,bedroom,FloorPlan316_001
+Medium,"Pick up the laptop from the desk, place it on the bed, and then turn off the monitor",bedroom,FloorPlan316_001
+Complex,"Gather all items on the desk—cup, phone, notebook—and organize them into a neat arrangement, then open the drawer and store the notebook inside",bedroom,FloorPlan316_001
+Simple,Pick up the pen and place it in the bowl on the desk,bedroom,FloorPlan316_002
+Medium,"Open the book, place the keychain beside it, and then close the book",bedroom,FloorPlan316_002
+Complex,"Turn on the desk lamp, pick up the cell phone, and place it next to the pencil before turning off the lamp",bedroom,FloorPlan316_002
+Simple,Turn off the alarm clock on the nightstand,bedroom,FloorPlan316_003
+Medium,Pick up the CD from the floor and place it in the drawer of the nightstand,bedroom,FloorPlan316_003
+Complex,"Open the drawer, retrieve the CD, close the drawer, then place the CD on the side table",bedroom,FloorPlan316_003
+Simple,Pick up the credit card from the desk and place it in the drawer of the desk,bedroom,FloorPlan316_004
+Medium,Move the baseball bat from the floor to the shelf and arrange it neatly,bedroom,FloorPlan316_004
+Complex,"Open the laptop, then move the garbage can closer to the desk for easy access, and finally place the credit card into the laptop's card reader if available",bedroom,FloorPlan316_004
+Simple,Open the top left drawer and place the pen inside,bedroom,FloorPlan317_001
+Medium,Retrieve the laptop from the dresser and place it on the white box to the left,bedroom,FloorPlan317_001
+Complex,"Open the bottom right drawer, take out any hidden object, and place it on the dresser next to the bowl",bedroom,FloorPlan317_001
+Simple,Turn on the lamp on the bedside table,bedroom,FloorPlan317_002
+Medium,Pick up the green object from the nightstand and place it on the bed,bedroom,FloorPlan317_002
+Complex,"Open the drawer of the nightstand, retrieve the book inside, and place it on the bed beside the pillows",bedroom,FloorPlan317_002
+Simple,Move the teddy bear from the floor into the cardboard box,bedroom,FloorPlan317_003
+Medium,Pick up the red pot and place it inside the large beige container near the window,bedroom,FloorPlan317_003
+Complex,"Open the cardboard box, place the teddy bear inside, then move the box to the center of the room and close it with a lid if available",bedroom,FloorPlan317_003
+Simple,Pick up the pencil and place it in the drawer of the dresser,bedroom,FloorPlan317_004
+Medium,Collect the crumpled paper and cloth from the floor and dispose of them in the garbage can,bedroom,FloorPlan317_004
+Complex,"Open the dresser drawer, retrieve the book, place it on the laptop, then close the drawer and move the laptop slightly to the right",bedroom,FloorPlan317_004
+Simple,Pick up the pencil from the dresser and place it in the drawer.,bedroom,FloorPlan317_005
+Medium,"Open the bowl, take out the credit card, and place it inside the safe.",bedroom,FloorPlan317_005
+Complex,"Retrieve the book from the dresser, open it to the first page, then use the pen to write a note on a blank sheet of paper before placing the book back on the dresser.",bedroom,FloorPlan317_005
+Simple,Move the chair under the desk and place the CD on the cabinet,bedroom,FloorPlan318_001
+Medium,"Open the drawer, take out the phone, and place it on the desk next to the lamp",bedroom,FloorPlan318_001
+Complex,"Pick up the remote from the desk, open the cabinet, place the remote inside, then close the cabinet and adjust the lamp's position on the desk",bedroom,FloorPlan318_001
+Simple,Pick up the pen from the desk and place it in the drawer.,bedroom,FloorPlan318_002
+Medium,"Turn on the desk lamp, then pick up the credit card and place it into the dresser drawer.",bedroom,FloorPlan318_002
+Complex,"Open the drawer under the desk, retrieve the CD, place it into the cabinet, and then close the drawer.",bedroom,FloorPlan318_002
+Simple,Move the purple pillow from the bed to the top of the dresser,bedroom,FloorPlan318_003
+Medium,Open the drawer under the bed and place the wooden box inside it,bedroom,FloorPlan318_003
+Complex,"Retrieve the small wooden block from under the bed, place it on the dresser, then open the drawer next to it and store the block inside",bedroom,FloorPlan318_003
+Simple,Pick up the book from the desk and place it on the chair,bedroom,FloorPlan318_004
+Medium,Move the chair closer to the desk and adjust its position for better seating,bedroom,FloorPlan318_004
+Complex,"Retrieve the book from the desk, open it, read the first page, then close it and return it to the desk",bedroom,FloorPlan318_004
+Simple,Pick up the book from the desk and place it on the top shelf of the bunk bed,bedroom,FloorPlan318_005
+Medium,Move the chair closer to the desk and adjust the lamp so it illuminates the workspace better,bedroom,FloorPlan318_005
+Complex,"Retrieve the book from the desk, take it to the couch, open it, and then return it to the desk with a cup of water placed beside it",bedroom,FloorPlan318_005
+Simple,Turn on the light switch to illuminate the room,bedroom,FloorPlan318_006
+Medium,Pick up the book from the desk and place it on the armchair,bedroom,FloorPlan318_006
+Complex,"Retrieve the mug from the desk, fill it with water from the sink in the adjacent room, and return it to the desk",bedroom,FloorPlan318_006
+Simple,"Move to the bookshelf and pick up the book on the bottom shelf, then place it on the wooden table near the window",bedroom,FloorPlan319_001
+Medium,Pick up the framed picture from the floor in front of the fireplace and hang it on the wall above the mantle,bedroom,FloorPlan319_001
+Complex,"Retrieve the statue from the mantle, place it on the stool by the window, then open the window blinds to let in natural light",bedroom,FloorPlan319_001
+Simple,Pick up the book from the dresser and place it on the top drawer.,bedroom,FloorPlan319_002
+Medium,"Turn on the desk lamp, then pick up the CD and place it in the drawer beneath the lamp.",bedroom,FloorPlan319_002
+Complex,"Open the top drawer, retrieve the cell phone, place it on the dresser beside the lamp, then turn off the lamp and close the drawer.",bedroom,FloorPlan319_002
+Simple,Pick up the laptop from the bed and place it on the desk,bedroom,FloorPlan319_003
+Medium,Move the pillows to the head of the bed and arrange them neatly,bedroom,FloorPlan319_003
+Complex,Fold the blanket at the foot of the bed and adjust the pillows for a tidy appearance,bedroom,FloorPlan319_003
+Simple,Place the keychain on the shelf next to the pen,bedroom,FloorPlan319_004
+Medium,Move the stool closer to the window and place the box on top of it,bedroom,FloorPlan319_004
+Complex,"Retrieve the credit card from the shelf, open the drawer in the shelving unit, and place the card inside before closing the drawer",bedroom,FloorPlan319_004
+Simple,Pick up the credit card from the side table and place it inside the garbage bag.,bedroom,FloorPlan320_001
+Medium,Move the alarm clock to the corner of the side table and ensure it is upright.,bedroom,FloorPlan320_001
+Complex,"Open the curtains fully to let in more light, then pick up the alarm clock, reset its time, and place it back on the side table next to the credit card.",bedroom,FloorPlan320_001
+Simple,Move to the bed and adjust the blue blanket to cover the entire mattress.,bedroom,FloorPlan320_002
+Medium,Pick up the teddy bear from the bed and place it on the desk next to the laptop.,bedroom,FloorPlan320_002
+Complex,"Open the drawer under the desk, retrieve the notebook, bring it to the bed, and place it beside the pillow.",bedroom,FloorPlan320_002
+Simple,Pick up the pencil from the desk and place it in the green trash bin.,bedroom,FloorPlan320_003
+Medium,Move the tennis racket from the floor to the desk and place it next to the cell phone.,bedroom,FloorPlan320_003
+Complex,"Pick up the basketball, place it on the desk, then move the dumbbell to the side of the desk and finally open the window curtains slightly.",bedroom,FloorPlan320_003
+Simple,Move the dumbbell from the desk to the shelf beneath it,bedroom,FloorPlan320_004
+Medium,Pick up the keychain from the desk and place it on the bed next to the teddy bear,bedroom,FloorPlan320_004
+Complex,"Turn on the desk lamp, open the laptop, then pick up the book and place it on the top shelf of the desk unit",bedroom,FloorPlan320_004
+Simple,Adjust the pillow on the bed to make it look neat,bedroom,FloorPlan321_001
+Medium,Turn on the lamp on the nightstand and then place a book from the table onto the bed,bedroom,FloorPlan321_001
+Complex,"Pick up the laptop from the right nightstand, move it to the left side of the bed, and place it on the bed before turning it off",bedroom,FloorPlan321_001
+Simple,Pick up the credit card from the desk and place it in the drawer of the desk.,bedroom,FloorPlan321_002
+Medium,"Move to the book on the desk, pick it up, and place it on the couch beside the armrest.",bedroom,FloorPlan321_002
+Complex,"Turn on the lamp on the desk, then pick up the book, open it, and place it on the chair next to the desk before turning off the lamp.",bedroom,FloorPlan321_002
+Simple,Pick up the credit card from the desk and place it in the laptop bag.,bedroom,FloorPlan321_003
+Medium,"Open the book on the desk, flip to the first page, and use the pen to underline the title.",bedroom,FloorPlan321_003
+Complex,"Move the laptop to the left side of the desk, pick up the CD, insert it into the laptop, and then close the laptop lid.",bedroom,FloorPlan321_003
+Simple,Place the keychain on the side table next to the bed,bedroom,FloorPlan321_004
+Medium,Pick up the tissue box from the side table and place it neatly on the armchair,bedroom,FloorPlan321_004
+Complex,"Adjust the pillow on the bed, turn on the desk lamp, and then move the tissue box from the side table to the nightstand",bedroom,FloorPlan321_004
+Simple,Tidy the bed by straightening the blanket and aligning the pillows,bedroom,FloorPlan321_005
+Medium,Move the trash can from under the desk to the corner of the room near the wall,bedroom,FloorPlan321_005
+Complex,"Retrieve the book from the desk, place it on the nightstand beside the bed, and turn on the lamp to read before sleeping",bedroom,FloorPlan321_005
+Simple,Pick up the pencil and place it in the drawer of the desk,bedroom,FloorPlan322_001
+Medium,"Retrieve the book from the desk, open it, and then close it before placing it back on the desk",bedroom,FloorPlan322_001
+Complex,"Turn on the laptop, pick up the cell phone, and place it beside the laptop on the desk",bedroom,FloorPlan322_001
+Simple,Pick up the cloth from the floor and place it into the garbage can,bedroom,FloorPlan322_002
+Medium,Move the garbage can slightly to the side and ensure the cloth is fully inside,bedroom,FloorPlan322_002
+Complex,"Retrieve the cloth from the floor, fold it neatly, and dispose of it in the garbage can while ensuring no debris remains on the floor",bedroom,FloorPlan322_002
+Simple,Adjust the bedsheet to make the bed neat and tidy,bedroom,FloorPlan322_003
+Medium,Move the pillow from the left side of the bed to the right side and arrange it properly,bedroom,FloorPlan322_003
+Complex,"Turn on the lamp on the left nightstand, then pick up the book from the same nightstand and place it on the right nightstand",bedroom,FloorPlan322_003
+Simple,Place the mug on the side table next to the bed,bedroom,FloorPlan322_004
+Medium,Turn on the desk lamp and then place the pillow neatly at the head of the bed,bedroom,FloorPlan322_004
+Complex,"Open the drawer, retrieve any object inside, and place it on the side table before closing the drawer",bedroom,FloorPlan322_004
+Simple,Pick up the cell phone and place it next to the laptop on the desk,bedroom,FloorPlan322_005
+Medium,"Retrieve the book from the desk, open it, and flip through the pages before placing it back down",bedroom,FloorPlan322_005
+Complex,"Take the CD from the desk, insert it into the laptop’s disc drive, then close the laptop lid",bedroom,FloorPlan322_005
+Simple,Move to the dresser and open the top drawer to retrieve the remote control,bedroom,FloorPlan323_001
+Medium,"Pick up the laptop from the desk, carry it to the couch, and place it on the center cushion",bedroom,FloorPlan323_001
+Complex,"Turn on the lamp on the desk, then move to the window and adjust the blinds to let in more light",bedroom,FloorPlan323_001
+Simple,Pick up the teddy bear from the bed and place it on the left nightstand,bedroom,FloorPlan323_002
+Medium,Move the laptop to the center of the bed and open it,bedroom,FloorPlan323_002
+Complex,"Retrieve the hat from the right nightstand, place it on the teddy bear's head, then move both items to the foot of the bed",bedroom,FloorPlan323_002
+Simple,Pick up the book from the desk and place it on the bookshelf.,bedroom,FloorPlan323_003
+Medium,"Turn on the desk lamp, then pick up the credit card and place it in the drawer.",bedroom,FloorPlan323_003
+Complex,"Open the drawer, retrieve the keychain, place it on the desk, then turn off the desk lamp and close the drawer.",bedroom,FloorPlan323_003
+Simple,Pick up the book from the desk and place it on the chair.,bedroom,FloorPlan323_004
+Medium,"Open the top drawer of the desk, retrieve the keychain, and place it on the desk lamp base.",bedroom,FloorPlan323_004
+Complex,"Turn on the desk lamp, pick up the credit card, then open the bottom drawer to store it before turning off the lamp.",bedroom,FloorPlan323_004
+Simple,Make the bed by straightening the blue blanket and adjusting the bedsheet.,bedroom,FloorPlan324_001
+Medium,Pick up the vacuum cleaner from the floor and place it in the corner near the window.,bedroom,FloorPlan324_001
+Complex,"Retrieve the green objects from the bed, clean them with a cloth if available, and place them neatly on the bedside table.",bedroom,FloorPlan324_001
+Simple,Pick up the credit card from the desk and place it in the drawer,bedroom,FloorPlan324_002
+Medium,"Turn on the desk lamp, then move the laptop slightly to the left to make space for the mug",bedroom,FloorPlan324_002
+Complex,"Open the drawer, retrieve the keychain, use it to unlock the dresser, then place the pencil inside the dresser and close it",bedroom,FloorPlan324_002
+Simple,Pick up the yellow trash can and place it near the door for disposal,bedroom,FloorPlan324_003
+Medium,"Open the closet door, retrieve the folded blanket, and place it neatly on the bed visible through the mirror",bedroom,FloorPlan324_003
+Complex,"Retrieve the vacuum cleaner from the closet, clean the floor in front of the mirror, and return the vacuum to its original spot",bedroom,FloorPlan324_003
+Simple,Pick up the baseball bat and place it against the wall near the vacuum cleaner,bedroom,FloorPlan324_004
+Medium,Move the tennis racket from the floor to the top of the bed and adjust the pillows neatly,bedroom,FloorPlan324_004
+Complex,"Use the vacuum cleaner to clean the area near the bed, then pick up the tennis racket and store it under the bed",bedroom,FloorPlan324_004
+Simple,Pick up the CD from the shelf and place it on top of the alarm clock,bedroom,FloorPlan324_005
+Medium,Move the vacuum cleaner to the corner of the room and place it upright against the wall,bedroom,FloorPlan324_005
+Complex,"Retrieve the baseball bat from the floor, use it to gently push the vacuum cleaner toward the wall, then pick up the cell phone from the shelf and place it beside the alarm clock",bedroom,FloorPlan324_005
+Simple,Make the bed by pulling the blanket over the mattress and straightening the sheets,bedroom,FloorPlan325_001
+Medium,Retrieve the pillow from the floor and place it neatly on the bed,bedroom,FloorPlan325_001
+Complex,"Turn on the bedside lamp, adjust the pillow position, and open the wardrobe to check for clothes",bedroom,FloorPlan325_001
+Simple,Pick up the pencil from the dresser and place it in the drawer,bedroom,FloorPlan325_002
+Medium,"Open the drawer, place the credit card inside, then close the drawer",bedroom,FloorPlan325_002
+Complex,"Pick up the book from the dresser, open the drawer, place the book inside, close the drawer, and then look at the mirror to confirm the action",bedroom,FloorPlan325_002
+Simple,Pick up the yellow vase from the shelf and place it on the floor next to the cabinet.,bedroom,FloorPlan325_003
+Medium,"Open the top drawer of the shelving unit, retrieve the silver vase, and place it on the lower shelf.",bedroom,FloorPlan325_003
+Complex,"Move the yellow vase from the middle shelf to the top shelf, then open the bottom drawer and place the silver vase inside before closing the drawer.",bedroom,FloorPlan325_003
+Simple,Pick up the cell phone from the dresser and place it on the laptop,bedroom,FloorPlan325_004
+Medium,"Open the drawer under the dresser, retrieve the CD, and place it in the laptop drive",bedroom,FloorPlan325_004
+Complex,"Close the laptop, pick up the CD, open the cabinet door, place the CD inside, then close the cabinet and turn on the laptop",bedroom,FloorPlan325_004
+Simple,Place the mug on the desk near the laptop and turn on the desk lamp,bedroom,FloorPlan326_001
+Medium,"Pick up the pen and pencil, then place them neatly in the holder on the desk",bedroom,FloorPlan326_001
+Complex,"Retrieve the credit card from the desk, open the shelf, and place the card inside before closing the shelf door",bedroom,FloorPlan326_001
+Simple,Move the garbage can closer to the desk for easier disposal of trash,bedroom,FloorPlan326_002
+Medium,Open the blinds on the window to let in natural light and improve visibility,bedroom,FloorPlan326_002
+Complex,"Pick up the laptop from the desk, place it on the shelf, and then close the blinds to reduce glare",bedroom,FloorPlan326_002
+Simple,Pick up the pen from the desk and place it in the pencil holder on the shelf,bedroom,FloorPlan326_003
+Medium,Move the laptop to the center of the desk and close its lid,bedroom,FloorPlan326_003
+Complex,"Retrieve the credit card from the desk, place it into the wallet on the chair, then move the wallet to the shelf for safekeeping",bedroom,FloorPlan326_003
+Simple,Move the pillow from the floor to the bed and arrange it neatly,bedroom,FloorPlan326_004
+Medium,Retrieve the teddy bear from the bed and place it on the cushion near the window,bedroom,FloorPlan326_004
+Complex,"Pick up the tennis racket from the floor, open the closet, and store it inside before closing the closet door",bedroom,FloorPlan326_004
+Simple,Arrange the books on the shelf by placing them neatly in the upper compartments,bedroom,FloorPlan326_005
+Medium,Move the chair closer to the desk and adjust its position for better ergonomics,bedroom,FloorPlan326_005
+Complex,"Retrieve the poster from the wall, fold it carefully, and place it inside the top shelf compartment",bedroom,FloorPlan326_005
+Simple,Move the teddy bear from the blue bed to the orange bed,bedroom,FloorPlan326_006
+Medium,Place the pillow from the blue bed onto the orange bed and adjust the bedding,bedroom,FloorPlan326_006
+Complex,"Retrieve the alarm clock from the nightstand, set it, and place it back on the nightstand between the two beds",bedroom,FloorPlan326_006
+Simple,Pick up the pen and place it in the drawer of the desk,bedroom,FloorPlan327_001
+Medium,"Open the laptop, pick up the cell phone from the desk, and place it on the side table",bedroom,FloorPlan327_001
+Complex,"Retrieve the book from the desk, open the shelf, place the book inside, then close the shelf and organize the CD and pencil on the desk",bedroom,FloorPlan327_001
+Simple,Pick up the credit card from the nightstand and place it on the shelf above the bed,bedroom,FloorPlan327_002
+Medium,"Open the drawer of the nightstand, retrieve the keychain, and place it on the bed next to the pillow",bedroom,FloorPlan327_002
+Complex,"Move the alarm clock from the nightstand to the side table, then open the drawer, take out any small object inside, and place it on the shelf",bedroom,FloorPlan327_002
+Simple,Place the basketball on top of the wooden shelf,bedroom,FloorPlan327_003
+Medium,Pick up the boots and place them neatly beside the drawer,bedroom,FloorPlan327_003
+Complex,"Retrieve the book from the desk, open it, and place it on the shelf next to the CD",bedroom,FloorPlan327_003
+Simple,Move the trash can to the corner near the door,bedroom,FloorPlan327_004
+Medium,Retrieve the baseball bat from the floor and place it against the wall beside the mirror,bedroom,FloorPlan327_004
+Complex,"Pick up the bed's pillow, carry it to the center of the room, and place it neatly on the floor in front of the door",bedroom,FloorPlan327_004
+Simple,Pick up the pen from the desk and place it in the drawer.,bedroom,FloorPlan328_001
+Medium,"Open the tissue box, take out a tissue, and place it on the side table next to the bed.",bedroom,FloorPlan328_001
+Complex,"Turn on the lamp, pick up the book from the desk, open it, and then place it on the shelf beside the laptop.",bedroom,FloorPlan328_001
+Simple,Pick up the teddy bear from the bed and place it on the floor near the plant,bedroom,FloorPlan328_002
+Medium,Move the potted plant to the left side of the bed and adjust its position so it faces the window,bedroom,FloorPlan328_002
+Complex,"Retrieve the net from the floor, use it to gently scoop up the teddy bear, and place the bear on the bed's headboard",bedroom,FloorPlan328_002
+Simple,Turn on the desk lamp and place the credit card into the mug on the desk,bedroom,FloorPlan328_003
+Medium,"Pick up the pencil from the desk, place it in the shelf, then move the laptop slightly to the left side of the desk",bedroom,FloorPlan328_003
+Complex,"Retrieve the book from the desk, open the shelf, place the book inside, close the shelf, and then turn off the desk lamp",bedroom,FloorPlan328_003
+Simple,Pick up the CD from the side table and place it in the drawer.,bedroom,FloorPlan328_004
+Medium,Move the pillow from the bed to the chair and arrange it neatly.,bedroom,FloorPlan328_004
+Complex,"Open the drawer, retrieve the remote control, place it on the desk, then turn on the lamp and adjust its brightness.",bedroom,FloorPlan328_004
+Simple,Pick up the plate from the bed and place it on the nightstand.,bedroom,FloorPlan329_001
+Medium,Turn on the lamp on the left nightstand and then adjust the blinds to let in more sunlight.,bedroom,FloorPlan329_001
+Complex,"Retrieve the alarm clock from the right nightstand, set it to a new time, and return it to the same spot.",bedroom,FloorPlan329_001
+Simple,Move the box from the floor to the top of the garbage can,bedroom,FloorPlan329_002
+Medium,"Pick up the box and place it inside the garbage can, then clean the floor around it",bedroom,FloorPlan329_002
+Complex,"Open the box if possible, retrieve any contents inside, and dispose of the empty box in the garbage can",bedroom,FloorPlan329_002
+Simple,Pick up the pillow from the bed and place it neatly at the head of the bed.,bedroom,FloorPlan329_003
+Medium,"Retrieve the mug from the side table, fill it with water from the nearby sink, and place it back on the table.",bedroom,FloorPlan329_003
+Complex,"Turn on the desk lamp, adjust the pillow position for comfort, then pick up the mug and place it on the nightstand beside the bed.",bedroom,FloorPlan329_003
+Simple,Pick up the pencil from the desk and place it in the pen holder on the desk.,bedroom,FloorPlan329_004
+Medium,"Gather the keychain, credit card, and pen from the desk and place them neatly in a small tray beside the laptop.",bedroom,FloorPlan329_004
+Complex,"Open the book titled 'THE PLOT' on the desk, flip to the first page, then close it and place it upright on the left side of the desk next to the laptop.",bedroom,FloorPlan329_004
+Simple,Pick up the pen and place it in the drawer of the dresser,bedroom,FloorPlan330_001
+Medium,Move the laptop to the left side of the dresser and open it,bedroom,FloorPlan330_001
+Complex,"Pick up the statue, place it on the top shelf of the dresser, then close the drawer beneath the plant",bedroom,FloorPlan330_001
+Simple,Place the red book from the shelf onto the dresser.,bedroom,FloorPlan330_002
+Medium,Pick up the bowl from the shelf and place it on top of the dresser next to the vase.,bedroom,FloorPlan330_002
+Complex,"Retrieve the vase from the top shelf, carry it to the dresser, and carefully place it beside the boots.",bedroom,FloorPlan330_002
+Simple,Make the bed by pulling the blanket over the mattress and smoothing it out,bedroom,FloorPlan330_003
+Medium,Pick up the pillow from the floor and place it neatly on the bed,bedroom,FloorPlan330_003
+Complex,"Retrieve the remote control from the nightstand, turn on the lamp beside the bed, and adjust the blanket to cover the entire bed evenly",bedroom,FloorPlan330_003
+Simple,Make the bed by pulling up the blanket and arranging the pillows neatly,bedroom,FloorPlan330_004
+Medium,Move the nightstand lamp to the center of the bedside table and turn it on,bedroom,FloorPlan330_004
+Complex,"Retrieve a pillow from the floor, place it on the bed, then adjust the blanket and fluff the pillows for a tidy appearance",bedroom,FloorPlan330_004

@@ -1,0 +1,21 @@
+{
+    "scene_name": "FloorPlan223",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan223_001.jpg",
+    "agent_position": [
+        -0.5,
+        0.9009991884231567,
+        0.0
+    ],
+    "agent_rotation": 90.0,
+    "visible_objects": [
+        {
+            "objectType": "DiningTable",
+            "objectId": "DiningTable|+01.88|+00.00|-00.29"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        }
+    ]
+}

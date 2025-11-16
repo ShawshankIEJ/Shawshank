@@ -1,0 +1,21 @@
+{
+    "scene_name": "FloorPlan306",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan306_001.jpg",
+    "agent_position": [
+        2.5,
+        0.9009991884231567,
+        0.5
+    ],
+    "agent_rotation": 180.0,
+    "visible_objects": [
+        {
+            "objectType": "Bed",
+            "objectId": "Bed|+02.29|+00.01|-01.06"
+        },
+        {
+            "objectType": "Pillow",
+            "objectId": "Pillow|+03.13|+00.84|-00.94"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "scene_name": "FloorPlan410",
+    "scene_number": 4,
+    "image_filename": "saved_scenes/FloorPlan410_004.jpg",
+    "agent_position": [
+        -2.5,
+        0.9003945589065552,
+        2.75
+    ],
+    "agent_rotation": 0.0,
+    "visible_objects": [
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|-03.84|+00.30|+03.13"
+        },
+        {
+            "objectType": "GarbageCan",
+            "objectId": "GarbageCan|-01.12|-00.04|+03.60"
+        }
+    ]
+}

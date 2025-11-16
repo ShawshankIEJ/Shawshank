@@ -1,0 +1,17 @@
+{
+    "scene_name": "FloorPlan311",
+    "scene_number": 3,
+    "image_filename": "saved_scenes/FloorPlan311_003.jpg",
+    "agent_position": [
+        1.0,
+        0.9101201295852661,
+        4.25
+    ],
+    "agent_rotation": 270.0,
+    "visible_objects": [
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        }
+    ]
+}

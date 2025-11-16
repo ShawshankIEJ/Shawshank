@@ -1,0 +1,37 @@
+{
+    "scene_name": "FloorPlan216",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan216_001.jpg",
+    "agent_position": [
+        -2.5,
+        0.9009991884231567,
+        -0.5
+    ],
+    "agent_rotation": 270.0,
+    "visible_objects": [
+        {
+            "objectType": "Box",
+            "objectId": "Box|-03.78|+01.30|+00.46"
+        },
+        {
+            "objectType": "Chair",
+            "objectId": "Chair|-03.83|+00.00|-00.22"
+        },
+        {
+            "objectType": "CreditCard",
+            "objectId": "CreditCard|-03.66|+01.06|+00.06"
+        },
+        {
+            "objectType": "DiningTable",
+            "objectId": "DiningTable|-03.94|+00.01|+00.26"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "Newspaper",
+            "objectId": "Newspaper|-04.00|+01.06|-00.03"
+        }
+    ]
+}

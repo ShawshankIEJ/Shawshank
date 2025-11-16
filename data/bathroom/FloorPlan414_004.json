@@ -1,0 +1,105 @@
+{
+    "scene_name": "FloorPlan414",
+    "scene_number": 4,
+    "image_filename": "saved_scenes/FloorPlan414_004.jpg",
+    "agent_position": [
+        -1.75,
+        0.9027520418167114,
+        2.25
+    ],
+    "agent_rotation": 270.0,
+    "visible_objects": [
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-02.41|+00.37|+02.86"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-02.41|+00.37|+02.91"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-02.41|+00.37|+01.59"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-02.41|+02.02|+02.91"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-02.41|+01.26|+02.91"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-02.41|+00.37|+02.04"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-02.41|+00.37|+03.57"
+        },
+        {
+            "objectType": "Candle",
+            "objectId": "Candle|-02.36|+01.20|+01.46"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|-02.69|+00.97|+02.26"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|-02.61|+01.24|+01.46"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-02.64|+00.77|+03.24"
+        },
+        {
+            "objectType": "Faucet",
+            "objectId": "Faucet|-02.93|+00.98|+02.23"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|-00.99|00.00|+01.80"
+        },
+        {
+            "objectType": "HandTowel",
+            "objectId": "HandTowel|-02.70|+01.52|+02.87"
+        },
+        {
+            "objectType": "HandTowelHolder",
+            "objectId": "HandTowelHolder|-02.70|+01.62|+02.91"
+        },
+        {
+            "objectType": "Mirror",
+            "objectId": "Mirror|-02.97|+01.61|+02.27"
+        },
+        {
+            "objectType": "Sink",
+            "objectId": "Sink|-02.72|+00.86|+02.23"
+        },
+        {
+            "objectType": "SinkBasin",
+            "objectId": "Sink|-02.72|+00.86|+02.23|SinkBasin"
+        },
+        {
+            "objectType": "SoapBar",
+            "objectId": "SoapBar|-02.82|+00.92|+01.78"
+        },
+        {
+            "objectType": "SoapBottle",
+            "objectId": "SoapBottle|-02.86|+00.92|+02.66"
+        },
+        {
+            "objectType": "Toilet",
+            "objectId": "Toilet|-02.58|+00.03|+00.66"
+        },
+        {
+            "objectType": "ToiletPaper",
+            "objectId": "ToiletPaper|-02.93|+01.20|+01.46"
+        },
+        {
+            "objectType": "ToiletPaper",
+            "objectId": "ToiletPaper|-02.54|+01.19|+01.45"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "scene_name": "FloorPlan413",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan413_001.jpg",
+    "agent_position": [
+        -0.75,
+        0.9006911516189575,
+        1.5
+    ],
+    "agent_rotation": 0.0,
+    "visible_objects": [
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-01.61|+00.31|+02.49"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|-01.80|+00.75|+03.12"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|-02.00|+00.81|+00.77"
+        },
+        {
+            "objectType": "Sink",
+            "objectId": "Sink|-01.83|+00.69|+02.78"
+        },
+        {
+            "objectType": "SinkBasin",
+            "objectId": "Sink|-01.83|+00.69|+02.78|SinkBasin"
+        },
+        {
+            "objectType": "ToiletPaperHanger",
+            "objectId": "ToiletPaperHanger|-01.78|+00.68|+02.47"
+        }
+    ]
+}

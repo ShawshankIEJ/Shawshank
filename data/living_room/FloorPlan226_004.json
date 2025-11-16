@@ -1,0 +1,49 @@
+{
+    "scene_name": "FloorPlan226",
+    "scene_number": 4,
+    "image_filename": "saved_scenes/FloorPlan226_004.jpg",
+    "agent_position": [
+        -0.75,
+        0.9009991884231567,
+        -1.0
+    ],
+    "agent_rotation": 0.0,
+    "visible_objects": [
+        {
+            "objectType": "CoffeeTable",
+            "objectId": "CoffeeTable|-00.71|+00.00|-00.37"
+        },
+        {
+            "objectType": "CreditCard",
+            "objectId": "CreditCard|-01.16|+00.54|-00.60"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-00.72|+00.23|-00.56"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-00.71|+00.39|-00.56"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-00.71|+00.07|-00.56"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "HousePlant",
+            "objectId": "HousePlant|-00.56|+00.55|-00.35"
+        },
+        {
+            "objectType": "KeyChain",
+            "objectId": "KeyChain|-01.16|+00.55|-00.12"
+        },
+        {
+            "objectType": "Laptop",
+            "objectId": "Laptop|-00.98|+00.54|-00.37"
+        }
+    ]
+}

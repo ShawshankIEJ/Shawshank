@@ -1,0 +1,387 @@
+Simple,Move to the sofa and adjust its position slightly to the left for better alignment with the room layout,living_room,FloorPlan201_001
+Medium,Retrieve the remote control from the coffee table and place it on the armrest of the sofa,living_room,FloorPlan201_001
+Complex,"Turn on the television, adjust the volume using the remote control, and then place the remote on the side table next to the sofa",living_room,FloorPlan201_001
+Simple,Move the pillow from the sofa to the armchair for better seating comfort.,living_room,FloorPlan201_002
+Medium,Arrange the chairs around the dining table so they are evenly spaced and properly aligned.,living_room,FloorPlan201_002
+Complex,"Retrieve the laptop from the dining table, place it on the sofa, and open it to check for any notifications.",living_room,FloorPlan201_002
+Simple,Pick up the newspaper from the dining table and place it on the desk.,living_room,FloorPlan201_003
+Medium,Gather all pens and pencils from the dining table and organize them in a pen holder on the desk.,living_room,FloorPlan201_003
+Complex,"Retrieve the laptop from the dining table, move it to the chair near the desk, open it, and then place the book beside it on the desk.",living_room,FloorPlan201_003
+Simple,Move the laptop from the dining table to the sofa and place it on the cushion.,living_room,FloorPlan201_004
+Medium,Gather all chairs around the dining table and ensure they are properly aligned for seating.,living_room,FloorPlan201_004
+Complex,"Retrieve the plant from the corner, place it on the dining table, then adjust the laptop's position to face the plant.",living_room,FloorPlan201_004
+Simple,Adjust the position of the statue to face the painting on the wall,living_room,FloorPlan201_005
+Medium,Water the houseplant using a nearby watering can and place it back on the floor,living_room,FloorPlan201_005
+Complex,"Remove the painting from the wall, clean its surface with a cloth, and rehang it at a slightly higher position",living_room,FloorPlan201_005
+Simple,Move the houseplant from the coffee table to the corner near the window,living_room,FloorPlan202_001
+Medium,Place a book from the TV stand onto the coffee table and arrange it neatly,living_room,FloorPlan202_001
+Complex,"Retrieve the laptop from the striped sofa, place it on the coffee table, and then turn on the floor lamp to provide better lighting",living_room,FloorPlan202_001
+Simple,Move the houseplant from the floor to the coffee table,living_room,FloorPlan202_002
+Medium,Pick up the book from the TV stand and place it on the coffee table,living_room,FloorPlan202_002
+Complex,"Turn on the floor lamp, then move the houseplant to the corner near the lamp for better lighting",living_room,FloorPlan202_002
+Simple,Move the houseplant from the coffee table to the TV stand,living_room,FloorPlan202_003
+Medium,Pick up the book from the TV stand and place it on the sofa beside the purple pillow,living_room,FloorPlan202_003
+Complex,"Retrieve the cardboard box from the side table, open it, and place the houseplant inside before moving the box to the corner near the door",living_room,FloorPlan202_003
+Simple,Pick up the book from the TV stand and place it on the shelf in the corner.,living_room,FloorPlan202_004
+Medium,Retrieve the keychain from the TV stand and hang it on the hook near the door.,living_room,FloorPlan202_004
+Complex,"Take the watch from the TV stand, clean it with a cloth from the drawer under the TV stand, and then place it back on the table.",living_room,FloorPlan202_004
+Simple,Move the houseplant to the corner near the window and adjust its position for better lighting,living_room,FloorPlan202_005
+Medium,Retrieve the laptop from the striped armchair and place it on the coffee table in front of the sofa,living_room,FloorPlan202_005
+Complex,"Open the cardboard box on the side table, remove the small figurine inside, and place it on the couch cushion next to the purple pillow",living_room,FloorPlan202_005
+Simple,Place the statue inside the open box on the side table,living_room,FloorPlan202_006
+Medium,Move the box to the shelf and place it securely on top,living_room,FloorPlan202_006
+Complex,"Retrieve the statue from the side table, place it on the shelf, and then close the box if possible",living_room,FloorPlan202_006
+Simple,Pick up the laptop from the armchair and place it on the sofa.,living_room,FloorPlan202_007
+Medium,Move the laptop to the center of the armchair and open it.,living_room,FloorPlan202_007
+Complex,"Pick up the laptop, move it to the sofa, open it, and then turn it on.",living_room,FloorPlan202_007
+Simple,Pick up the green pillow from the sofa and place it neatly on the opposite side of the couch,living_room,FloorPlan203_001
+Medium,"Move to the coffee table, pick up the laptop, open it, and place it on the nearby desk for use",living_room,FloorPlan203_001
+Complex,"Retrieve the remote control from the sofa, walk to the TV, turn it on, and then adjust the volume using the remote",living_room,FloorPlan203_001
+Simple,Retrieve the boots from the floor near the wall and place them neatly by the door.,living_room,FloorPlan203_002
+Medium,Ascend the staircase and open the door at the top to check if any items need to be retrieved.,living_room,FloorPlan203_002
+Complex,"Pick up the green trash bin from the base of the stairs, carry it to the kitchen area, and empty its contents into the kitchen waste disposal unit.",living_room,FloorPlan203_002
+Simple,Pick up the red cloth from the sofa and place it neatly on the side table.,living_room,FloorPlan203_003
+Medium,"Move to the dining table, pick up the yellow napkin, fold it, and place it at the center of the table.",living_room,FloorPlan203_003
+Complex,"Retrieve the potted plant from the side table, move it to the corner near the window, and adjust its position for better lighting.",living_room,FloorPlan203_003
+Simple,"Move to the coffee table and pick up the remote control, then place it on the armchair.",living_room,FloorPlan203_004
+Medium,"Retrieve the green pillow from the couch, carry it to the bookshelf area, and place it neatly beside the fireplace.",living_room,FloorPlan203_004
+Complex,"Navigate to the dining area, pick up a chair, move it closer to the table, then return to the living room and adjust the position of the ottoman for better seating comfort.",living_room,FloorPlan203_004
+Simple,Pick up the remote control from the sofa and place it on the coffee table,living_room,FloorPlan203_005
+Medium,Close the laptop on the coffee table and move it to the drawer for storage,living_room,FloorPlan203_005
+Complex,"Retrieve the watch from the floor, clean it with a cloth from the nearby drawer, and place it back on the coffee table",living_room,FloorPlan203_005
+Simple,Pick up the watering can and place it under the houseplant on the side table,living_room,FloorPlan203_006
+Medium,"Open the drawer, retrieve the credit card, and place it back into the tissue box",living_room,FloorPlan203_006
+Complex,"Move the tissue box to the floor, open the drawer, take out the credit card, then place the card inside the tissue box and return the box to the side table",living_room,FloorPlan203_006
+Simple,Pick up the cell phone from the dining table and place it on the chair next to it,living_room,FloorPlan203_007
+Medium,Move the vase to the center of the dining table and arrange the plate and bowl neatly around it,living_room,FloorPlan203_007
+Complex,"Pick up the book from the table, open it, then place it upright on the edge of the table beside the pencil and close it after reading",living_room,FloorPlan203_007
+Simple,Move to the chair and adjust its position so it faces the center of the room,living_room,FloorPlan203_008
+Medium,Retrieve the boots from near the door and place them neatly inside the closet,living_room,FloorPlan203_008
+Complex,"Pick up the green recycling bin, move it to the corner of the room, and ensure it is properly aligned with the wall",living_room,FloorPlan203_008
+Simple,Walk up the stairs to the second floor,living_room,FloorPlan203_009
+Medium,Open the door at the top of the stairs and check if the room is accessible,living_room,FloorPlan203_009
+Complex,"Retrieve a flashlight from the hallway closet, turn it on, and use it to inspect the area under the staircase",living_room,FloorPlan203_009
+Simple,Place the statue on the coffee table and arrange it neatly,living_room,FloorPlan204_001
+Medium,Pick up the box from the coffee table and move it to the floor near the sofa,living_room,FloorPlan204_001
+Complex,"Move the statue to the center of the coffee table, open the box, and place the statue inside it before closing the box",living_room,FloorPlan204_001
+Simple,Place the blue vase on the bottom shelf next to the gray vase,living_room,FloorPlan204_002
+Medium,Move the golden horse statue from the middle shelf to the top shelf and arrange it neatly,living_room,FloorPlan204_002
+Complex,"Retrieve the yellow vase from the top shelf, place it on the floor beside the window, then return it to the second shelf while ensuring all other vases remain undisturbed",living_room,FloorPlan204_002
+Simple,Place the blue bowl from the shelf onto the table in the dining room,living_room,FloorPlan204_003
+Medium,Retrieve the seashell from the top shelf and place it on the dining table as a decorative item,living_room,FloorPlan204_003
+Complex,"Move the seashell from the top shelf to the dining table, then arrange the chairs around the table for a formal setting",living_room,FloorPlan204_003
+Simple,Pick up the credit card from the desk and place it in the drawer.,living_room,FloorPlan204_004
+Medium,"Turn on the desk lamp, then move the laptop to the left side of the desk and close the lid.",living_room,FloorPlan204_004
+Complex,"Open the drawer beneath the desk, retrieve the keychain, and place it on the shelf near the living room area.",living_room,FloorPlan204_004
+Simple,Move to the dining table and place a potted plant on the center of the table,living_room,FloorPlan204_005
+Medium,Push one of the chairs under the table and then adjust the position of the rug beneath it,living_room,FloorPlan204_005
+Complex,"Retrieve the potted plant from the table, move to the wall, and place it on the floor next to the painting for better aesthetic balance",living_room,FloorPlan204_005
+Simple,Move the armchair closer to the fireplace for better seating comfort,living_room,FloorPlan205_001
+Medium,Turn on the lamp on the side table and adjust the curtains to let in more light,living_room,FloorPlan205_001
+Complex,"Pick up the laptop from the dining table, move it to the armchair, and open it for use",living_room,FloorPlan205_001
+Simple,Move the cushion from the sofa to the armchair,living_room,FloorPlan205_002
+Medium,Retrieve the remote control from the TV stand and place it on the coffee table,living_room,FloorPlan205_002
+Complex,Arrange the two armchairs symmetrically around the coffee table and adjust the rug alignment,living_room,FloorPlan205_002
+Simple,Pick up the remote control from the TV stand and place it on the side table.,living_room,FloorPlan205_003
+Medium,"Open the drawer in the dresser, retrieve the box, and place it on the side table next to the credit card.",living_room,FloorPlan205_003
+Complex,"Retrieve the watch from the side table, place it inside the open drawer of the dresser, then close the drawer and turn on the television using the remote control.",living_room,FloorPlan205_003
+Simple,Move the blue recycling bin closer to the fireplace for better room organization,living_room,FloorPlan205_004
+Medium,Place the potted plant from the side table onto the mantle of the fireplace to enhance decor,living_room,FloorPlan205_004
+Complex,"Turn on the lamp on the side table, then move the teapot from the floor to the table and place it beside the lamp",living_room,FloorPlan205_004
+Simple,Pick up the blue pillow from the sofa and place it on the left cushion.,living_room,FloorPlan206_001
+Medium,Move the pillow to the center of the sofa and adjust the sofa cushions for a neat appearance.,living_room,FloorPlan206_001
+Complex,"Retrieve the pillow, reposition it symmetrically on the sofa, and ensure the surrounding area is tidy by checking for any clutter near the floor lamp.",living_room,FloorPlan206_001
+Simple,Pick up the bowl from the coffee table and place it on the TV stand.,living_room,FloorPlan206_002
+Medium,Move the statue from the coffee table to the shelf on the right side of the room.,living_room,FloorPlan206_002
+Complex,"Retrieve the magazine from the coffee table, open the TV stand drawer, place the magazine inside, and close the drawer.",living_room,FloorPlan206_002
+Simple,Move the statue from the desk to the shelf on the left side of the room,living_room,FloorPlan206_003
+Medium,Pick up the vase from the desk and place it on the lower shelf beneath the TV stand,living_room,FloorPlan206_003
+Complex,"Open the cabinet, retrieve the cleaning cloth inside, wipe the laptop screen, and then return the cloth to its original position",living_room,FloorPlan206_003
+Simple,Pick up the box from the floor and place it on the TV stand.,living_room,FloorPlan207_001
+Medium,"Open the cabinet door under the TV stand and retrieve the remote control, then place it on the TV stand.",living_room,FloorPlan207_001
+Complex,"Move to the TV stand, open the cabinet door, pick up the decorative dog figurine, place it on the floor near the box, and then close the cabinet door.",living_room,FloorPlan207_001
+Simple,Pick up the box from the coffee table and place it on the shelf in the cabinet.,living_room,FloorPlan207_002
+Medium,"Open the laptop on the coffee table, then close it and move it to the armchair beside the sofa.",living_room,FloorPlan207_002
+Complex,"Retrieve the paper stack from the coffee table, fold it neatly, and place it inside the drawer of the cabinet.",living_room,FloorPlan207_002
+Simple,Move the houseplant from the floor to the side table,living_room,FloorPlan207_003
+Medium,Arrange the two armchairs to face each other and place a decorative pillow on one of them,living_room,FloorPlan207_003
+Complex,"Pick up the houseplant, move it to the corner near the door, and place it on the floor to enhance the room's ambiance",living_room,FloorPlan207_003
+Simple,Pick up the pillow from the sofa and place it neatly on the armrest,living_room,FloorPlan208_001
+Medium,"Move to the piano, open the lid, and place a music book on the stand",living_room,FloorPlan208_001
+Complex,"Retrieve the remote control from the chair, walk to the TV stand, and turn on the television",living_room,FloorPlan208_001
+Simple,Move the laptop from the dining table to the chair on the left side,living_room,FloorPlan208_002
+Medium,Pick up the statue from the table and place it on the floor near the door,living_room,FloorPlan208_002
+Complex,"Open the laptop, move it to the center of the table, then close it and push it slightly toward the back of the table",living_room,FloorPlan208_002
+Simple,Move to the armchair and adjust its position slightly forward,living_room,FloorPlan208_003
+Medium,"Open the drawer, retrieve the book inside, and place it on the side table",living_room,FloorPlan208_003
+Complex,"Retrieve the plant from atop the piano, move it to the side table, and then close the drawer if it was left open",living_room,FloorPlan208_003
+Simple,"Move to the dining table and pick up the laptop, then place it on the sofa.",living_room,FloorPlan208_004
+Medium,"Retrieve the red object from the shelf, carry it to the dining table, and place it next to the laptop.",living_room,FloorPlan208_004
+Complex,"Open the closet door, take out the folded blanket, bring it to the sofa, and spread it over the seating area.",living_room,FloorPlan208_004
+Simple,Clean the fireplace hearth with a cloth and ensure it is free of dust,living_room,FloorPlan209_001
+Medium,Place a decorative vase on the mantel shelf and adjust its position for symmetry,living_room,FloorPlan209_001
+Complex,"Retrieve a fire log from the storage area, place it inside the fireplace, and light it using a match",living_room,FloorPlan209_001
+Simple,Place the watch on the coffee table next to the laptop,living_room,FloorPlan209_002
+Medium,Move the credit card from the coffee table to the shelf and place it inside the box,living_room,FloorPlan209_002
+Complex,"Pick up the laptop, carry it to the shelf, place it on the shelf, then retrieve the vase and put it on the coffee table",living_room,FloorPlan209_002
+Simple,Pick up the laptop from the coffee table and place it on the sofa.,living_room,FloorPlan209_003
+Medium,Move the vase from the side table to the center of the coffee table.,living_room,FloorPlan209_003
+Complex,"Retrieve the figurine from the small table, place it on the cabinet, then turn on the lamp beside the cabinet.",living_room,FloorPlan209_003
+Simple,Close the left door to block the sunlight from entering the room,living_room,FloorPlan209_004
+Medium,Move to the center of the room and open both doors to allow natural light to fill the space,living_room,FloorPlan209_004
+Complex,"Open both doors, then move to the right side of the room and close the right door while leaving the left one open for ventilation",living_room,FloorPlan209_004
+Simple,"Move to the coffee table and pick up the remote control, then place it on the TV stand.",living_room,FloorPlan210_001
+Medium,"Retrieve the laptop from the couch, open it, and place it on the ottoman for use.",living_room,FloorPlan210_001
+Complex,"Take the decorative pillow from the sofa, move it to the armchair, and arrange it neatly before turning on the floor lamp nearby.",living_room,FloorPlan210_001
+Simple,Turn on the desk lamp and adjust its position slightly closer to the chair,living_room,FloorPlan210_002
+Medium,Move the side table near the armchair and place the decorative figurine on it,living_room,FloorPlan210_002
+Complex,"Pick up the book from the side table, place it on the armchair, then turn off the desk lamp and move the chair closer to the center of the room",living_room,FloorPlan210_002
+Simple,"Move to the couch and pick up the laptop, then place it on the ottoman.",living_room,FloorPlan210_003
+Medium,"Turn on the floor lamp, then move to the couch and pick up the book, placing it on the coffee table.",living_room,FloorPlan210_003
+Complex,"Retrieve the remote from the couch, turn on the TV if available, and adjust the volume using the remote.",living_room,FloorPlan210_003
+Simple,Move the potted plant from the floor to the wooden cabinet.,living_room,FloorPlan210_004
+Medium,Pick up the teapot from the cabinet and place it on the floor near the window.,living_room,FloorPlan210_004
+Complex,"Open the curtains, move the vase with the plant to the center of the room, then place the teapot on top of the vase.",living_room,FloorPlan210_004
+Simple,Turn on the floor lamp to brighten the room,living_room,FloorPlan211_001
+Medium,Pick up the pillow from the couch and place it neatly on the left side of the sofa,living_room,FloorPlan211_001
+Complex,"Move to the side table, pick up the remote control, and place it on the couch cushion for easy access",living_room,FloorPlan211_001
+Simple,"Move to the cardboard box and pick it up, then place it in the corner near the window",living_room,FloorPlan211_002
+Medium,Pick up the potted plant from the floor and place it on the sofa for better visibility,living_room,FloorPlan211_002
+Complex,"Retrieve the garbage can from its current position, move it to the center of the room, and open it to prepare for waste disposal",living_room,FloorPlan211_002
+Simple,Move the armchair closer to the TV stand for better viewing.,living_room,FloorPlan211_003
+Medium,Clear the floor area by moving the garbage can to a more accessible location near the wall.,living_room,FloorPlan211_003
+Complex,Adjust the television's position on the stand and ensure the cable is neatly tucked behind it for a cleaner look.,living_room,FloorPlan211_003
+Simple,Place the blue vase from the shelf onto the TV stand,living_room,FloorPlan211_004
+Medium,Move the decorative bird figurine from the top shelf to the side table next to the lamp,living_room,FloorPlan211_004
+Complex,"Retrieve the small object from the bottom shelf, place it on the TV stand, and then adjust the lamp shade slightly upward",living_room,FloorPlan211_004
+Simple,Pick up the red cushion from the sofa and place it on the left armchair.,living_room,FloorPlan212_001
+Medium,Retrieve the remote control from the sofa and place it on the side table next to the lamp.,living_room,FloorPlan212_001
+Complex,"Move the red cushion to the center of the sofa, then adjust the position of the two armchairs to create a symmetrical seating arrangement around the sofa.",living_room,FloorPlan212_001
+Simple,Pick up the laptop from the coffee table and place it on the sofa.,living_room,FloorPlan212_002
+Medium,Move the coffee table slightly to the left and adjust the sofa cushion for better seating comfort.,living_room,FloorPlan212_002
+Complex,"Retrieve the laptop from the coffee table, open it, and then position it on the sofa while ensuring the screen is facing upward for use.",living_room,FloorPlan212_002
+Simple,Pick up the vase from the left shelf and place it on the right shelf.,living_room,FloorPlan212_003
+Medium,Move the cardboard box from the right shelf to the floor and open it to check its contents.,living_room,FloorPlan212_003
+Complex,"Retrieve the golden horse figurine from the right shelf, clean it with a cloth if available, and place it on the mantle above the fireplace.",living_room,FloorPlan212_003
+Simple,Move the statue from the floor to the coffee table,living_room,FloorPlan213_001
+Medium,"Open the box and place the statue inside it, then close the box",living_room,FloorPlan213_001
+Complex,"Pick up the statue, move it to the center of the rug, place it on the floor, and then push the coffee table slightly closer to the windows",living_room,FloorPlan213_001
+Simple,Move the laptop from the desk to the side table,living_room,FloorPlan213_002
+Medium,Turn on the TV and adjust the volume using the remote control,living_room,FloorPlan213_002
+Complex,"Pick up the laptop, place it on the side table, then turn on the TV and set the display to full screen mode",living_room,FloorPlan213_002
+Simple,Move the statue from the coffee table to the center of the rug,living_room,FloorPlan213_003
+Medium,Open the box on the coffee table and place its contents neatly beside it,living_room,FloorPlan213_003
+Complex,"Pick up the statue, move it to the corner near the window, and place it on the floor next to the red trash bin",living_room,FloorPlan213_003
+Simple,Pick up the remote control from the side table and place it on the other side table.,living_room,FloorPlan213_004
+Medium,Move the houseplant to the center of the room and place it on the floor.,living_room,FloorPlan213_004
+Complex,"Open the book on the side table, read a few pages, then close it and return it to its original position.",living_room,FloorPlan213_004
+Simple,Move the purple cushion from the sofa to the armchair next to it,living_room,FloorPlan214_001
+Medium,Open the curtains on the left window and adjust the floor lamp to face the sofa,living_room,FloorPlan214_001
+Complex,"Retrieve the remote control from the side table, turn on the television, and place the remote on the center of the sofa",living_room,FloorPlan214_001
+Simple,Pick up the keychain from the side table and place it on the sofa.,living_room,FloorPlan214_002
+Medium,Turn on the desk lamp and adjust the curtains to let in more light.,living_room,FloorPlan214_002
+Complex,"Move the keychain from the side table to the shelf, then turn off the desk lamp and close the curtains slightly for privacy.",living_room,FloorPlan214_002
+Simple,Move the bowl from the coffee table to the shelf on the left wall,living_room,FloorPlan214_003
+Medium,Water the houseplant using the watering can from the shelf and place it back,living_room,FloorPlan214_003
+Complex,"Retrieve the small decorative statue from the shelf, place it on the coffee table, and then arrange the houseplant to face the television",living_room,FloorPlan214_003
+Simple,Adjust the painting on the wall to ensure it is centered and straight,living_room,FloorPlan214_004
+Medium,Move the armchair slightly closer to the wall and align it with the painting,living_room,FloorPlan214_004
+Complex,"Remove the painting from the wall, clean its surface gently, and rehang it at a higher position for better visibility",living_room,FloorPlan214_004
+Simple,Move the laptop from the coffee table to the sofa for better viewing.,living_room,FloorPlan215_001
+Medium,Pick up the bowl from the coffee table and place it on the side table next to the lamp.,living_room,FloorPlan215_001
+Complex,"Retrieve the laptop from the coffee table, open it, and then position it on the sofa while ensuring the screen faces forward.",living_room,FloorPlan215_001
+Simple,Pick up the banana from the shelf and place it on the top of the table,living_room,FloorPlan215_002
+Medium,Move the small statue from the top of the table to the lower shelf and arrange it beside the egg,living_room,FloorPlan215_002
+Complex,"Retrieve the wooden figurine from the top shelf, clean it with a cloth, and then place it on the bookshelf in the living room",living_room,FloorPlan215_002
+Simple,Place the blue vase from the shelf onto the coffee table,living_room,FloorPlan215_003
+Medium,Move the potted plant from the top shelf to the windowsill and arrange it neatly,living_room,FloorPlan215_003
+Complex,"Pick up the green bowl from the shelf, place it on the coffee table, then open the TV stand drawer and store a decorative item inside",living_room,FloorPlan215_003
+Simple,Pick up the watch from the coffee table and place it on the side table near the lamp,living_room,FloorPlan215_004
+Medium,Move the bowl from the coffee table to the bookshelf and arrange it neatly on the top shelf,living_room,FloorPlan215_004
+Complex,"Retrieve the laptop from the coffee table, open it, then move it to the striped sofa and position it for use",living_room,FloorPlan215_004
+Simple,Pick up the credit card from the dining table and place it on the chair.,living_room,FloorPlan216_001
+Medium,"Open the box on the dining table, remove the newspaper inside, and fold it neatly before placing it on the floor.",living_room,FloorPlan216_001
+Complex,"Move the chair closer to the dining table, pick up the box, carry it to the corner of the room, and place it next to the lamp stand.",living_room,FloorPlan216_001
+Simple,Pick up the remote control from the sofa and place it on the side table.,living_room,FloorPlan216_002
+Medium,"Open the laptop on the sofa, adjust its position for better viewing, and then close it after use.",living_room,FloorPlan216_002
+Complex,"Retrieve the blanket from the armchair, fold it neatly, and place it on the sofa beside the laptop.",living_room,FloorPlan216_002
+Simple,Move the tissue box to the left side of the table and place it neatly beside the statue,living_room,FloorPlan216_003
+Medium,Pick up the vase from the table and place it on the shelf to the left,living_room,FloorPlan216_003
+Complex,"Take the houseplant from the table, move it to the corner near the window, and position it so that it receives maximum sunlight",living_room,FloorPlan216_003
+Simple,Pick up the statue from the floor and place it on the coffee table.,living_room,FloorPlan217_001
+Medium,Move the box from the floor to the side of the couch and arrange it neatly.,living_room,FloorPlan217_001
+Complex,"Retrieve the statue, clean it by wiping it with a cloth from the nearby drawer, then place it on the center of the coffee table for display.",living_room,FloorPlan217_001
+Simple,Place the golden statue on the coffee table and adjust its position for better display,living_room,FloorPlan217_002
+Medium,Move the box from the floor to the top of the coffee table and arrange it neatly,living_room,FloorPlan217_002
+Complex,"Retrieve the statue from the coffee table, place it on the sofa beside the cushion, then return it to the center of the coffee table for a balanced look",living_room,FloorPlan217_002
+Simple,Pick up the remote control from the side table and place it on the armchair.,living_room,FloorPlan217_003
+Medium,Move the watering can from the floor to the side table and turn on the desk lamp.,living_room,FloorPlan217_003
+Complex,"Retrieve the watch from the side table, place it on the armchair, then turn off the desk lamp and move the watering can back to its original position.",living_room,FloorPlan217_003
+Simple,Pick up the purple cushion from the sofa and place it neatly on the armrest.,living_room,FloorPlan218_001
+Medium,"Retrieve the wooden block from the rug, clean it with a cloth from the nearby table, and return it to the center of the rug.",living_room,FloorPlan218_001
+Complex,"Open the cabinet under the TV, retrieve the remote control, bring it to the sofa, and then turn on the television using it.",living_room,FloorPlan218_001
+Simple,Pick up the credit card from the coffee table and place it on the side table near the lamp.,living_room,FloorPlan218_002
+Medium,Move the box from the coffee table to the floor beside the couch and open it to check its contents.,living_room,FloorPlan218_002
+Complex,"Retrieve the banana from the coffee table, take it to the kitchen area, peel it, and place it on a plate before returning it to the living room.",living_room,FloorPlan218_002
+Simple,Adjust the floor lamp to provide better lighting near the chair,living_room,FloorPlan218_003
+Medium,Move the side table closer to the sofa and place the potted plant on it,living_room,FloorPlan218_003
+Complex,"Retrieve a cushion from the sofa, place it on the chair, and arrange the chair facing the window for optimal seating",living_room,FloorPlan218_003
+Simple,Move the laptop from the dining table to the chair beside it,living_room,FloorPlan218_004
+Medium,Arrange all chairs around the dining table in a symmetrical formation,living_room,FloorPlan218_004
+Complex,"Pick up the laptop, place it on the chair closest to the door, then move the chair slightly closer to the table for better access",living_room,FloorPlan218_004
+Simple,Turn on the left lamp and adjust its brightness to create a cozy atmosphere,living_room,FloorPlan219_001
+Medium,Pick up the laptop from the cabinet and place it on the blue armchair for better viewing,living_room,FloorPlan219_001
+Complex,"Open the cabinet, retrieve the tissue box, place it on the coffee table, then turn off both lamps to save energy",living_room,FloorPlan219_001
+Simple,Move the armchair closer to the sofa to create a cozy seating arrangement,living_room,FloorPlan219_002
+Medium,Retrieve the decorative vase from the shelf and place it on the coffee table in front of the sofa,living_room,FloorPlan219_002
+Complex,Reorganize the bookshelf by placing the golden ornament on the top shelf and adjusting the spacing of the shelves for better display,living_room,FloorPlan219_002
+Simple,Place the decorative statue from the shelf onto the side table near the fireplace,living_room,FloorPlan219_003
+Medium,Move the small white box from the floor to the top shelf of the left bookshelf,living_room,FloorPlan219_003
+Complex,"Retrieve the remote control from the couch, place it on the TV stand, and turn on the television",living_room,FloorPlan219_003
+Simple,Open the drawer on the left desk and place the notepad inside,living_room,FloorPlan219_004
+Medium,Turn on the lamp on the right cabinet and adjust its brightness,living_room,FloorPlan219_004
+Complex,"Retrieve the trash bin from the floor, move it to the corner near the door, and empty it into the larger waste container outside",living_room,FloorPlan219_004
+Simple,Pick up the remote control from the coffee table and place it on the couch.,living_room,FloorPlan220_001
+Medium,"Open the box on the floor, retrieve the tissue box inside, and place it on the coffee table.",living_room,FloorPlan220_001
+Complex,"Retrieve the credit card from the coffee table, move to the sideboard, and place it inside the drawer.",living_room,FloorPlan220_001
+Simple,Move the decorative vase from the floor near the chair to the top drawer of the floral dresser,living_room,FloorPlan220_002
+Medium,Retrieve the framed portrait from the wall and place it on the white cabinet beside the TV stand,living_room,FloorPlan220_002
+Complex,"Open the top drawer of the floral dresser, remove the decorative bowl, place it on the TV stand, then close the drawer",living_room,FloorPlan220_002
+Simple,Pick up the pillow from the sofa and place it on the armrest.,living_room,FloorPlan220_003
+Medium,Move the pillow to the center of the sofa and adjust the cushions for a neat appearance.,living_room,FloorPlan220_003
+Complex,"Retrieve the pillow, carry it to the adjacent chair, and place it there before returning to the sofa to straighten the seat cushions.",living_room,FloorPlan220_003
+Simple,Move the garbage can closer to the sofa for easier access,living_room,FloorPlan220_004
+Medium,Pick up the decorative plant and place it on the floor beside the lamp for better lighting,living_room,FloorPlan220_004
+Complex,"Retrieve a book from the nearby shelf, open it, read a few pages, then place it back neatly on the shelf",living_room,FloorPlan220_004
+Simple,Turn on the floor lamp to brighten the room,living_room,FloorPlan221_001
+Medium,Move the green blanket from the sofa to the floor and fold it neatly,living_room,FloorPlan221_001
+Complex,"Adjust the position of the floor lamp so it stands directly beside the sofa, then turn it on to create a cozy reading nook",living_room,FloorPlan221_001
+Simple,Move the purple pillow from the armchair to the side table next to it,living_room,FloorPlan221_002
+Medium,Pick up the pen from the laptop and place it in the drawer under the desk,living_room,FloorPlan221_002
+Complex,"Rearrange the two houseplants by moving the one on the left stool to the right stool and vice versa, then position the statue between them on the floor",living_room,FloorPlan221_002
+Simple,Move the box from the dining table to the floor and open it,living_room,FloorPlan221_003
+Medium,Pick up the statue from the side table and place it inside the box on the dining table,living_room,FloorPlan221_003
+Complex,"Retrieve the laptop from the side table, place it on the dining table, then move the trash can closer to the desk for easier disposal",living_room,FloorPlan221_003
+Simple,Pick up the laptop from the sofa and place it on the coffee table,living_room,FloorPlan222_001
+Medium,Move the blue trash can closer to the fireplace for better access,living_room,FloorPlan222_001
+Complex,"Retrieve the plant from the mantel, water it using a nearby container, and return it to the same spot",living_room,FloorPlan222_001
+Simple,Move the figurine from the side table to the drawer and close the drawer,living_room,FloorPlan222_002
+Medium,Rearrange the sofa cushions to make the seating area more comfortable,living_room,FloorPlan222_002
+Complex,"Retrieve the figurine from the side table, place it on the floor near the fireplace, and then adjust the sofa position slightly to create a balanced room layout",living_room,FloorPlan222_002
+Simple,Pick up the newspaper from the armchair and place it on the coffee table,living_room,FloorPlan222_003
+Medium,Move the laptop from the armchair to the coffee table and open it,living_room,FloorPlan222_003
+Complex,"Retrieve the laptop from the armchair, place it on the coffee table, then turn it on and adjust the lamp nearby for better lighting",living_room,FloorPlan222_003
+Simple,"Move to the coffee table and pick up the remote control, then place it on the TV stand",living_room,FloorPlan222_004
+Medium,Retrieve the statue from the side table and carefully place it on the center of the coffee table,living_room,FloorPlan222_004
+Complex,"Open the drawer of the side table, take out any object inside, and place it on the sofa before closing the drawer",living_room,FloorPlan222_004
+Simple,Pick up the remote control from the coffee table and place it on the armchair.,living_room,FloorPlan222_005
+Medium,"Retrieve the laptop from the coffee table, open it, and then place it back on the table with the screen facing upward.",living_room,FloorPlan222_005
+Complex,"Collect the credit card and newspaper from the coffee table, carry them to the drawer, open the drawer, place both items inside, and close the drawer.",living_room,FloorPlan222_005
+Simple,"Move to the dining table and pick up the blue vase, then place it on the shelf near the wall.",living_room,FloorPlan223_001
+Medium,"Retrieve the yellow object from the dining table, clean it with a cloth from the nearby drawer, and return it to the center of the table.",living_room,FloorPlan223_001
+Complex,"Open the cabinet next to the door, take out a plate, bring it to the dining table, place the yellow object on it, and then move the entire setup to the kitchen counter for further use.",living_room,FloorPlan223_001
+Simple,Pick up the credit card from the coffee table and place it on the armchair.,living_room,FloorPlan223_002
+Medium,Close the laptop on the coffee table and move it to the side table near the sofa.,living_room,FloorPlan223_002
+Complex,"Retrieve the credit card from the coffee table, place it inside a wallet located in the drawer of the side table, then close the drawer.",living_room,FloorPlan223_002
+Simple,Turn on the floor lamp near the chairs to brighten the room,living_room,FloorPlan223_003
+Medium,Move the TV stand slightly to the left to create more space in front of the television,living_room,FloorPlan223_003
+Complex,"Retrieve the remote control from the TV stand, place it on the armrest of the left chair, and turn on the television",living_room,FloorPlan223_003
+Simple,Pick up the blue vase from the dining table and place it on the floor near the trash can,living_room,FloorPlan223_004
+Medium,Move the yellow plate from the dining table to the chair beside it and then place the blue lid on top of it,living_room,FloorPlan223_004
+Complex,"Retrieve the blue vase from the table, carry it to the corner near the door, and place it on the floor next to the box",living_room,FloorPlan223_004
+Simple,Pick up the remote control from the dresser and place it on the TV stand,living_room,FloorPlan224_001
+Medium,"Retrieve the book from the dresser, open it, and read the first page before closing it",living_room,FloorPlan224_001
+Complex,"Move to the living room area, pick up the potted plant from the white column base, place it on the side table, and turn on the floor lamp nearby",living_room,FloorPlan224_001
+Simple,Move the laptop from the armchair to the side table,living_room,FloorPlan224_002
+Medium,Pick up the green pillow from the sofa and place it on the armchair,living_room,FloorPlan224_002
+Complex,"Open the drawer, retrieve any object inside, close the drawer, and place the object on the floor near the painting",living_room,FloorPlan224_002
+Simple,Move the laptop from the armchair to the side table near the fireplace,living_room,FloorPlan224_003
+Medium,Retrieve the vase from the mantel and place it on the side table,living_room,FloorPlan224_003
+Complex,"Open the laptop, move it to the center of the armchair, then close it and return it to its original position",living_room,FloorPlan224_003
+Simple,Move the chair closer to the dog bed and adjust its position for comfort,living_room,FloorPlan224_004
+Medium,Turn on the desk lamp and ensure it is shining brightly over the side table,living_room,FloorPlan224_004
+Complex,"Open the drawer, retrieve a hidden object if present, and place it neatly on the side table",living_room,FloorPlan224_004
+Simple,Move the stool closer to the floor lamp and adjust its position for better lighting,living_room,FloorPlan224_005
+Medium,Retrieve the mug from near the floor lamp and place it on the side table next to the painting,living_room,FloorPlan224_005
+Complex,"Pick up the plant from the red stand, move it to the mantelpiece above the fireplace, and arrange it beside the blue vase",living_room,FloorPlan224_005
+Simple,Move the green trash can to the corner near the wall and place it neatly.,living_room,FloorPlan224_006
+Medium,Pick up the paper from the small cabinet and place it on top of the leftmost cabinet.,living_room,FloorPlan224_006
+Complex,"Open the drawer of the middle cabinet, retrieve any object inside, and place it on the stool beside the floor lamp.",living_room,FloorPlan224_006
+Simple,Pick up the tissue box from the coffee table and place it on the shelf near the door,living_room,FloorPlan225_001
+Medium,Move the coffee table slightly closer to the sofa and arrange the items on it neatly,living_room,FloorPlan225_001
+Complex,"Retrieve the tissue box, walk to the fireplace mantel, and place it beside the decorative vase for better display",living_room,FloorPlan225_001
+Simple,Pick up the pillow from the sofa and place it neatly on the opposite end of the couch,living_room,FloorPlan225_002
+Medium,"Move to the TV stand, pick up the laptop, and place it on the left side of the table near the wall",living_room,FloorPlan225_002
+Complex,"Retrieve the small figurine from the shelf under the TV stand, place it on the center of the table, then move the green trash bin closer to the door for easy access",living_room,FloorPlan225_002
+Simple,Turn on the desk lamp and place it on the side table,living_room,FloorPlan225_003
+Medium,Move the chair closer to the side table and adjust its position for better seating alignment,living_room,FloorPlan225_003
+Complex,"Open the drawer, retrieve any items inside, and organize them on the side table before closing the drawer",living_room,FloorPlan225_003
+Simple,Move the golden statue to the left side of the shelf,living_room,FloorPlan225_004
+Medium,Replace the silver vase with a decorative bowl from the storage cabinet,living_room,FloorPlan225_004
+Complex,"Rearrange the objects on the shelf so that the houseplant is centered, the statue is on the far left, and the vase is on the far right",living_room,FloorPlan225_004
+Simple,Open the blinds to let in natural light,living_room,FloorPlan226_001
+Medium,Move the cardboard box from the table to the floor beside the armchair,living_room,FloorPlan226_001
+Complex,"Pick up the cardboard box, place it on the floor near the lamp, then adjust the lamp's position slightly closer to the armchair",living_room,FloorPlan226_001
+Simple,Move the cushion from the sofa to the armchair,living_room,FloorPlan226_002
+Medium,Turn on the floor lamp and adjust its brightness to create a cozy atmosphere,living_room,FloorPlan226_002
+Complex,"Retrieve the remote control from the sofa, turn on the TV, and adjust the volume using the remote",living_room,FloorPlan226_002
+Simple,Pick up the watch from the coffee table and place it on the sofa.,living_room,FloorPlan226_003
+Medium,Move the houseplant from the coffee table to the corner near the window and adjust its position for better lighting.,living_room,FloorPlan226_003
+Complex,"Gather the scattered papers on the coffee table, stack them neatly, and place them in the drawer of the nearby cabinet.",living_room,FloorPlan226_003
+Simple,Pick up the credit card from the coffee table and place it in the drawer.,living_room,FloorPlan226_004
+Medium,Gather the scattered papers on the coffee table and organize them into a neat stack.,living_room,FloorPlan226_004
+Complex,"Open the drawer, retrieve the keychain, then place it next to the laptop on the coffee table.",living_room,FloorPlan226_004
+Simple,Arrange the pillows on the sofa to make it look neat and comfortable,living_room,FloorPlan227_001
+Medium,Move the potted plant from the side table to the center of the living room floor for better aesthetics,living_room,FloorPlan227_001
+Complex,"Retrieve the remote control from the coffee table, place it on the TV stand, and then adjust the lighting in the room by turning on the ceiling lights",living_room,FloorPlan227_001
+Simple,Turn on the chandelier above the dining table,living_room,FloorPlan227_002
+Medium,Retrieve the bottle from the dining table and place it in the cabinet,living_room,FloorPlan227_002
+Complex,"Move to the dining table, pick up the vase, place it on the shelf, then turn on the TV",living_room,FloorPlan227_002
+Simple,Move the blue pillow from the armchair to the sofa and arrange it neatly.,living_room,FloorPlan227_003
+Medium,"Pick up the houseplant from the floor, place it on the coffee table, and adjust its position for better visibility.",living_room,FloorPlan227_003
+Complex,"Retrieve the remote control from the TV stand, use it to turn on the television, then place it back in its original spot.",living_room,FloorPlan227_003
+Simple,Place the decorative statue from the dining table onto the shelf in the living room.,living_room,FloorPlan227_004
+Medium,Retrieve the remote control from the coffee table and place it on the armchair beside the lamp.,living_room,FloorPlan227_004
+Complex,"Open the cabinet near the wall, take out the vase, place it on the coffee table, and then adjust the lamp's brightness to create a cozy atmosphere.",living_room,FloorPlan227_004
+Simple,Move the golden statue from the dining table to the center of the room and place it on the floor.,living_room,FloorPlan227_005
+Medium,"Retrieve the laptop from the dining table, carry it to the TV stand, and place it on the shelf beneath the television.",living_room,FloorPlan227_005
+Complex,"Clear the dining table by removing all objects, then rearrange the chairs around the table in a symmetrical pattern and place the statue at one end of the table.",living_room,FloorPlan227_005
+Simple,Place the plate from the dining table onto the couch,living_room,FloorPlan228_001
+Medium,Move the vase from the dining table to the sideboard and arrange it neatly,living_room,FloorPlan228_001
+Complex,"Retrieve the book from the couch, bring it to the dining table, and place it beside the plate",living_room,FloorPlan228_001
+Simple,Move to the dining table and adjust the tablecloth to ensure it is neatly spread.,living_room,FloorPlan228_002
+Medium,Retrieve a decorative item from the floor near the door and place it on the dining table as a centerpiece.,living_room,FloorPlan228_002
+Complex,"Open the trash bin, pick up any discarded items from the floor, and dispose of them properly before cleaning the area with a cloth.",living_room,FloorPlan228_002
+Simple,Move the box from the floor to the side table,living_room,FloorPlan228_003
+Medium,Pick up the plant from the side table and place it on the sofa,living_room,FloorPlan228_003
+Complex,"Retrieve the box from the floor, open it, take out any contents, and place them neatly on the side table",living_room,FloorPlan228_003
+Simple,Pick up the remote control from the coffee table and place it on the sofa.,living_room,FloorPlan228_004
+Medium,"Open the box on the coffee table, remove the credit card inside, and place it on the laptop.",living_room,FloorPlan228_004
+Complex,"Retrieve the keychain from the coffee table, open the box, place the keychain inside, close the box, and then move the box to the side of the sofa.",living_room,FloorPlan228_004
+Simple,Pick up the pillow from the sofa and place it neatly at the end of the couch,living_room,FloorPlan229_001
+Medium,"Retrieve the magazine from the coffee table, open it to the first page, and then place it back on the table facing upward",living_room,FloorPlan229_001
+Complex,"Move the banana from the coffee table to the kitchen counter, peel it, and place it on a plate before putting the plate on the dining table",living_room,FloorPlan229_001
+Simple,Move the tissue box from the desk to the sofa armrest,living_room,FloorPlan229_002
+Medium,Pick up the laptop from the desk and place it on the chair,living_room,FloorPlan229_002
+Complex,"Remove the pillow from the sofa, place it on the desk, then move the laptop to the center of the desk",living_room,FloorPlan229_002
+Simple,Pick up the boots from the floor and place them neatly by the door.,living_room,FloorPlan229_003
+Medium,Move the statue from the side table to the center of the desk and adjust its position for better display.,living_room,FloorPlan229_003
+Complex,"Open the laptop on the desk, connect the power adapter if available, and then turn it on to check for any notifications.",living_room,FloorPlan229_003
+Simple,Pick up the book from the coffee table and place it on the armchair next to the lamp,living_room,FloorPlan229_004
+Medium,Move the box from the coffee table to the floor near the trash can and open it,living_room,FloorPlan229_004
+Complex,"Retrieve the keychain from the coffee table, place it inside the box, then close the box and move it to the corner near the door",living_room,FloorPlan229_004
+Simple,Pick up the newspaper from the dining table and place it in the blue recycling bin.,living_room,FloorPlan230_001
+Medium,Move the statue from the center of the dining table to the side table near the window.,living_room,FloorPlan230_001
+Complex,"Open the cardboard box on the dining table, retrieve any items inside, and place them neatly on the table before closing the box.",living_room,FloorPlan230_001
+Simple,Move to the dining table and place a decorative item from the floor onto it,living_room,FloorPlan230_002
+Medium,"Retrieve the vase near the window, clean it with a cloth from the nearby chair, and return it to its original spot",living_room,FloorPlan230_002
+Complex,"Pick up the plant from the leftmost window, move it to the center of the room, place it on the rug, and then adjust the lighting by turning on a nearby lamp if available",living_room,FloorPlan230_002
+Simple,"Move to the coffee table and pick up the laptop, then place it on the armchair.",living_room,FloorPlan230_003
+Medium,Retrieve the decorative plant from the corner near the window and place it on the coffee table.,living_room,FloorPlan230_003
+Complex,"Open the fireplace cover, place a log inside if available, and close it, then turn on the lamp near the fireplace.",living_room,FloorPlan230_003
+Simple,Pick up the remote control from the coffee table and place it on the side table near the TV,living_room,FloorPlan230_004
+Medium,"Move the laptop to the edge of the coffee table, open it, and then close it after ensuring it's powered off",living_room,FloorPlan230_004
+Complex,"Retrieve the candle from the coffee table, carry it to the side table, and place it next to the lamp before turning on the lamp",living_room,FloorPlan230_004
+Simple,Move the laptop from the floor to the nearby table and turn it on,living_room,FloorPlan230_005
+Medium,Pick up the houseplant from the floor and place it on the mantelpiece above the fireplace,living_room,FloorPlan230_005
+Complex,"Retrieve the laptop from the floor, carry it to the couch area, open it, and then position it on the coffee table",living_room,FloorPlan230_005

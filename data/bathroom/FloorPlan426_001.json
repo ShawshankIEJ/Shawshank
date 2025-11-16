@@ -1,0 +1,33 @@
+{
+    "scene_name": "FloorPlan426",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan426_001.jpg",
+    "agent_position": [
+        -2.25,
+        0.9018632173538208,
+        1.5
+    ],
+    "agent_rotation": 90.0,
+    "visible_objects": [
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|-01.85|+00.00|+00.34"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-01.32|+00.31|+00.31"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-01.32|+00.61|+00.31"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|-00.08|+00.01|+00.81"
+        },
+        {
+            "objectType": "TissueBox",
+            "objectId": "TissueBox|-01.45|+00.80|+00.39"
+        }
+    ]
+}

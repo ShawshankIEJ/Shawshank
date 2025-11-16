@@ -1,0 +1,77 @@
+{
+    "scene_name": "FloorPlan326",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan326_001.jpg",
+    "agent_position": [
+        2.0,
+        0.8994580507278442,
+        -1.25
+    ],
+    "agent_rotation": 90.0,
+    "visible_objects": [
+        {
+            "objectType": "CD",
+            "objectId": "CD|+02.99|+00.79|-00.37"
+        },
+        {
+            "objectType": "CellPhone",
+            "objectId": "CellPhone|+02.96|+00.79|-00.93"
+        },
+        {
+            "objectType": "Chair",
+            "objectId": "Chair|+02.83|00.00|00.00"
+        },
+        {
+            "objectType": "CreditCard",
+            "objectId": "CreditCard|+02.99|+00.79|-01.24"
+        },
+        {
+            "objectType": "Desk",
+            "objectId": "Desk|+03.14|00.00|-01.41"
+        },
+        {
+            "objectType": "DeskLamp",
+            "objectId": "DeskLamp|+03.13|+00.79|-00.64"
+        },
+        {
+            "objectType": "Desktop",
+            "objectId": "Desktop|+03.10|+00.79|-01.24"
+        },
+        {
+            "objectType": "Laptop",
+            "objectId": "Laptop|+03.04|+00.79|-02.28"
+        },
+        {
+            "objectType": "Mug",
+            "objectId": "Mug|+03.14|+00.79|-00.87"
+        },
+        {
+            "objectType": "Pen",
+            "objectId": "Pen|+03.02|+00.80|-01.78"
+        },
+        {
+            "objectType": "Pencil",
+            "objectId": "Pencil|+03.07|+00.79|-01.63"
+        },
+        {
+            "objectType": "Poster",
+            "objectId": "Poster|+03.40|+01.86|-01.98"
+        },
+        {
+            "objectType": "Poster",
+            "objectId": "Poster|+03.40|+01.70|-00.79"
+        },
+        {
+            "objectType": "Shelf",
+            "objectId": "Shelf|+03.13|+00.63|-02.27"
+        },
+        {
+            "objectType": "Shelf",
+            "objectId": "Shelf|+03.13|+00.63|-00.56"
+        },
+        {
+            "objectType": "Watch",
+            "objectId": "Watch|+03.07|+00.79|-00.45"
+        }
+    ]
+}

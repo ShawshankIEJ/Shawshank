@@ -1,0 +1,85 @@
+{
+    "scene_name": "FloorPlan418",
+    "scene_number": 5,
+    "image_filename": "saved_scenes/FloorPlan418_005.jpg",
+    "agent_position": [
+        -1.75,
+        0.9016419649124146,
+        -3.0
+    ],
+    "agent_rotation": 270.0,
+    "visible_objects": [
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-02.29|+00.32|-03.25"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-02.29|+00.32|-03.81"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-02.30|+00.35|-02.25"
+        },
+        {
+            "objectType": "Candle",
+            "objectId": "Candle|-02.92|+00.81|-02.28"
+        },
+        {
+            "objectType": "Cloth",
+            "objectId": "Cloth|-02.84|+00.80|-02.45"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|-02.63|+00.84|-03.04"
+        },
+        {
+            "objectType": "Faucet",
+            "objectId": "Faucet|-03.00|+01.17|-03.07"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|-00.04|+00.01|-03.98"
+        },
+        {
+            "objectType": "HandTowel",
+            "objectId": "HandTowel|-02.96|+01.58|-03.55"
+        },
+        {
+            "objectType": "HandTowelHolder",
+            "objectId": "HandTowelHolder|-03.00|+01.69|-02.57"
+        },
+        {
+            "objectType": "HandTowelHolder",
+            "objectId": "HandTowelHolder|-03.00|+01.69|-03.55"
+        },
+        {
+            "objectType": "Mirror",
+            "objectId": "Mirror|-03.00|+01.66|-03.07"
+        },
+        {
+            "objectType": "Sink",
+            "objectId": "Sink|-02.66|+00.79|-03.07"
+        },
+        {
+            "objectType": "SinkBasin",
+            "objectId": "Sink|-02.66|+00.79|-03.07|SinkBasin"
+        },
+        {
+            "objectType": "SoapBar",
+            "objectId": "SoapBar|-02.82|+00.80|-02.70"
+        },
+        {
+            "objectType": "SoapBottle",
+            "objectId": "SoapBottle|-02.86|+00.80|-03.51"
+        },
+        {
+            "objectType": "SprayBottle",
+            "objectId": "SprayBottle|-02.87|+00.80|-03.79"
+        },
+        {
+            "objectType": "ToiletPaper",
+            "objectId": "ToiletPaper|-02.47|+00.80|-02.34"
+        }
+    ]
+}

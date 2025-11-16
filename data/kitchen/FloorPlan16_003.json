@@ -1,0 +1,81 @@
+{
+    "scene_name": "FloorPlan16",
+    "scene_number": 3,
+    "image_filename": "saved_scenes/FloorPlan16_003.jpg",
+    "agent_position": [
+        1.5,
+        0.9037266969680786,
+        -0.25
+    ],
+    "agent_rotation": 90.0,
+    "visible_objects": [
+        {
+            "objectType": "Bread",
+            "objectId": "Bread|+02.74|+01.09|+00.06"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+02.47|+00.38|-00.49"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+02.47|+00.38|+00.38"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+02.47|+00.38|-00.48"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+02.47|+00.47|+00.37"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+02.75|+02.22|-00.84"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+02.75|+02.22|-00.83"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+02.47|+00.38|-01.34"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+02.75|+02.22|+00.02"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|+02.81|+00.99|+00.68"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|+02.69|+00.83|-00.27"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|+02.52|+00.83|+00.72"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|+02.69|+00.83|+00.16"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|+02.69|+00.83|-01.13"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|+02.69|+00.83|-00.70"
+        },
+        {
+            "objectType": "Fork",
+            "objectId": "Fork|+02.38|+01.02|+00.97"
+        },
+        {
+            "objectType": "Lettuce",
+            "objectId": "Lettuce|+02.88|+01.07|-00.43"
+        }
+    ]
+}

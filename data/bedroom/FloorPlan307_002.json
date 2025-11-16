@@ -1,0 +1,45 @@
+{
+    "scene_name": "FloorPlan307",
+    "scene_number": 2,
+    "image_filename": "saved_scenes/FloorPlan307_002.jpg",
+    "agent_position": [
+        0.75,
+        0.9009994864463806,
+        -1.75
+    ],
+    "agent_rotation": 90.0,
+    "visible_objects": [
+        {
+            "objectType": "AlarmClock",
+            "objectId": "AlarmClock|+01.47|+00.81|-01.56"
+        },
+        {
+            "objectType": "CD",
+            "objectId": "CD|+01.52|+00.81|-01.79"
+        },
+        {
+            "objectType": "Cloth",
+            "objectId": "Cloth|+01.30|00.00|-00.70"
+        },
+        {
+            "objectType": "Cloth",
+            "objectId": "Cloth|+01.27|00.00|-00.97"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "GarbageCan",
+            "objectId": "GarbageCan|+01.31|00.00|-02.45"
+        },
+        {
+            "objectType": "SideTable",
+            "objectId": "SideTable|+01.48|+00.00|-01.48"
+        },
+        {
+            "objectType": "Window",
+            "objectId": "Window|+01.72|+01.37|-01.60"
+        }
+    ]
+}

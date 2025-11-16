@@ -1,0 +1,77 @@
+{
+    "scene_name": "FloorPlan315",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan315_001.jpg",
+    "agent_position": [
+        -1.0,
+        0.9092894792556763,
+        -3.25
+    ],
+    "agent_rotation": 180.0,
+    "visible_objects": [
+        {
+            "objectType": "BaseballBat",
+            "objectId": "BaseballBat|-01.88|+00.68|-04.38"
+        },
+        {
+            "objectType": "CD",
+            "objectId": "CD|-01.58|+00.79|-04.06"
+        },
+        {
+            "objectType": "CoffeeTable",
+            "objectId": "CoffeeTable|-00.50|+00.01|-03.99"
+        },
+        {
+            "objectType": "CreditCard",
+            "objectId": "CreditCard|-01.13|+00.79|-03.82"
+        },
+        {
+            "objectType": "Desk",
+            "objectId": "Desk|-00.86|+00.01|-04.03"
+        },
+        {
+            "objectType": "DeskLamp",
+            "objectId": "DeskLamp|-01.53|+00.79|-04.30"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-00.50|+00.07|-03.80"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-00.50|+00.23|-03.80"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-00.50|+00.39|-03.80"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|-01.88|+00.01|-02.36"
+        },
+        {
+            "objectType": "KeyChain",
+            "objectId": "KeyChain|-00.55|+00.79|-04.11"
+        },
+        {
+            "objectType": "Laptop",
+            "objectId": "Laptop|-01.17|+00.79|-04.10"
+        },
+        {
+            "objectType": "Mug",
+            "objectId": "Mug|-00.21|+00.79|-03.88"
+        },
+        {
+            "objectType": "Pen",
+            "objectId": "Pen|-00.85|+00.80|-03.77"
+        },
+        {
+            "objectType": "Pencil",
+            "objectId": "Pencil|-00.94|+00.80|-03.87"
+        },
+        {
+            "objectType": "TableTopDecor",
+            "objectId": "TableTopDecor|-00.30|+00.79|-04.27"
+        }
+    ]
+}

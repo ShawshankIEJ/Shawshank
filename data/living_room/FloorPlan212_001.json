@@ -1,0 +1,21 @@
+{
+    "scene_name": "FloorPlan212",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan212_001.jpg",
+    "agent_position": [
+        0.75,
+        0.9009991884231567,
+        0.0
+    ],
+    "agent_rotation": 0.0,
+    "visible_objects": [
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "Sofa",
+            "objectId": "Sofa|+01.19|+00.01|+01.87"
+        }
+    ]
+}

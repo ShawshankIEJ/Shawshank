@@ -1,0 +1,57 @@
+{
+    "scene_name": "FloorPlan401",
+    "scene_number": 2,
+    "image_filename": "saved_scenes/FloorPlan401_002.jpg",
+    "agent_position": [
+        -2.5,
+        0.9016162753105164,
+        0.25
+    ],
+    "agent_rotation": 270.0,
+    "visible_objects": [
+        {
+            "objectType": "Candle",
+            "objectId": "Candle|-03.11|+00.23|-00.05"
+        },
+        {
+            "objectType": "DishSponge",
+            "objectId": "DishSponge|-03.20|+00.86|+00.02"
+        },
+        {
+            "objectType": "Faucet",
+            "objectId": "Faucet|-03.40|+01.02|+01.53"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|-01.44|-00.04|+01.85"
+        },
+        {
+            "objectType": "HandTowelHolder",
+            "objectId": "HandTowelHolder|-03.46|+01.46|+00.82"
+        },
+        {
+            "objectType": "Mirror",
+            "objectId": "Mirror|-03.45|+01.58|+01.52"
+        },
+        {
+            "objectType": "PaperTowelRoll",
+            "objectId": "PaperTowelRoll|-03.15|+00.96|+00.28"
+        },
+        {
+            "objectType": "SideTable",
+            "objectId": "SideTable|-03.17|+00.00|+00.17"
+        },
+        {
+            "objectType": "Sink",
+            "objectId": "Sink|-03.12|-00.01|+01.53"
+        },
+        {
+            "objectType": "SoapBottle",
+            "objectId": "SoapBottle|-03.41|+01.02|+01.29"
+        },
+        {
+            "objectType": "SprayBottle",
+            "objectId": "SprayBottle|-03.09|+00.23|+00.29"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "scene_name": "FloorPlan401",
+    "scene_number": 3,
+    "image_filename": "saved_scenes/FloorPlan401_003.jpg",
+    "agent_position": [
+        -1.75,
+        0.9016162753105164,
+        0.75
+    ],
+    "agent_rotation": 90.0,
+    "visible_objects": [
+        {
+            "objectType": "Bathtub",
+            "objectId": "Bathtub|-00.21|+00.36|+00.92"
+        },
+        {
+            "objectType": "BathtubBasin",
+            "objectId": "Bathtub|-00.21|+00.36|+00.92|BathtubBasin"
+        },
+        {
+            "objectType": "ShowerCurtain",
+            "objectId": "ShowerCurtain|-00.79|+02.22|-00.24"
+        },
+        {
+            "objectType": "TowelHolder",
+            "objectId": "TowelHolder|-01.30|+01.05|-00.29"
+        }
+    ]
+}

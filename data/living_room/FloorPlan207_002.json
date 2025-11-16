@@ -1,0 +1,37 @@
+{
+    "scene_name": "FloorPlan207",
+    "scene_number": 2,
+    "image_filename": "saved_scenes/FloorPlan207_002.jpg",
+    "agent_position": [
+        -0.75,
+        0.9009992480278015,
+        0.5
+    ],
+    "agent_rotation": 90.0,
+    "visible_objects": [
+        {
+            "objectType": "ArmChair",
+            "objectId": "ArmChair|-00.63|+00.01|+02.19"
+        },
+        {
+            "objectType": "Box",
+            "objectId": "Box|-00.01|+00.65|+00.89"
+        },
+        {
+            "objectType": "CoffeeTable",
+            "objectId": "CoffeeTable|-00.15|+00.00|+00.42"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "Laptop",
+            "objectId": "Laptop|-00.20|+00.47|+00.41"
+        },
+        {
+            "objectType": "Sofa",
+            "objectId": "Sofa|-01.45|+00.01|+00.42"
+        }
+    ]
+}

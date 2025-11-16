@@ -1,0 +1,398 @@
+Type,Instruction,Scenario,address
+instructions,turn on the faucet and fill the sink with water,bathroom,FloorPlan401_001
+instructions,pick up the soap bottle and place it on the side table,bathroom,FloorPlan401_001
+instructions,open the hand towel holder and hang the towel on it,bathroom,FloorPlan401_001
+instructions,clean the mirror with a cloth from the side table,bathroom,FloorPlan401_001
+instructions,pick up the spray bottle from the shelf and place it on the sink,bathroom,FloorPlan401_002
+instructions,take the dish sponge from the shelf and put it in the sink,bathroom,FloorPlan401_002
+instructions,grab the paper towel roll from the shelf and place it on the side table,bathroom,FloorPlan401_002
+instructions,move the soap bottle from the sink to the top shelf of the rack,bathroom,FloorPlan401_002
+instructions,open the faucet and let water run into the sink for a few seconds,bathroom,FloorPlan401_002
+instructions,pull the shower curtain to the side to access the bathtub,bathroom,FloorPlan401_003
+instructions,turn on the shower faucet and fill the bathtub with water,bathroom,FloorPlan401_003
+instructions,place a towel on the towel holder,bathroom,FloorPlan401_003
+instructions,close the shower curtain after filling the tub,bathroom,FloorPlan401_003
+instructions,pick up the plunger and place it next to the toilet,bathroom,FloorPlan401_004
+instructions,move the scrub brush from its current position to the corner of the room,bathroom,FloorPlan401_004
+instructions,open the toilet lid and then close it again,bathroom,FloorPlan401_004
+instructions,push the garbage can slightly closer to the wall,bathroom,FloorPlan401_004
+instructions,fill the bathtub with water using the faucet,bathroom,FloorPlan402_001
+instructions,place a towel on the bathroom counter,bathroom,FloorPlan402_001
+instructions,open the cabinet under the sink and place a bottle of soap inside,bathroom,FloorPlan402_001
+instructions,close the cabinet doors after placing the soap,bathroom,FloorPlan402_001
+instructions,turn on the light above the mirror,bathroom,FloorPlan402_001
+instructions,pick up the trash can and move it closer to the door,bathroom,FloorPlan402_001
+instructions,place a hand towel on the towel ring,bathroom,FloorPlan402_001
+instructions,turn on the faucet of the left sink and fill the soap bottle with water,bathroom,FloorPlan402_002
+instructions,place the soap bottle on the counter between the two sinks,bathroom,FloorPlan402_002
+instructions,open the cabinet under the right sink and place the soap bottle inside,bathroom,FloorPlan402_002
+instructions,close the cabinet door under the right sink,bathroom,FloorPlan402_002
+instructions,turn on both faucets simultaneously and let water run for 10 seconds,bathroom,FloorPlan402_002
+instructions,turn off both faucets,bathroom,FloorPlan402_002
+instructions,pick up the soap bottle from the counter and place it in the left sink,bathroom,FloorPlan402_002
+instructions,move the hand towel from the holder to the edge of the right sink,bathroom,FloorPlan402_002
+instructions,fill the bathtub with water using the faucet,bathroom,FloorPlan402_003
+instructions,turn on the shower and adjust the water temperature,bathroom,FloorPlan402_003
+instructions,place a towel on the edge of the bathtub,bathroom,FloorPlan402_003
+instructions,close the shower glass door,bathroom,FloorPlan402_003
+instructions,turn on the shower faucet,bathroom,FloorPlan402_004
+instructions,fill the bathtub with water,bathroom,FloorPlan402_004
+instructions,close the shower door,bathroom,FloorPlan402_004
+instructions,open the shower door,bathroom,FloorPlan402_004
+instructions,place a towel on the towel holder,bathroom,FloorPlan402_004
+instructions,turn on the faucet and fill the sink with water,bathroom,FloorPlan403_001
+instructions,pick up the soap bottle and place it next to the sink,bathroom,FloorPlan403_001
+instructions,place the soap bar in the soap dish,bathroom,FloorPlan403_001
+instructions,open the cabinet under the counter and store the soap bottle inside,bathroom,FloorPlan403_001
+instructions,close the cabinet door,bathroom,FloorPlan403_001
+instructions,fill the bathtub with water from the faucet,bathroom,FloorPlan403_002
+instructions,turn on the bathroom light above the mirror,bathroom,FloorPlan403_002
+instructions,place a towel on the counter top near the sink,bathroom,FloorPlan403_002
+instructions,open the cabinet under the sink and retrieve a bottle of soap,bathroom,FloorPlan403_002
+instructions,close the cabinet after retrieving the soap,bathroom,FloorPlan403_002
+instructions,put the soap bottle on the countertop next to the sink,bathroom,FloorPlan403_002
+Simple,Turn on the faucet and fill the sink with water,bathroom,FloorPlan401_001
+Medium,"Pick up the soap bottle, place it on the side table, then turn on the faucet to rinse the sink",bathroom,FloorPlan401_001
+Complex,"Open the hand towel holder, remove the towel, hang it on the rack, then clean the mirror using the soap bottle and wipe it with the towel",bathroom,FloorPlan401_001
+Simple,Pick up the spray bottle from the rack and place it on the sink counter.,bathroom,FloorPlan401_002
+Medium,"Retrieve the paper towel roll from the rack, unroll a section, and use it to wipe the mirror clean.",bathroom,FloorPlan401_002
+Complex,"Take the soap bottle from the sink, refill it using the faucet, then place it back on the sink while ensuring the faucet is turned off.",bathroom,FloorPlan401_002
+Simple,Pull the shower curtain to the side and open the bathtub faucet,bathroom,FloorPlan401_003
+Medium,Place a towel on the towel holder and adjust the showerhead position,bathroom,FloorPlan401_003
+Complex,"Fill the bathtub with water, then close the shower curtain and turn off the faucet",bathroom,FloorPlan401_003
+Simple,Pick up the scrub brush and place it next to the plunger,bathroom,FloorPlan401_004
+Medium,"Open the toilet tank lid, remove the water valve, and replace it with a new one",bathroom,FloorPlan401_004
+Complex,"Use the plunger to clear any blockage in the toilet, then clean the toilet bowl with the scrub brush and dispose of the used brush in the garbage can",bathroom,FloorPlan401_004
+Simple,Turn on the faucet and fill the bathtub with water,bathroom,FloorPlan402_001
+Medium,Open the cabinet under the sink and place the soap dispenser inside,bathroom,FloorPlan402_001
+Complex,"Retrieve the towel from the rack, hang it on the door handle, and then clean the mirror with a cloth",bathroom,FloorPlan402_001
+Simple,Place the soap bottle on the counter between the two sinks,bathroom,FloorPlan402_002
+Medium,Open the cabinet under the left sink and store the hand towel inside,bathroom,FloorPlan402_002
+Complex,"Turn on both faucets, fill a cup with water from the right sink, then turn off the faucets and place the cup on the countertop",bathroom,FloorPlan402_002
+Simple,Turn on the bathtub faucet and fill it with water,bathroom,FloorPlan402_003
+Medium,Place a bath towel on the edge of the bathtub and adjust the shower glass for privacy,bathroom,FloorPlan402_003
+Complex,"Fill the bathtub with warm water, place a bath bomb inside, and turn off the faucet",bathroom,FloorPlan402_003
+Simple,Turn on the shower and adjust the water temperature using the shower controls,bathroom,FloorPlan402_004
+Medium,Place a towel on the towel holder and then close the shower door,bathroom,FloorPlan402_004
+Complex,"Fill the bathtub with water, turn off the faucet, and then place a bath mat beside the tub",bathroom,FloorPlan402_004
+Simple,Place the soap bar into the soap dish on the countertop,bathroom,FloorPlan403_001
+Medium,Fill the sink with water using the faucet and then turn off the tap,bathroom,FloorPlan403_001
+Complex,"Retrieve the soap bottle from the counter, pour soap into the sink basin, and then rinse the sink with water before turning off the faucet",bathroom,FloorPlan403_001
+Simple,Turn on the bathroom light and open the cabinet under the sink to retrieve a towel,bathroom,FloorPlan403_002
+Medium,"Fill the bathtub with water using the faucet, then close the faucet and place a bath mat beside it",bathroom,FloorPlan403_002
+Complex,"Open the shower door, turn on the shower head, adjust the temperature, and then turn it off after 30 seconds before closing the door",bathroom,FloorPlan403_002
+Simple,Pick up the cloth from the bathtub and place it on the toilet tank.,bathroom,FloorPlan403_003
+Medium,"Turn on the faucet to fill the bathtub with water, then turn it off and close the faucet.",bathroom,FloorPlan403_003
+Complex,"Light the candle on the bathtub edge using a match from the nearby holder, then adjust the window blinds to let in more natural light.",bathroom,FloorPlan403_003
+Simple,Place the candle on the shelf next to the bathtub,bathroom,FloorPlan404_001
+Medium,Open the shower curtain and turn on the bathtub faucet to fill it with water,bathroom,FloorPlan404_001
+Complex,"Retrieve the candle from the shelf, place it on the edge of the bathtub, then close the shower curtain and turn on the faucet to start filling the tub.",bathroom,FloorPlan404_001
+Simple,Pick up the soap bar from the lower shelf and place it on the bathtub edge,bathroom,FloorPlan404_002
+Medium,"Take the spray bottle from the lower shelf, move to the bathtub, and spray the interior surface",bathroom,FloorPlan404_002
+Complex,"Retrieve the candle from the middle shelf, light it using the tissue box as a wick source, and place it on the upper shelf",bathroom,FloorPlan404_002
+Simple,Hang the hand towel on the hand towel holder,bathroom,FloorPlan404_003
+Medium,Replace the used toilet paper roll with a new one from the storage,bathroom,FloorPlan404_003
+Complex,Clean the sink basin using the scrub brush and then rinse it with water from the faucet,bathroom,FloorPlan404_003
+Simple,Pick up the soap bar from the countertop and place it on the soap dish near the sink,bathroom,FloorPlan405_001
+Medium,"Turn on the faucet, fill the sink with water, then turn off the faucet and wipe the countertop with the hand towel",bathroom,FloorPlan405_001
+Complex,"Open the cabinet above the toilet, retrieve a roll of toilet paper, place it on the counter, then close the cabinet and neatly arrange the items on the counter",bathroom,FloorPlan405_001
+Simple,Replace the empty toilet paper roll with a new one from the counter,bathroom,FloorPlan405_002
+Medium,Clean the sink basin using the scrub brush and then rinse it with water,bathroom,FloorPlan405_002
+Complex,"Remove the used toilet paper from the holder, place it in the garbage can, and replace it with a fresh roll from the counter",bathroom,FloorPlan405_002
+Simple,Pick up the cloth from the bathtub and place it on the edge of the tub.,bathroom,FloorPlan405_003
+Medium,"Turn on the faucet to fill the bathtub with water, then turn it off after a few seconds.",bathroom,FloorPlan405_003
+Complex,"Retrieve the cloth from the bathtub, wring it out by squeezing it in your hands, and hang it over the shower curtain rod.",bathroom,FloorPlan405_003
+Simple,Pick up the soap bottle and place it on the edge of the bathtub.,bathroom,FloorPlan406_001
+Medium,"Turn on the faucet to fill the bathtub with water, then turn it off after reaching a suitable level.",bathroom,FloorPlan406_001
+Complex,"Retrieve the soap bottle from the counter, open the cap, pour a small amount into the bathtub, close the cap, and return the bottle to its original position.",bathroom,FloorPlan406_001
+Simple,Open the cabinet under the sink and place the cleaning spray bottle inside,bathroom,FloorPlan406_002
+Medium,"Turn on the faucet, fill a cup with water from the sink, then turn off the faucet",bathroom,FloorPlan406_002
+Complex,"Retrieve a towel from the wall rack, wipe the countertop clean, and hang the towel back on the rack",bathroom,FloorPlan406_002
+Simple,Replace the empty toilet paper roll with a new one from the counter,bathroom,FloorPlan406_003
+Medium,Clean the sink using the scrub brush and then rinse it with water from the faucet,bathroom,FloorPlan406_003
+Complex,"Use the spray bottle to clean the mirror, then wipe it with a towel from the cabinet and turn on the bathroom light",bathroom,FloorPlan406_003
+Simple,Place the soap bottle on the counter next to the sink,bathroom,FloorPlan407_001
+Medium,Pick up the toilet paper and place it on the holder beside the mirror,bathroom,FloorPlan407_001
+Complex,"Turn on the faucet, rinse the cloth in the sink, then wring it out and hang it on the towel rack",bathroom,FloorPlan407_001
+Simple,Pick up the candle from the bathtub and place it on the floor near the shower door,bathroom,FloorPlan407_002
+Medium,"Open the shower door, turn on the shower head, and then close the shower door",bathroom,FloorPlan407_002
+Complex,"Retrieve the candle from the bathtub, place it inside the garbage can, and then pull the shower curtain to the side to ensure full access to the tub",bathroom,FloorPlan407_002
+Simple,Replace the empty toilet paper roll with a new one from the storage cabinet,bathroom,FloorPlan407_003
+Medium,Clean the toilet bowl using the cleaning spray and cloth from the bathroom counter,bathroom,FloorPlan407_003
+Complex,"Retrieve the spare toilet paper from the linen closet, install it on the hanger, and then wipe down the toilet tank with a disinfectant wipe",bathroom,FloorPlan407_003
+Simple,Hang the towel on the towel rack near the sink,bathroom,FloorPlan408_001
+Medium,Retrieve the toilet paper from the holder and place it on the counter for replacement,bathroom,FloorPlan408_001
+Complex,"Open the shower curtain, turn on the faucet to fill the bathtub with water, then close the curtain and wait for the water to reach the desired temperature before turning it off",bathroom,FloorPlan408_001
+Simple,Place the towel from the rack onto the edge of the bathtub,bathroom,FloorPlan408_002
+Medium,Fill the bathtub with water and place the candle inside it,bathroom,FloorPlan408_002
+Complex,"Open the bathroom cabinet, retrieve the soap bottle, and place it on the sink counter",bathroom,FloorPlan408_002
+Simple,Hang the green hand towel on the towel holder,bathroom,FloorPlan408_003
+Medium,"Turn on the faucet, wash hands in the sink, then turn off the faucet",bathroom,FloorPlan408_003
+Complex,"Open the cabinet under the sink, place the soap bottle inside, close the cabinet, and then wipe the countertop with a clean cloth",bathroom,FloorPlan408_003
+Simple,Hang the towel on the towel holder,bathroom,FloorPlan409_001
+Medium,Retrieve the soap bottle from the sink and place it on the counter next to the mirror,bathroom,FloorPlan409_001
+Complex,"Open the cabinet under the sink, retrieve the cleaning spray, and use it to clean the mirror before placing the spray back inside the cabinet",bathroom,FloorPlan409_001
+Simple,Pick up the candle from the toilet tank and place it on the shower floor,bathroom,FloorPlan409_002
+Medium,"Open the shower door, take the towel from the towel holder, and hang it inside the shower",bathroom,FloorPlan409_002
+Complex,"Turn on the shower faucet, wait for water to run, then turn it off and close the shower door securely",bathroom,FloorPlan409_002
+Simple,Pick up the soap bar from the sink and place it on the counter.,bathroom,FloorPlan409_003
+Medium,"Turn on the faucet, wash the cloth in the sink, then turn off the faucet and hang the cloth on the hand towel holder.",bathroom,FloorPlan409_003
+Complex,"Spray the sink with the spray bottle, wipe it clean using the cloth, then dispose of the used cloth in the garbage can.",bathroom,FloorPlan409_003
+Simple,Place the towel from the rack onto the edge of the bathtub,bathroom,FloorPlan410_001
+Medium,Fill the bathtub with water using the faucet and then turn off the water,bathroom,FloorPlan410_001
+Complex,"Retrieve the towel from the rack, place it on the counter, and then drain the bathtub if it contains water",bathroom,FloorPlan410_001
+Simple,Place the soap bar into the soap dish on the countertop,bathroom,FloorPlan410_002
+Medium,Open the drawer under the left sink and place the bottle of hand soap inside,bathroom,FloorPlan410_002
+Complex,"Retrieve the soap bar from the countertop, wet it under the running water in the right sink, then place it back on the counter after use",bathroom,FloorPlan410_002
+Simple,Replace the used toilet paper roll with a new one from the toilet paper hanger,bathroom,FloorPlan410_003
+Medium,Clean the toilet bowl using the scrub brush and then dispose of the brush in the trash can,bathroom,FloorPlan410_003
+Complex,"Use the plunger to clear any potential blockage in the toilet, then wipe down the toilet seat with a fresh toilet paper roll and dispose of the used paper in the garbage can",bathroom,FloorPlan410_003
+Simple,Dispose of the trash in the garbage can by dropping it inside,bathroom,FloorPlan410_004
+Medium,Retrieve the toilet paper from the tank and place it on the counter beside the sink,bathroom,FloorPlan410_004
+Complex,"Open the bathroom cabinet, take out a clean towel, and hang it on the towel rack near the toilet",bathroom,FloorPlan410_004
+Simple,Hang the towel on the towel holder near the bathtub,bathroom,FloorPlan410_005
+Medium,Retrieve the cloth from the bathtub and place it on the sink counter,bathroom,FloorPlan410_005
+Complex,"Fill the bathtub with water, place the cloth inside to soak, then drain the water and remove the cloth",bathroom,FloorPlan410_005
+Simple,Turn on the faucet and fill the sink basin with water,bathroom,FloorPlan411_001
+Medium,Open the drawer under the counter and place the soap bottle inside,bathroom,FloorPlan411_001
+Complex,"Fill the sink with water, then use the faucet to rinse the countertop before turning off the water",bathroom,FloorPlan411_001
+Simple,Clean the countertop with a cloth and wipe away any dust or debris,bathroom,FloorPlan411_002
+Medium,"Open the shower door, check the showerhead for blockages, and close the door securely",bathroom,FloorPlan411_002
+Complex,"Retrieve a towel from the bathroom rack, place it on the counter, fold it neatly, and then hang it back on the rack",bathroom,FloorPlan411_002
+Simple,Open the shower door and place the soap bottle inside the shower,bathroom,FloorPlan411_003
+Medium,"Pick up the toilet brush, clean the toilet bowl, and return the brush to its holder",bathroom,FloorPlan411_003
+Complex,"Retrieve the purple bottle from the countertop, open the shower door, place it inside the shower, and close the door securely",bathroom,FloorPlan411_003
+Simple,Pick up the soap bar from the countertop and place it in the soap dish near the sink.,bathroom,FloorPlan411_004
+Medium,"Light the candle on the countertop using a match or lighter, then place it back on the counter.",bathroom,FloorPlan411_004
+Complex,"Retrieve the bottle of cleaning liquid from the countertop, open the shower door, spray the inside of the shower walls, close the door, and return the bottle to its original position.",bathroom,FloorPlan411_004
+Simple,Clean the shower glass with a cloth and wipe it dry,bathroom,FloorPlan412_001
+Medium,Place the towel from the shower wall onto the toilet tank,bathroom,FloorPlan412_001
+Complex,"Retrieve the soap from the shower corner, place it on the sink, and then clean the sink surface with it",bathroom,FloorPlan412_001
+Simple,Place the towel from the shower door onto the counter top,bathroom,FloorPlan412_002
+Medium,"Open the cabinet under the sink and retrieve the cleaning spray, then clean the sink surface",bathroom,FloorPlan412_002
+Complex,"Remove the toilet paper from the holder, place it on the counter, and then refill the holder with a new roll from the cabinet",bathroom,FloorPlan412_002
+Simple,Turn on the faucet and fill the sink with water for handwashing,bathroom,FloorPlan412_003
+Medium,"Pick up the soap bottle, dispense soap into the sink, then turn off the faucet",bathroom,FloorPlan412_003
+Complex,"Retrieve a hand towel from the holder, place it on the counter, then clean both sinks with it before returning the towel to the holder",bathroom,FloorPlan412_003
+Simple,Place the hand towel on the HandTowelHolder,bathroom,FloorPlan412_004
+Medium,Fill the sink basin with water and then drain it completely,bathroom,FloorPlan412_004
+Complex,"Retrieve a cleaning cloth from the counter, wet it in the sink, and use it to wipe down the countertop surface",bathroom,FloorPlan412_004
+Simple,Place the toothbrush from the counter into the toothbrush holder on the sink,bathroom,FloorPlan413_001
+Medium,Pick up the soap bottle from the cabinet and place it on the countertop next to the sink,bathroom,FloorPlan413_001
+Complex,"Open the cabinet, retrieve the towel, hang it on the toilet paper hanger, then close the cabinet",bathroom,FloorPlan413_001
+Simple,Place the towel from the rack onto the edge of the bathtub,bathroom,FloorPlan413_002
+Medium,Fill the bathtub with water and then turn off the faucet,bathroom,FloorPlan413_002
+Complex,"Retrieve the soap from the sink area, place it on the shower shelf, and then clean the mirror with a cloth",bathroom,FloorPlan413_002
+Simple,Hang the towel on the towel rack near the bathtub,bathroom,FloorPlan413_003
+Medium,Fill the bathtub with water using the faucet and then turn off the tap,bathroom,FloorPlan413_003
+Complex,"Open the shower door, enter the shower area, and adjust the showerhead settings before closing the door",bathroom,FloorPlan413_003
+Simple,Pick up the soap bar from the dresser and place it in the garbage can.,bathroom,FloorPlan413_004
+Medium,"Spray the cleaner from the spray bottle onto the dresser surface, then wipe it with the soap bar.",bathroom,FloorPlan413_004
+Complex,"Open the top drawer of the dresser, place the candle inside, close the drawer, and then move the garbage can slightly to the left.",bathroom,FloorPlan413_004
+Simple,Replace the used toilet paper roll with a new one from the counter,bathroom,FloorPlan413_005
+Medium,Clean the sink basins using the scrub brush and then rinse with water from the faucets,bathroom,FloorPlan413_005
+Complex,"Retrieve the soap bottle from the counter, dispense soap into both sinks, and wipe down the mirror with a hand towel",bathroom,FloorPlan413_005
+Simple,Turn on the sink faucet and fill the sink basin with water,bathroom,FloorPlan414_001
+Medium,"Open the cabinet door, take out a towel, and hang it on the towel rack",bathroom,FloorPlan414_001
+Complex,"Fill the bathtub with water using the faucet, then turn off the faucet and close the cabinet door",bathroom,FloorPlan414_001
+Simple,Pick up the purple cloth from the bathtub and place it in the garbage can,bathroom,FloorPlan414_002
+Medium,"Turn on the faucet to fill the bathtub with water, then turn it off when the water level is sufficient",bathroom,FloorPlan414_002
+Complex,"Retrieve the towel from the towel holder, place it beside the bathtub, then pick up the black cloth from the floor and fold it neatly before placing it on top of the towel",bathroom,FloorPlan414_002
+Simple,Replace the empty toilet paper roll on the tank with a new one from the counter,bathroom,FloorPlan414_003
+Medium,Clean the toilet bowl using the scrub brush and then flush the toilet,bathroom,FloorPlan414_003
+Complex,"Retrieve the plunger from the floor, use it to clear any blockage in the toilet, and return it to its original position",bathroom,FloorPlan414_003
+Simple,Place the soap bar from the counter into the soap dish in the sink,bathroom,FloorPlan414_004
+Medium,"Open the cabinet under the sink, retrieve the cleaning spray bottle, and use it to clean the mirror",bathroom,FloorPlan414_004
+Complex,"Pick up the toilet paper roll from the counter, place it on the toilet paper holder, then turn on the faucet to rinse the sink and wipe it dry with the hand towel",bathroom,FloorPlan414_004
+Simple,Place the towel on the towel holder,bathroom,FloorPlan415_001
+Medium,Use the scrub brush to clean the toilet bowl and then flush the toilet,bathroom,FloorPlan415_001
+Complex,"Replace the used toilet paper roll with a new one from the supply box, then clean the sink with the cloth",bathroom,FloorPlan415_001
+Simple,Pick up the soap bar from the bathtub and place it on the towel holder,bathroom,FloorPlan415_002
+Medium,"Pull the shower curtain to the side, open the bathtub faucet, and fill the tub with water",bathroom,FloorPlan415_002
+Complex,"Retrieve the towel from the towel holder, use it to dry the bathtub basin, then hang the towel back on the holder",bathroom,FloorPlan415_002
+Simple,Pick up the hand towel from the holder and place it neatly on the sink edge,bathroom,FloorPlan415_003
+Medium,"Open the dresser drawer, retrieve the hand towel inside, and hang it on the empty towel holder",bathroom,FloorPlan415_003
+Complex,"Turn on the faucet to fill the sink with water, then use the hand towel to wipe down the countertop before turning off the faucet and placing the wet towel into the garbage can",bathroom,FloorPlan415_003
+Simple,Pick up the candle from the counter and place it on the shelf.,bathroom,FloorPlan415_004
+Medium,Retrieve the toilet paper from the counter and replace it with a new roll from the shelf.,bathroom,FloorPlan415_004
+Complex,"Move to the counter, pick up the candle, light it using the lighter under the counter, then place it back on the counter next to the bottle.",bathroom,FloorPlan415_004
+Simple,Open the shower door and check if the showerhead is functional,bathroom,FloorPlan416_001
+Medium,"Turn on the shower, adjust the water temperature, and then turn it off",bathroom,FloorPlan416_001
+Complex,"Retrieve a towel from the nearby rack, hang it on the shower door handle, and ensure the shower area is clean and dry",bathroom,FloorPlan416_001
+Simple,Place the soap bottle from the counter into the drawer under the sink,bathroom,FloorPlan416_002
+Medium,Retrieve the towel from the towel rack and hang it neatly on the opposite side of the bathroom,bathroom,FloorPlan416_002
+Complex,"Clean the countertop using the yellow cloth, then open the drawer to store the cloth and close the drawer securely",bathroom,FloorPlan416_002
+Simple,Replace the used toilet paper roll with a new one from the nearby supply,bathroom,FloorPlan416_003
+Medium,Clean the countertop using the yellow cloth and then dispose of it in the garbage can,bathroom,FloorPlan416_003
+Complex,"Remove the plunger from beside the toilet, clean it with water from the sink, and return it to its original position",bathroom,FloorPlan416_003
+Simple,Place the candle on the countertop near the sink,bathroom,FloorPlan417_001
+Medium,"Turn on the faucet, fill the sink with water, then turn off the faucet",bathroom,FloorPlan417_001
+Complex,"Open the shower door, enter the shower area, and place the candle inside the shower before closing the door",bathroom,FloorPlan417_001
+Simple,Hang the towel neatly on the towel holder,bathroom,FloorPlan417_002
+Medium,Replace the used toilet paper roll with a new one from the storage box,bathroom,FloorPlan417_002
+Complex,Clean the shower glass with a cloth and then wipe down the shower door frame,bathroom,FloorPlan417_002
+Simple,Place the soap bar into the soap dish on the countertop,bathroom,FloorPlan417_003
+Medium,"Turn on the faucet and rinse the candle under running water, then place it back on the counter",bathroom,FloorPlan417_003
+Complex,"Pick up the soap bar, wet it under the faucet, lather it with water, and then use it to clean the mirror surface before placing it back on the counter",bathroom,FloorPlan417_003
+Simple,Turn on the faucet and fill the sink with water,bathroom,FloorPlan417_004
+Medium,Place a towel from the rack onto the countertop and wipe down the sink basin,bathroom,FloorPlan417_004
+Complex,"Retrieve a bottle of soap from the counter, open it, pour some into the sink, then turn on the faucet to mix with water for cleaning",bathroom,FloorPlan417_004
+Simple,Hang the towel on the towel holder inside the shower,bathroom,FloorPlan418_001
+Medium,Open the shower door and place a clean towel on the floor inside the shower area,bathroom,FloorPlan418_001
+Complex,"Retrieve the towel from the towel holder, fold it neatly, and place it on the edge of the shower base",bathroom,FloorPlan418_001
+Simple,Turn on the light switch to illuminate the room,bathroom,FloorPlan418_002
+Medium,Open the shower glass door and check if the bathroom is clean,bathroom,FloorPlan418_002
+Complex,"Turn on the light switch, then open the shower glass door and retrieve a towel from inside if available",bathroom,FloorPlan418_002
+Simple,Place the cloth neatly on the countertop next to the candle,bathroom,FloorPlan418_003
+Medium,"Open the cabinet, retrieve the toilet paper, and replace it on the holder near the toilet",bathroom,FloorPlan418_003
+Complex,"Light the candle on the countertop, then move the cloth to a clean area of the counter and organize the items around the sink",bathroom,FloorPlan418_003
+Simple,Pick up the scrub brush and place it next to the toilet,bathroom,FloorPlan418_004
+Medium,"Open the shower door, clean the shower glass with the scrub brush, then close the shower door",bathroom,FloorPlan418_004
+Complex,"Remove the lid from the garbage can, pick up the scrub brush, clean the toilet bowl, return the scrub brush to its original position, and close the garbage can lid",bathroom,FloorPlan418_004
+Simple,Place the soap bar next to the sink and wipe the countertop with the cloth,bathroom,FloorPlan418_005
+Medium,Refill the soap dispenser with liquid soap from the bottle and place it back on the counter,bathroom,FloorPlan418_005
+Complex,"Clean the mirror using the cloth, then open the cabinet below the sink to store the spray bottle and close it securely",bathroom,FloorPlan418_005
+Simple,Place the toilet paper on the toilet paper hanger,bathroom,FloorPlan419_001
+Medium,"Open the drawer, retrieve the cloth, and hang it on the towel holder",bathroom,FloorPlan419_001
+Complex,"Retrieve the trash bag from the garbage can, place it in the side table, then clean the sink using the cloth",bathroom,FloorPlan419_001
+Simple,Pick up the cloth from the side table and place it neatly on the hand towel holder,bathroom,FloorPlan419_002
+Medium,"Open the drawer, retrieve the soap bottle, and place it on the sink basin for use",bathroom,FloorPlan419_002
+Complex,"Turn on the faucet, fill the sink with water, then turn off the faucet and wipe the sink surface with the hand towel",bathroom,FloorPlan419_002
+Simple,Place the soap bar on the edge of the bathtub for easy access,bathroom,FloorPlan419_003
+Medium,Turn on the faucet to fill the bathtub with water and then turn it off when the tub is half full,bathroom,FloorPlan419_003
+Complex,"Pick up the candle, place it on the edge of the bathtub, light it using the nearby lighter, and then adjust the shower curtain to create a relaxing bathing environment",bathroom,FloorPlan419_003
+Simple,Place the soap bar on the edge of the bathtub,bathroom,FloorPlan419_004
+Medium,Use the scrub brush to clean the inside of the bathtub and then place it back in its holder,bathroom,FloorPlan419_004
+Complex,"Remove the toilet paper from the hanger, replace it with a new roll, and dispose of the old roll in the garbage can",bathroom,FloorPlan419_004
+Simple,Place the towel from the rack onto the side table,bathroom,FloorPlan420_001
+Medium,Move the houseplant to the edge of the bathtub and water it using the sink basin,bathroom,FloorPlan420_001
+Complex,"Open the drawer, retrieve the soap bottle, place it on the edge of the bathtub, then close the drawer and turn on the faucet to fill the tub with water",bathroom,FloorPlan420_001
+Simple,Place the candle on the edge of the bathtub near the soap bar,bathroom,FloorPlan420_002
+Medium,Retrieve the towel from the towel holder and hang it over the shower curtain rod,bathroom,FloorPlan420_002
+Complex,"Pick up the purple flower from the bathtub, place it in a vase on the sink counter, and then turn on the bathroom light to illuminate the arrangement",bathroom,FloorPlan420_002
+Simple,Pick up the hand towel from the sink and hang it on the towel rack.,bathroom,FloorPlan420_003
+Medium,"Open the garbage can, pick up the spray bottle, clean the sink basin, and return the spray bottle to its original spot.",bathroom,FloorPlan420_003
+Complex,"Turn on the faucet, fill the sink with water, use the cloth to wipe down the mirror, then drain the sink and turn off the faucet.",bathroom,FloorPlan420_003
+Simple,Pick up the toilet paper from the hanger and place it on the sink counter.,bathroom,FloorPlan420_004
+Medium,"Clean the sink basin using the scrub brush, then dispose of the brush in the garbage can.",bathroom,FloorPlan420_004
+Complex,"Spray the inside of the bathtub with the green spray bottle, wipe it with the hand towel, and hang the towel back on the holder.",bathroom,FloorPlan420_004
+Simple,Hang the towel on the towel holder,bathroom,FloorPlan421_001
+Medium,Pick up the soap bottle from the countertop and place it in the shower corner,bathroom,FloorPlan421_001
+Complex,"Turn on the shower, wait for 30 seconds, then turn it off and dry the sink area with the towel",bathroom,FloorPlan421_001
+Simple,Place the soap bar into the soap dish on the counter,bathroom,FloorPlan421_002
+Medium,Spray the mirror with the spray bottle and wipe it clean using the cloth,bathroom,FloorPlan421_002
+Complex,"Pick up the candle, place it on the countertop near the sink, light it using the lighter from the drawer, and then turn on the faucet to rinse the sink basin",bathroom,FloorPlan421_002
+Simple,Turn on the light switch to illuminate the room,bathroom,FloorPlan421_003
+Medium,Open the shower door and check if the shower is clean,bathroom,FloorPlan421_003
+Complex,"Turn on the light switch, then open the shower door and place a towel inside the shower area",bathroom,FloorPlan421_003
+Simple,Pick up the plunger and place it next to the toilet for easy access,bathroom,FloorPlan421_004
+Medium,Clean the toilet bowl using the scrub brush and then flush the toilet,bathroom,FloorPlan421_004
+Complex,"Remove the toilet paper from the hanger, replace it with a new roll, and dispose of the used roll in the garbage can",bathroom,FloorPlan421_004
+Simple,Turn on the light switch to illuminate the room,bathroom,FloorPlan422_001
+Medium,Retrieve toilet paper from the hanger and place it in the garbage can,bathroom,FloorPlan422_001
+Complex,"Open the door, retrieve a trash bag from the closet, and replace the garbage can liner",bathroom,FloorPlan422_001
+Simple,Place the tissue box on the shelf next to the soap bar,bathroom,FloorPlan422_002
+Medium,Retrieve the candle from the cabinet and place it on the toilet tank,bathroom,FloorPlan422_002
+Complex,"Use the scrub brush to clean the toilet bowl, then place the brush back in its holder",bathroom,FloorPlan422_002
+Simple,Place the soap bar from the sink into the shelf drawer,bathroom,FloorPlan422_003
+Medium,Retrieve the tissue box from the shelf and place it on the countertop next to the sink,bathroom,FloorPlan422_003
+Complex,"Open the top cabinet, take out the candle, place it on the counter, and then light it using the nearby electrical outlet",bathroom,FloorPlan422_003
+Simple,Open the cabinet above the sink and place the soap bottle inside,bathroom,FloorPlan422_004
+Medium,"Turn on the faucet, fill the sink basin with water, then turn off the faucet",bathroom,FloorPlan422_004
+Complex,"Take the towel from the rack, hang it over the bathtub edge, then close the shower curtain",bathroom,FloorPlan422_004
+Simple,Open the drawer under the sink and place the soap bottle inside,bathroom,FloorPlan423_001
+Medium,"Fill the sink with water, then use it to clean the countertop surface",bathroom,FloorPlan423_001
+Complex,"Open the shower door, turn on the shower faucet, wait for 10 seconds, then turn it off and close the shower door",bathroom,FloorPlan423_001
+Simple,Pick up the plunger and place it beside the toilet,bathroom,FloorPlan423_002
+Medium,Retrieve the scrub brush from the floor and clean the base of the toilet,bathroom,FloorPlan423_002
+Complex,"Open the drawer under the countertop, retrieve a cleaning cloth, and wipe down the toilet paper hanger before closing the drawer",bathroom,FloorPlan423_002
+Simple,Place the toilet paper roll on the counter top,bathroom,FloorPlan423_003
+Medium,Open the shower curtain and check if the bathtub is clean,bathroom,FloorPlan423_003
+Complex,"Retrieve the towel from the wall rack, fold it neatly, and place it on the counter top",bathroom,FloorPlan423_003
+Simple,Pick up the spray bottle from the countertop and place it on the sink basin,bathroom,FloorPlan423_004
+Medium,"Turn on the faucet, fill the sink with water, then turn off the faucet and wipe the countertop with the hand towel",bathroom,FloorPlan423_004
+Complex,"Light the candle on the countertop using the hand towel as a wick, then extinguish it after 30 seconds and clean the countertop with the spray bottle",bathroom,FloorPlan423_004
+Simple,Place the soap bar on the sink counter,bathroom,FloorPlan424_001
+Medium,Open the cabinet under the sink and place the garbage can inside,bathroom,FloorPlan424_001
+Complex,"Turn on the faucet, rinse the sink basin, then turn off the faucet and wipe the counter with a towel",bathroom,FloorPlan424_001
+Simple,Turn on the light switch to illuminate the room,bathroom,FloorPlan424_002
+Medium,Open the shower door and place the garbage can inside the shower area,bathroom,FloorPlan424_002
+Complex,"Move to the garbage can, pick it up, walk to the shower area, open the shower door, and place the garbage can inside before closing the door",bathroom,FloorPlan424_002
+Simple,Hang the towel on the towel holder in the shower area,bathroom,FloorPlan424_003
+Medium,Pick up the spray bottle from the sink and use it to clean the shower glass,bathroom,FloorPlan424_003
+Complex,"Retrieve the toilet paper from the sink, place it on the toilet tank, then open the shower door and hang the towel neatly on the towel holder",bathroom,FloorPlan424_003
+Simple,Place the soap bar from the sink into the soap dish on the counter,bathroom,FloorPlan424_004
+Medium,"Turn on the faucet, rinse the cloth in the sink, and hang it on the hand towel holder",bathroom,FloorPlan424_004
+Complex,"Pick up the candle, place it on the countertop near the mirror, light it using the nearby electrical outlet, and then turn on the bathroom lights above the mirror",bathroom,FloorPlan424_004
+Simple,Hang the towel on the towel holder next to the shower,bathroom,FloorPlan425_001
+Medium,Pick up the scrub brush from the floor and clean the shower door with it,bathroom,FloorPlan425_001
+Complex,"Remove the cloth from the toilet tank, place it on the countertop, then wipe down the toilet seat with a fresh towel",bathroom,FloorPlan425_001
+Simple,Pick up the cloth from the toilet tank and place it on the green surface.,bathroom,FloorPlan425_002
+Medium,"Turn on the light switch to illuminate the room, then pick up the cloth and fold it neatly before placing it on the toilet tank.",bathroom,FloorPlan425_002
+Complex,"Retrieve the cloth from the toilet tank, move to the green surface, fold the cloth precisely, and place it on top of the green surface while ensuring the room is well-lit by toggling the light switch.",bathroom,FloorPlan425_002
+Simple,Place the soap bar into the soap dish on the countertop,bathroom,FloorPlan425_003
+Medium,Retrieve the tissue box from the counter and place it neatly beside the sink,bathroom,FloorPlan425_003
+Complex,"Open the cabinet under the sink, retrieve a cleaning cloth, and wipe down both sink basins before closing the cabinet",bathroom,FloorPlan425_003
+Simple,Pick up the cloth from the toilet tank and place it on the countertop.,bathroom,FloorPlan425_004
+Medium,"Turn on the sink faucet, wash the cloth in the sink, then wring it out and hang it on the shower door handle.",bathroom,FloorPlan425_004
+Complex,"Open the shower door, place the cloth inside the shower, close the door, turn on the shower to rinse the cloth, then turn it off and open the door to retrieve the cloth.",bathroom,FloorPlan425_004
+Simple,Place the tissue box on the countertop,bathroom,FloorPlan426_001
+Medium,"Open the drawer and retrieve a towel, then hang it on the towel rack",bathroom,FloorPlan426_001
+Complex,"Retrieve a tissue from the tissue box, wipe the sink surface, and then place the used tissue in the trash bin",bathroom,FloorPlan426_001
+Simple,Replace the used toilet paper roll with a new one from the shelf,bathroom,FloorPlan426_002
+Medium,Clean the sink using the towel and then hang it back on the rack,bathroom,FloorPlan426_002
+Complex,"Open the toilet tank, remove the water valve, and replace it with a new one before closing the tank",bathroom,FloorPlan426_002
+Simple,Hang the towel on the towel holder near the bathtub,bathroom,FloorPlan426_003
+Medium,Pick up the soap bar from the edge of the bathtub and place it in the shower caddy,bathroom,FloorPlan426_003
+Complex,"Open the shower curtain, turn on the shower faucet, wait for water to warm up, then rinse the soap bar under running water before turning off the faucet and closing the curtain",bathroom,FloorPlan426_003
+Simple,Hang the hand towel on the hand towel holder,bathroom,FloorPlan427_001
+Medium,Retrieve the hand towel from the holder and fold it neatly before placing it back,bathroom,FloorPlan427_001
+Complex,"Move to the door, open it, retrieve a clean towel from the adjacent room, bring it back, and hang it on the hand towel holder",bathroom,FloorPlan427_001
+Simple,Turn on the faucet and wash your hands at the sink,bathroom,FloorPlan427_002
+Medium,"Pick up the hand towel from the holder, wipe the sink basin, and return the towel to the holder",bathroom,FloorPlan427_002
+Complex,"Open the garbage can, remove any visible trash, close it, then clean the sink with the hand towel and place the towel back on the holder",bathroom,FloorPlan427_002
+Simple,Hang the towel on the towel rack next to the bathtub,bathroom,FloorPlan427_003
+Medium,Move the green sponge from the counter into the bathtub and fill the tub with water,bathroom,FloorPlan427_003
+Complex,"Open the drawer under the counter, retrieve the soap bottle, place it on the edge of the bathtub, then close the drawer",bathroom,FloorPlan427_003
+Simple,Place the soap bar from the countertop into the dish sponge holder in the sink,bathroom,FloorPlan427_004
+Medium,"Open the drawer, retrieve the tissue box, and place it on the toilet tank for easy access",bathroom,FloorPlan427_004
+Complex,"Pick up the spray bottle, clean the countertop with it, then put it back in its original position",bathroom,FloorPlan427_004
+Simple,Hang the towel on the towel holder,bathroom,FloorPlan428_001
+Medium,Open the shower door and turn on the shower head,bathroom,FloorPlan428_001
+Complex,"Retrieve the towel from the floor, hang it on the towel holder, then open the shower door and activate the shower head for a set duration.",bathroom,FloorPlan428_001
+Simple,Place the soap bottle on the counter next to the sink,bathroom,FloorPlan428_002
+Medium,"Turn on the faucet, wash the hands, and then turn off the faucet",bathroom,FloorPlan428_002
+Complex,"Pick up the soap bar, wet it under the running faucet, lather it, and then place it back on the soap dish",bathroom,FloorPlan428_002
+Simple,Place the soap bar from the sink into the soap dish on the counter,bathroom,FloorPlan428_003
+Medium,Pick up the spray bottle from the toilet tank and clean the mirror with it,bathroom,FloorPlan428_003
+Complex,"Remove the candle from the toilet tank, place it on the countertop, light it using the faucet's spark function, and then place it back on the tank",bathroom,FloorPlan428_003
+Simple,Pick up the green leaf from the cabinet and place it in the box on the adjacent cabinet,bathroom,FloorPlan429_001
+Medium,"Move to the right cabinet, pick up the yellow bottle, open the cabinet door, place the bottle inside, and close the cabinet",bathroom,FloorPlan429_001
+Complex,"Retrieve the box from the left cabinet, move it to the center of the room, open the box, take out any contents, and place them neatly on top of the right cabinet",bathroom,FloorPlan429_001
+Simple,Place the soap bottle from the side table onto the sink counter,bathroom,FloorPlan429_002
+Medium,Retrieve the towel from the rack and hang it neatly on the door handle,bathroom,FloorPlan429_002
+Complex,"Turn on the sink faucet, fill a cup with water, then turn off the faucet and place the cup on the side table",bathroom,FloorPlan429_002
+Simple,Hang the hand towel on the hand towel holder,bathroom,FloorPlan429_003
+Medium,Fill the sink with water using the faucet and then turn it off,bathroom,FloorPlan429_003
+Complex,"Retrieve the soap bottle from the side table, place it on the sink counter, and then use it to clean the mirror before returning it to its original spot",bathroom,FloorPlan429_003
+Simple,Place the cleaning brush next to the toilet for easy access,bathroom,FloorPlan429_004
+Medium,Fill the bathtub with water using the faucet and then turn off the tap,bathroom,FloorPlan429_004
+Complex,"Retrieve the soap from the shelf, use it to clean the bathtub, and then rinse the tub with water",bathroom,FloorPlan429_004
+Simple,Pick up the scrub brush and place it in the corner near the toilet,bathroom,FloorPlan429_005
+Medium,Replace the used toilet paper roll on the hanger with a new one from the stack on the toilet tank,bathroom,FloorPlan429_005
+Complex,"Take the soap bar from the toilet tank, wash it under the running water from the bathtub faucet, then place it back on the tank",bathroom,FloorPlan429_005
+Simple,Pick up the towel from the rack and hang it neatly on the bathroom door handle,bathroom,FloorPlan430_001
+Medium,"Open the toilet lid, flush the toilet, then close the lid and clean the seat with a disinfectant wipe",bathroom,FloorPlan430_001
+Complex,"Retrieve a bathrobe from the closet, bring it to the shower area, place it on the floor near the shower entrance, and turn on the bathroom heater for 5 minutes",bathroom,FloorPlan430_001
+Simple,Move the garbage can closer to the toilet for easier disposal access,bathroom,FloorPlan430_002
+Medium,Open the shower door and clean the glass with a cloth from the nearby shelf,bathroom,FloorPlan430_002
+Complex,"Retrieve a towel from the bathroom rack, fold it neatly, and place it on top of the toilet tank",bathroom,FloorPlan430_002
+Simple,Pick up the spray bottle from the side table and place it on the sink basin,bathroom,FloorPlan430_003
+Medium,"Fill the sink with water using the faucet, then clean the side table with the spray bottle",bathroom,FloorPlan430_003
+Complex,"Open the bathtub drain, fill the tub with water using the faucet, then close the drain and turn off the faucet",bathroom,FloorPlan430_003
+Simple,Place the towel from the rack onto the edge of the bathtub,bathroom,FloorPlan430_004
+Medium,"Open the bathroom cabinet, retrieve the soap bottle, and place it on the sink counter",bathroom,FloorPlan430_004
+Complex,"Fill the bathtub with water using the faucet, then place the shower curtain around it and close the shower area",bathroom,FloorPlan430_004
+Simple,Hang the towel on the towel holder near the shower,bathroom,FloorPlan430_005
+Medium,Open the drawer under the counter and place the cloth inside,bathroom,FloorPlan430_005
+Complex,"Retrieve the footstool from under the counter, move it beside the bathtub, and place a clean towel on top of it",bathroom,FloorPlan430_005

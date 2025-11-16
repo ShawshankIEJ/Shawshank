@@ -1,0 +1,93 @@
+{
+    "scene_name": "FloorPlan25",
+    "scene_number": 4,
+    "image_filename": "saved_scenes/FloorPlan25_004.jpg",
+    "agent_position": [
+        -1.25,
+        0.9009992480278015,
+        2.25
+    ],
+    "agent_rotation": 90.0,
+    "visible_objects": [
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-00.55|+00.39|+01.41"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-00.55|+00.39|+00.75"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|-01.56|+00.86|+00.28"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-00.40|+00.70|+00.91"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-00.40|+00.70|+01.25"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "GarbageCan",
+            "objectId": "GarbageCan|-00.33|+00.00|+02.61"
+        },
+        {
+            "objectType": "LightSwitch",
+            "objectId": "LightSwitch|-00.62|+01.38|+03.00"
+        },
+        {
+            "objectType": "Pan",
+            "objectId": "Pan|-00.39|+00.81|+01.11"
+        },
+        {
+            "objectType": "Pot",
+            "objectId": "Pot|-00.53|+00.82|+02.10"
+        },
+        {
+            "objectType": "Potato",
+            "objectId": "Potato|-00.24|+00.85|+01.33"
+        },
+        {
+            "objectType": "Stool",
+            "objectId": "Stool|-01.01|+00.01|+01.96"
+        },
+        {
+            "objectType": "StoveBurner",
+            "objectId": "StoveBurner|-00.52|+00.82|+01.68"
+        },
+        {
+            "objectType": "StoveBurner",
+            "objectId": "StoveBurner|-00.24|+00.82|+01.68"
+        },
+        {
+            "objectType": "StoveBurner",
+            "objectId": "StoveBurner|-00.52|+00.82|+02.08"
+        },
+        {
+            "objectType": "StoveBurner",
+            "objectId": "StoveBurner|-00.24|+00.82|+02.08"
+        },
+        {
+            "objectType": "StoveKnob",
+            "objectId": "StoveKnob|-00.07|+01.00|+02.02"
+        },
+        {
+            "objectType": "StoveKnob",
+            "objectId": "StoveKnob|-00.07|+01.00|+02.17"
+        },
+        {
+            "objectType": "StoveKnob",
+            "objectId": "StoveKnob|-00.07|+01.00|+01.77"
+        },
+        {
+            "objectType": "StoveKnob",
+            "objectId": "StoveKnob|-00.07|+01.00|+01.61"
+        }
+    ]
+}

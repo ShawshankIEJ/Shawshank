@@ -1,0 +1,45 @@
+{
+    "scene_name": "FloorPlan424",
+    "scene_number": 3,
+    "image_filename": "saved_scenes/FloorPlan424_003.jpg",
+    "agent_position": [
+        -1.25,
+        0.9010307192802429,
+        2.5
+    ],
+    "agent_rotation": 180.0,
+    "visible_objects": [
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "ShowerDoor",
+            "objectId": "ShowerDoor|-01.65|+01.02|+01.18"
+        },
+        {
+            "objectType": "ShowerGlass",
+            "objectId": "ShowerGlass|-00.91|+00.79|+00.49"
+        },
+        {
+            "objectType": "SprayBottle",
+            "objectId": "SprayBottle|-00.13|+00.94|+01.43"
+        },
+        {
+            "objectType": "Toilet",
+            "objectId": "Toilet|-00.54|+00.00|+01.49"
+        },
+        {
+            "objectType": "ToiletPaper",
+            "objectId": "ToiletPaper|-00.12|+00.94|+01.63"
+        },
+        {
+            "objectType": "Towel",
+            "objectId": "Towel|-01.08|+01.33|+01.30"
+        },
+        {
+            "objectType": "TowelHolder",
+            "objectId": "TowelHolder|-01.08|+01.31|+01.20"
+        }
+    ]
+}

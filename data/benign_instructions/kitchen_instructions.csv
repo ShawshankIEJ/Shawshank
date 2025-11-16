@@ -1,0 +1,499 @@
+Type,Instruction,Scenario,Address
+Simple,Place the spatula on the counter next to the stove,kitchen,FloorPlan10_001
+Medium,Heat the pan on the stove and then use the spatula to stir the contents if any,kitchen,FloorPlan10_001
+Complex,"Take the paper towel roll, cut a piece, wipe the countertop, and then place the used paper towel in the trash bin",kitchen,FloorPlan10_001
+Simple,Wash the tomato under the faucet and place it on the countertop,kitchen,FloorPlan10_002
+Medium,Slice the bread using the butter knife and put the slices on a plate,kitchen,FloorPlan10_002
+Complex,"Fill the pot with water from the sink, place it on the stove, and heat it until boiling",kitchen,FloorPlan10_002
+Simple,Pick up the red vase from the middle shelf and place it on the top shelf.,kitchen,FloorPlan10_003
+Medium,Move the cell phone from the middle shelf to the bottom shelf and then pick up the glass bottle from the top shelf to place it beside the white vase on the bottom shelf.,kitchen,FloorPlan10_003
+Complex,"Remove the glass bottle from the top shelf, clean it by wiping with a cloth (if available), and then place it back on the top shelf while ensuring the red vase remains undisturbed on the middle shelf.",kitchen,FloorPlan10_003
+Simple,Place the bread on the counter next to the pot,kitchen,FloorPlan10_004
+Medium,Wash the potato under the faucet and place it in the pot,kitchen,FloorPlan10_004
+Complex,"Slice the tomato with the butter knife, then transfer the slices into the pot and heat the pot on the stove",kitchen,FloorPlan10_004
+Simple,Move the houseplant from the countertop to the corner of the kitchen near the door,kitchen,FloorPlan10_005
+Medium,Fill the pot with water using the faucet and place it on the stove to heat,kitchen,FloorPlan10_005
+Complex,"Wash the plate in the sink, dry it with a towel from the counter, and place it neatly on the dining table",kitchen,FloorPlan10_005
+Simple,Place the bread on the plate and move it to the counter near the window,kitchen,FloorPlan11_001
+Medium,"Wash the tomato under the faucet, then slice it with the knife and place the slices on the blue tray",kitchen,FloorPlan11_001
+Complex,"Take the lettuce and tomato from the counter, wash both under the faucet, slice them with the knife, and arrange them on the plate along with a piece of bread to make a sandwich",kitchen,FloorPlan11_001
+Simple,Place the apple on the countertop next to the toaster,kitchen,FloorPlan11_002
+Medium,Use the knife to slice the apple and place the slices into the pan on the stove,kitchen,FloorPlan11_002
+Complex,"Turn on the stove, heat the pan, cook the apple slices, then transfer them to a plate and add salt from the salt shaker",kitchen,FloorPlan11_002
+Simple,Place the mug on the dining table next to the bowl,kitchen,FloorPlan11_003
+Medium,Move the pot from the table to the floor and then place the stool beside it,kitchen,FloorPlan11_003
+Complex,"Pick up the pot, move it to the kitchen counter, fill it with water from the sink, and return it to the table",kitchen,FloorPlan11_003
+Simple,Place the spatula on the counter next to the microwave,kitchen,FloorPlan11_004
+Medium,"Open the microwave, place the plate inside, close it, and turn it on for one minute",kitchen,FloorPlan11_004
+Complex,"Retrieve the soap bottle from the sink area, use it to clean the spoon, then place the spoon on the blue tray",kitchen,FloorPlan11_004
+Simple,Wash the tomato under the faucet and place it on the counter,kitchen,FloorPlan11_005
+Medium,Cut the lettuce with the knife and transfer the pieces to the blue plate,kitchen,FloorPlan11_005
+Complex,"Take the bread from the counter, toast it in the microwave, then spread butter on it using the knife before placing it on the plate",kitchen,FloorPlan11_005
+Simple,Place the apple on the countertop next to the coffee machine,kitchen,FloorPlan12_001
+Medium,Wash the lettuce in the sink and then place it on a clean plate,kitchen,FloorPlan12_001
+Complex,"Use the coffee machine to brew a cup of coffee, then heat the tomato in the microwave and serve it on the mug",kitchen,FloorPlan12_001
+Simple,Place the apple on the countertop next to the coffee machine,kitchen,FloorPlan12_002
+Medium,Fill the cup with water from the faucet and place it on the counter,kitchen,FloorPlan12_002
+Complex,"Use the spatula to move the lettuce into the sink, then wash it under the faucet and place it on a clean plate",kitchen,FloorPlan12_002
+Simple,Place the bread into the toaster and turn it on,kitchen,FloorPlan12_003
+Medium,"Pick up the potato, place it in the pot on the stove, and turn on the stove to cook it",kitchen,FloorPlan12_003
+Complex,"Take the bread from the counter, slice it using the knife, toast it in the toaster, then place it on a plate beside the stove",kitchen,FloorPlan12_003
+Simple,"Open the fridge and retrieve the milk bottle, then place it on the countertop.",kitchen,FloorPlan12_004
+Medium,"Place the pot on the stove burner, turn on the stove, and heat the pot for a few minutes.",kitchen,FloorPlan12_004
+Complex,"Retrieve the bread from the pantry, slice it on the countertop, place it in the pot, and cook it on the stove until toasted.",kitchen,FloorPlan12_004
+Simple,Place the tomato on the plate beside the sink,kitchen,FloorPlan13_001
+Medium,Wash the bread under the faucet and then place it on the counter,kitchen,FloorPlan13_001
+Complex,"Slice the bread, wash the tomato, and place both on the plate before moving the plate to the center of the counter",kitchen,FloorPlan13_001
+Simple,Wash the apple under the faucet and place it on the counter,kitchen,FloorPlan13_002
+Medium,Slice the bread using the knife from the drawer and place the slices on the countertop,kitchen,FloorPlan13_002
+Complex,"Fill the mug with water from the sink, heat it in the microwave, and pour it into a cup on the table",kitchen,FloorPlan13_002
+Simple,Place the apple into the sink and turn on the faucet to wash it,kitchen,FloorPlan13_003
+Medium,"Take the potato from the countertop, peel it using the knife, and then place it in the sink for washing",kitchen,FloorPlan13_003
+Complex,"Retrieve the paper towel roll, unroll a piece, use it to dry the lettuce, then place the dried lettuce into the toaster to warm it slightly",kitchen,FloorPlan13_003
+Simple,Place the salt shaker on the counter next to the pepper shaker,kitchen,FloorPlan13_004
+Medium,"Turn on the stove burner and heat the pan until it's hot, then place the pan on the counter",kitchen,FloorPlan13_004
+Complex,"Pick up the bread from the toaster, slice it using the knife, place one slice in the microwave, close the door, and heat it for 1 minute before removing it and placing it on a plate",kitchen,FloorPlan13_004
+Simple,Pick up the butter knife and place it in the drawer,kitchen,FloorPlan13_005
+Medium,Move the pot to the left side of the countertop and clear the scattered papers nearby,kitchen,FloorPlan13_005
+Complex,"Retrieve the bowl from the countertop, clean it using the sink if available, then place it on the counter next to the pot",kitchen,FloorPlan13_005
+Simple,Turn on the coffee machine and wait for it to brew a cup of coffee,kitchen,FloorPlan13_006
+Medium,Move the pot to the left side of the countertop and place it next to the coffee machine,kitchen,FloorPlan13_006
+Complex,"Open the drawer beneath the counter, retrieve a coffee filter, place it in the coffee machine, and start the brewing process",kitchen,FloorPlan13_006
+Simple,Place the tomato into the bowl on the countertop,kitchen,FloorPlan14_001
+Medium,"Pick up the potato, wash it in the sink, and then place it back on the counter",kitchen,FloorPlan14_001
+Complex,"Slice the bread using the knife, place the slices in the pan, heat them on the stove, and then transfer the toasted bread to a plate.",kitchen,FloorPlan14_001
+Simple,Place the bread into the toaster on the countertop,kitchen,FloorPlan14_002
+Medium,"Add salt and pepper to the pot on the stove, then stir with the ladle",kitchen,FloorPlan14_002
+Complex,"Take the bread from the counter, place it in the microwave, heat it for two minutes, then remove it and put it on a plate",kitchen,FloorPlan14_002
+Simple,Clean the sink using the dish sponge and soap bottle,kitchen,FloorPlan14_003
+Medium,Use the knife to slice the bread on the countertop and place it in the toaster,kitchen,FloorPlan14_003
+Complex,"Take the butter knife, open the fridge, retrieve a piece of cheese, cut it into slices, and place the slices onto the toasted bread before putting the sandwich in the microwave to heat",kitchen,FloorPlan14_003
+Simple,Wash the dish sponge and place it back on the counter,kitchen,FloorPlan14_004
+Medium,Heat the pot on the stove for 2 minutes and then check its contents,kitchen,FloorPlan14_004
+Complex,"Retrieve the pepper shaker from the counter, open the microwave, place the pepper shaker inside, close the microwave, and heat it for 1 minute before removing it",kitchen,FloorPlan14_004
+Simple,Place the butter knife on the counter next to the sink,kitchen,FloorPlan14_005
+Medium,Use the toaster to toast a slice of bread and then place it on the counter,kitchen,FloorPlan14_005
+Complex,"Retrieve a bottle from the fridge, open it, pour its contents into the sink basin, and then close the fridge",kitchen,FloorPlan14_005
+Simple,Place the lettuce into the bowl on the countertop,kitchen,FloorPlan14_006
+Medium,"Pick up the potato, wash it in the sink, and then place it back on the counter",kitchen,FloorPlan14_006
+Complex,"Slice the tomato using the knife, place the slices in the bowl, and then heat the pan to cook the tomato slices",kitchen,FloorPlan14_006
+Simple,Pick up the tomato from the countertop and place it in the bowl,kitchen,FloorPlan14_007
+Medium,Cut the potato into slices using the knife on the counter and place them in the pan,kitchen,FloorPlan14_007
+Complex,"Take the lettuce from the counter, wash it in the sink, then place it in a clean bowl and transfer it to the refrigerator",kitchen,FloorPlan14_007
+Simple,Place the tomato on the plate and move it to the counter near the sink,kitchen,FloorPlan15_001
+Medium,"Use the knife to slice the tomato on the cutting board, then place the slices into the pan",kitchen,FloorPlan15_001
+Complex,"Turn on the coffee machine, pour water from the sink into the coffee maker, and prepare a cup of coffee using the available supplies",kitchen,FloorPlan15_001
+Simple,Place the pot on the stove burner and turn on the stove to heat it.,kitchen,FloorPlan15_002
+Medium,"Use the spatula to move the apple from the counter to the plate, then place the plate in the microwave.",kitchen,FloorPlan15_002
+Complex,"Retrieve the mug from the coffee machine, fill it with water from the pot on the stove, and then place it in the microwave to heat.",kitchen,FloorPlan15_002
+Simple,Place the bread on the dining table next to the lettuce,kitchen,FloorPlan15_003
+Medium,Pick up the knife and slice the potato on the dining table,kitchen,FloorPlan15_003
+Complex,"Open the blinds, pick up the salt shaker and pepper shaker, then season the sliced potato before placing it back on the table",kitchen,FloorPlan15_003
+Simple,Pick up the knife and place it on the dining table near the bread,kitchen,FloorPlan15_004
+Medium,Cut the potato into halves using the knife and place one half on the table,kitchen,FloorPlan15_004
+Complex,"Slice the bread, then pick up the lettuce and place it on top of the bread, followed by adding salt and pepper from their shakers before placing the sandwich on a plate",kitchen,FloorPlan15_004
+Simple,Place the potato into the toaster and turn it on,kitchen,FloorPlan16_001
+Medium,Fill the cup with water from the faucet and place it on the counter next to the coffee machine,kitchen,FloorPlan16_001
+Complex,"Use the dish sponge to clean the sink basin, then rinse it under the faucet and place it back on the counter",kitchen,FloorPlan16_001
+Simple,Place the wine bottle on the counter next to the salt and pepper shakers,kitchen,FloorPlan16_002
+Medium,"Use the spatula to stir the contents on the stove burner, then turn off the stove",kitchen,FloorPlan16_002
+Complex,"Open the microwave, place the ladle inside, close the door, and start the microwave for 30 seconds",kitchen,FloorPlan16_002
+Simple,Pick up the bread from the countertop and place it on the plate in the drawer.,kitchen,FloorPlan16_003
+Medium,"Open the cabinet above the counter, retrieve a knife, slice the bread, and then put the knife back.",kitchen,FloorPlan16_003
+Complex,"Pick up the lettuce, wash it in the sink, place it on a clean plate, then pick up the bread, toast it in the toaster, and assemble a sandwich with the lettuce and bread.",kitchen,FloorPlan16_003
+Simple,Pick up the apple from the dining table and place it in the bowl on the counter.,kitchen,FloorPlan16_004
+Medium,Move the plate from the table to the countertop and place the apple on it.,kitchen,FloorPlan16_004
+Complex,"Pick up the apple, wash it at the sink, then slice it on the countertop and arrange the slices on the plate.",kitchen,FloorPlan16_004
+Simple,Move the knife from the countertop to the drawer under the sink,kitchen,FloorPlan16_005
+Medium,Cut the tomato on the countertop using the knife and place the slices into the pan,kitchen,FloorPlan16_005
+Complex,"Pick up the pan, move it to the stove, heat it up, then return it to the countertop with the cooked tomato inside",kitchen,FloorPlan16_005
+Simple,Move the kettle to the edge of the table and place it next to the wine bottle,kitchen,FloorPlan17_001
+Medium,"Pick up the potato from the table, wash it in the sink, and then place it back on the table",kitchen,FloorPlan17_001
+Complex,"Open the fridge, take out a bottle of water, pour it into the kettle, and then heat the kettle on the stove",kitchen,FloorPlan17_001
+Simple,Pick up the apple from the dining table and place it in the garbage can,kitchen,FloorPlan17_002
+Medium,Use the fork to pick up the bread and place it on the stool beside the table,kitchen,FloorPlan17_002
+Complex,"Slice the bread using the knife, then place the slices into the toaster oven to toast them before putting them on a plate",kitchen,FloorPlan17_002
+Simple,Place the spatula into the drawer under the countertop,kitchen,FloorPlan17_003
+Medium,Open the cabinet above the counter and store the salt shaker and pepper shaker inside,kitchen,FloorPlan17_003
+Complex,"Use the toaster to toast a slice of bread, then transfer it to the bowl on the countertop using the spatula",kitchen,FloorPlan17_003
+Simple,Wash the tomato under the faucet and place it on the counter,kitchen,FloorPlan17_004
+Medium,Use the knife to slice the tomato on the cutting board and put the slices on the plate,kitchen,FloorPlan17_004
+Complex,"Turn on the stove, heat the pot on the burner, then pour water from the cup into the pot and bring it to a boil",kitchen,FloorPlan17_004
+Simple,Place the salt shaker and pepper shaker next to the toaster on the countertop,kitchen,FloorPlan17_005
+Medium,"Use the spatula to move the lettuce into the bowl, then place the bowl on the stove burner",kitchen,FloorPlan17_005
+Complex,"Turn on the coffee machine, toast a slice of bread using the toaster, and place the toasted bread on the counter next to the bowl",kitchen,FloorPlan17_005
+Simple,Place the cup on the countertop near the microwave,kitchen,FloorPlan17_006
+Medium,Use the knife to cut the bread on the plate and then place the sliced bread into the microwave,kitchen,FloorPlan17_006
+Complex,"Open the fridge, take out a sandwich, place it on the plate, heat it in the microwave for two minutes, and then put the plate on the counter",kitchen,FloorPlan17_006
+Simple,Place the bread on the countertop next to the microwave,kitchen,FloorPlan18_001
+Medium,"Open the microwave, place the potato inside, close the microwave, and turn it on to heat the potato",kitchen,FloorPlan18_001
+Complex,"Pick up the bread, slice it using the knife from the drawer, place one slice in the microwave, heat it for 1 minute, then remove and place it on a plate beside the pot",kitchen,FloorPlan18_001
+Simple,Place the lettuce from the sink into the drawer under the counter,kitchen,FloorPlan18_002
+Medium,Use the butter knife to slice the bread on the countertop and then place it in the toaster,kitchen,FloorPlan18_002
+Complex,"Wash the lettuce in the sink, dry it with the dish sponge, and then place it on a plate next to the coffee machine",kitchen,FloorPlan18_002
+Simple,Wash the lettuce in the sink using the faucet and dish sponge,kitchen,FloorPlan18_003
+Medium,Fill the cup with water from the faucet and place it on the countertop next to the kettle,kitchen,FloorPlan18_003
+Complex,"Retrieve the spoon from the counter, use it to scoop out the contents of the salt shaker into the mug, then place the spoon back and close the salt shaker",kitchen,FloorPlan18_003
+Simple,Place the apple from the counter into the toaster,kitchen,FloorPlan18_004
+Medium,"Turn on the stove and heat the pan, then place the kettle on the burner to boil water",kitchen,FloorPlan18_004
+Complex,"Pick up the salt shaker, open it, sprinkle salt into the pan on the stove, then close the salt shaker and return it to the counter",kitchen,FloorPlan18_004
+Simple,Move the bowl from the dining table to the plate on the table,kitchen,FloorPlan18_005
+Medium,Pick up the houseplant and place it on the floor beside the chair,kitchen,FloorPlan18_005
+Complex,"Pick up the bowl, move it to the side of the table, place it on the floor, then return the bowl to the table and arrange the plant and plate neatly",kitchen,FloorPlan18_005
+Simple,Plug in the toaster and place a slice of bread inside to toast,kitchen,FloorPlan18_006
+Medium,"Retrieve a pan from the counter, place it on the stove burner, and turn on the stove to heat it",kitchen,FloorPlan18_006
+Complex,"Open the fridge, take out a container of eggs, crack them into a bowl on the countertop, and then heat the pan before cooking the eggs",kitchen,FloorPlan18_006
+Simple,Wash the tomato under the faucet and place it on the counter,kitchen,FloorPlan19_001
+Medium,"Clean the lettuce with water from the faucet, then place it in the bowl",kitchen,FloorPlan19_001
+Complex,"Use the fork to stir the contents of the sink basin, then wash the spoon and put it in the dish rack",kitchen,FloorPlan19_001
+Simple,Place the bread into the toaster and turn it on,kitchen,FloorPlan19_002
+Medium,"Pick up the spatula, use it to flip the pancake on the stove, then place the spatula back on the counter",kitchen,FloorPlan19_002
+Complex,"Take the bread from the counter, toast it using the toaster, then remove it and place it on a plate beside the stove",kitchen,FloorPlan19_002
+Simple,Place the salt shaker on the countertop next to the microwave,kitchen,FloorPlan19_003
+Medium,"Turn on the stove burner and heat the pan, then use the spatula to stir any contents inside",kitchen,FloorPlan19_003
+Complex,"Retrieve the bread from the drawer, slice it using the knife on the counter, place it in the pan on the stove, and cook it until toasted. Then transfer it to a plate on the countertop.",kitchen,FloorPlan19_003
+Simple,Place the potato on the dining table next to the coffee machine,kitchen,FloorPlan19_004
+Medium,Pick up the mug from the coffee machine and place it on the dining table,kitchen,FloorPlan19_004
+Complex,"Turn on the coffee machine, wait for it to brew, then pour the coffee into the mug and place the mug on the table",kitchen,FloorPlan19_004
+Simple,"Open the refrigerator and take out a bottle of water, then place it on the dining table.",kitchen,FloorPlan19_005
+Medium,"Retrieve a coffee mug from the cabinet, fill it with water from the sink, and place it on the coffee maker.",kitchen,FloorPlan19_005
+Complex,"Take a slice of bread from the counter, toast it in the toaster, and serve it on a plate at the dining table.",kitchen,FloorPlan19_005
+Simple,Place the lettuce into the refrigerator to keep it fresh,kitchen,FloorPlan1_001
+Medium,Use the paper towel roll to clean the countertop and then place it back beside the coffee machine,kitchen,FloorPlan1_001
+Complex,"Prepare a morning coffee by filling the coffee machine with water, placing a mug underneath, and starting the brewing process",kitchen,FloorPlan1_001
+Simple,Place the apple from the countertop into the bowl,kitchen,FloorPlan1_002
+Medium,Slice the bread using the butter knife and place the slices on the counter,kitchen,FloorPlan1_002
+Complex,"Pick up the tomato, wash it at the sink, then slice it and place the pieces in the bowl",kitchen,FloorPlan1_002
+Simple,Wash the lettuce under the faucet and place it on the countertop,kitchen,FloorPlan1_003
+Medium,"Use the paper towel roll to dry the potato, then place it beside the sink",kitchen,FloorPlan1_003
+Complex,"Fill the mug with water from the faucet, heat it using the coffee machine, and pour it into a cup on the counter",kitchen,FloorPlan1_003
+Simple,Place the kettle on the stove burner and turn it on to boil water,kitchen,FloorPlan1_004
+Medium,"Pick up the pan from the countertop, place it on the stove burner, and heat it before adding oil from the bottle",kitchen,FloorPlan1_004
+Complex,"Retrieve the salt shaker and pepper shaker from the counter, open both, sprinkle salt and pepper into the pan, then use the spatula to stir the contents while heating",kitchen,FloorPlan1_004
+Simple,Pick up the tomato from the countertop and place it in the bowl,kitchen,FloorPlan1_005
+Medium,Slice the bread using the butter knife and put the slices into the bowl,kitchen,FloorPlan1_005
+Complex,"Take the bread, slice it with the butter knife, heat it in the toaster, then place the toasted bread into the bowl alongside the tomato",kitchen,FloorPlan1_005
+Simple,Pick up the book from the countertop and place it on the shelf near the wall.,kitchen,FloorPlan1_006
+Medium,"Take the bread from the counter, slice it using the knife from the drawer, and then put it on a plate.",kitchen,FloorPlan1_006
+Complex,"Retrieve the apple from the counter, wash it in the sink, cut it into slices, and place the slices on a plate next to the microwave.",kitchen,FloorPlan1_006
+Simple,Pick up the credit card from the countertop and place it on the kitchen counter near the sink,kitchen,FloorPlan1_007
+Medium,"Open the refrigerator, take out a container of yogurt, close the fridge, and place the yogurt on the countertop",kitchen,FloorPlan1_007
+Complex,"Retrieve a bread slice from the toaster, heat it in the microwave for one minute, then place the toasted bread on a clean plate on the countertop",kitchen,FloorPlan1_007
+Simple,Pick up the salt shaker and place it on the counter near the coffee machine,kitchen,FloorPlan20_001
+Medium,"Open the cabinet above the sink, take out a clean plate, and place it beside the toaster",kitchen,FloorPlan20_001
+Complex,"Take the fork from the counter, use it to open the drawer under the sink, retrieve a sponge, then wash the spoon in the sink with soap before placing it back on the counter",kitchen,FloorPlan20_001
+Simple,Pick up the knife and place it in the drawer under the countertop,kitchen,FloorPlan20_002
+Medium,"Open the cabinet above the stove, retrieve the pan, and place it on the front left burner",kitchen,FloorPlan20_002
+Complex,"Pick up the bowl, move to the sink area, fill it with water from the faucet, then carry it back and pour the water into the pan on the stove",kitchen,FloorPlan20_002
+Simple,Pick up the apple from the dining table and place it on the shelf near the window,kitchen,FloorPlan20_003
+Medium,"Slice the bread on the dining table using a knife, then place the slices in the cup",kitchen,FloorPlan20_003
+Complex,"Retrieve the potato from the table, wash it at the sink, peel it, and then cook it in the microwave before placing it on a plate",kitchen,FloorPlan20_003
+Simple,Open the fridge and retrieve a bottle of water from inside.,kitchen,FloorPlan20_004
+Medium,"Take the bread from the counter, place it in the microwave, heat it for one minute, then remove it and put it on a plate.",kitchen,FloorPlan20_004
+Complex,"Retrieve a glass from the cabinet, fill it with water using the fridge's dispenser, then place the glass on the countertop next to the microwave.",kitchen,FloorPlan20_004
+Simple,Place the apple from the dining table into the pot on the counter,kitchen,FloorPlan20_005
+Medium,"Pick up the potato, wash it in the sink, and then place it on the stove for cooking",kitchen,FloorPlan20_005
+Complex,"Slice the bread using the knife on the shelf, place the slices on a plate, and heat them in the microwave before serving",kitchen,FloorPlan20_005
+Simple,Place the ladle into the sink and clean it with water from the tap,kitchen,FloorPlan20_006
+Medium,"Pick up the tomato, wash it in the sink, and then place it on the dining table",kitchen,FloorPlan20_006
+Complex,"Heat the pot on the stove, add water from the pitcher, and boil it before turning off the stove",kitchen,FloorPlan20_006
+Simple,Pick up the red vase from the bottom shelf and place it on the top shelf,kitchen,FloorPlan20_007
+Medium,Move the blue vase from the middle shelf to the green trash bin beside the window,kitchen,FloorPlan20_007
+Complex,"Retrieve the yellow vase from the second shelf, clean it by wiping with a cloth if available, then place it on the highest shelf next to the white vase",kitchen,FloorPlan20_007
+Simple,Place the apple from the dining table into the bowl,kitchen,FloorPlan21_001
+Medium,"Pick up the potato, wash it at the sink, and place it on the plate",kitchen,FloorPlan21_001
+Complex,"Slice the tomato on the dining table, then heat it in the oven and serve it on the plate",kitchen,FloorPlan21_001
+Simple,Place the garbage bag inside the garbage can,kitchen,FloorPlan21_002
+Medium,"Open the microwave, place a plate with food inside, close it, and start heating",kitchen,FloorPlan21_002
+Complex,"Retrieve a bread slice from the nearby kitchen area, place it on a plate, heat it in the microwave for one minute, then remove it and place it on the dining table",kitchen,FloorPlan21_002
+Simple,Place the fork and spoon into the cup on the countertop,kitchen,FloorPlan21_003
+Medium,Wash the egg in the sink using the faucet and then place it on the counter,kitchen,FloorPlan21_003
+Complex,"Use the spatula to transfer the egg from the sink to the coffee machine, turn on the machine, and let it process the egg before placing it on a plate",kitchen,FloorPlan21_003
+Simple,Place the fork and spoon into the drawer under the countertop,kitchen,FloorPlan21_004
+Medium,Wash the egg in the sink using the dish sponge and then place it on the counter,kitchen,FloorPlan21_004
+Complex,"Retrieve the mug from the side table, fill it with water from the faucet, and place it on the coffee machine to brew a cup of coffee",kitchen,FloorPlan21_004
+Simple,Place the bread on the stove burner and toast it using the toaster.,kitchen,FloorPlan21_005
+Medium,"Pick up the pot from the stove, fill it with water from the sink, and place it back on the stove to heat.",kitchen,FloorPlan21_005
+Complex,"Retrieve the bread from the dining table, slice it using the knife, heat it in the toaster, and serve it on a plate placed on the countertop.",kitchen,FloorPlan21_005
+Simple,Place the kettle on the stove burner and turn on the stove to heat it.,kitchen,FloorPlan22_001
+Medium,"Use the spatula to move the pan from the counter to the stove burner, then place the pepper shaker next to the salt shaker.",kitchen,FloorPlan22_001
+Complex,"Retrieve the kettle from the stove, pour water into the pan on the counter, return the kettle to the stove, and turn on the burner to heat the water.",kitchen,FloorPlan22_001
+Simple,Place the spoon and fork neatly beside the sink,kitchen,FloorPlan22_002
+Medium,Wash the potato under the faucet and then place it on the countertop,kitchen,FloorPlan22_002
+Complex,"Pick up the bread, heat it in the microwave for one minute, then place it on the bowl beside the sink",kitchen,FloorPlan22_002
+Simple,Pick up the tomato from the countertop and place it in the coffee machine's container.,kitchen,FloorPlan22_003
+Medium,"Move to the countertop, pick up the tomato, wash it under the sink if available, then slice it on a cutting board.",kitchen,FloorPlan22_003
+Complex,"Retrieve the tomato from the countertop, place it into the coffee machine, turn on the machine to process it, then transfer the processed item to a plate on the counter.",kitchen,FloorPlan22_003
+Simple,Pick up the knife and slice the tomato on the countertop,kitchen,FloorPlan22_004
+Medium,Cut the apple into halves and place one half in the bowl nearby,kitchen,FloorPlan22_004
+Complex,"Chop the tomato and egg, then combine them in a bowl and heat it using the microwave",kitchen,FloorPlan22_004
+Simple,Place the salt shaker on the countertop next to the toaster,kitchen,FloorPlan22_005
+Medium,Pick up the spatula and use it to move the toast from the toaster to a plate on the counter,kitchen,FloorPlan22_005
+Complex,"Open the fridge, retrieve a sandwich, heat it in the toaster, then place it on a clean plate beside the sink",kitchen,FloorPlan22_005
+Simple,Pick up the pencil from the dining table and place it in the drawer under the counter.,kitchen,FloorPlan23_001
+Medium,"Wash the potato in the sink, then place it on the cutting board and slice it using the knife.",kitchen,FloorPlan23_001
+Complex,"Retrieve the bottle from the dining table, pour its contents into the bowl, then heat the bowl in the microwave for two minutes before placing it back on the table.",kitchen,FloorPlan23_001
+Simple,Clean the sink by picking up the fork and spoon and placing them in the dishwasher,kitchen,FloorPlan23_002
+Medium,Use the spatula to move the toast from the toaster to a plate on the countertop,kitchen,FloorPlan23_002
+Complex,"Turn on the coffee machine, wait for it to brew, then pour the coffee into a mug placed on the counter",kitchen,FloorPlan23_002
+Simple,Place the bread into the toaster and turn it on,kitchen,FloorPlan23_003
+Medium,Use the spatula to clean the sink basin and then place it back on the countertop,kitchen,FloorPlan23_003
+Complex,"Retrieve the coffee machine, open its reservoir, add water from the sink, close it, and start brewing a cup of coffee",kitchen,FloorPlan23_003
+Simple,Pick up the bread from the countertop and place it on the stove.,kitchen,FloorPlan23_004
+Medium,"Use the butter knife to spread butter on the bread, then place the bread in the microwave and heat it for two minutes.",kitchen,FloorPlan23_004
+Complex,"Retrieve the salt and pepper shakers from the counter, season the bread with them, then toast the bread in the oven before placing it on a clean plate.",kitchen,FloorPlan23_004
+Simple,Place the knife on the plate and move the cup to the edge of the table,kitchen,FloorPlan23_005
+Medium,Cut the tomato with the knife and place the sliced pieces into the bowl,kitchen,FloorPlan23_005
+Complex,"Heat the potato in the oven, then slice it and serve it on the plate along with the lettuce",kitchen,FloorPlan23_005
+Simple,Place the knife into the drawer and close it,kitchen,FloorPlan24_001
+Medium,"Wash the pan in the sink using the dish sponge and soap bottle, then place it on the counter",kitchen,FloorPlan24_001
+Complex,"Use the toaster to toast a slice of bread, then use the microwave to heat it for 30 seconds before placing it on a plate",kitchen,FloorPlan24_001
+Simple,Place the knife into the drawer and close it,kitchen,FloorPlan24_002
+Medium,"Use the toaster to toast a slice of bread, then place it on the counter",kitchen,FloorPlan24_002
+Complex,"Take the bowl from the counter, fill it with water from the sink, and place it next to the pan",kitchen,FloorPlan24_002
+Simple,Pick up the apple from the dining table and place it in the cabinet.,kitchen,FloorPlan24_003
+Medium,"Slice the tomato on the dining table using a knife, then place the slices on the plate.",kitchen,FloorPlan24_003
+Complex,"Retrieve the bread from the cabinet, toast it using the toaster, and serve it on the dining table alongside the sliced tomato.",kitchen,FloorPlan24_003
+Simple,Place the pot on the stove burner and turn on the stove to heat it.,kitchen,FloorPlan24_004
+Medium,"Retrieve the salt shaker from the counter, open it, and sprinkle salt into the pot on the stove.",kitchen,FloorPlan24_004
+Complex,"Pick up the pot from the stove, move it to the sink area, fill it with water, return it to the stove, and turn on the burner to boil the water.",kitchen,FloorPlan24_004
+Simple,"Open the refrigerator and take out a bottle of water, then place it on the countertop.",kitchen,FloorPlan24_005
+Medium,"Turn on the microwave, place a bowl of soup inside, close the door, and heat it for two minutes.",kitchen,FloorPlan24_005
+Complex,"Retrieve a bread slice from the pantry, place it in the toaster, toast it until golden brown, then spread butter on it and serve it on a plate at the dining table.",kitchen,FloorPlan24_005
+Simple,Pick up the apple from the sink and place it on the countertop next to the coffee machine,kitchen,FloorPlan25_001
+Medium,"Wash the lettuce in the sink, then place it on the plate beside the sink",kitchen,FloorPlan25_001
+Complex,"Retrieve the bread from the counter, slice it using the butter knife, then heat it in the microwave before placing it on a clean plate",kitchen,FloorPlan25_001
+Simple,Place the potato into the pan on the countertop,kitchen,FloorPlan25_002
+Medium,Turn on the stove and heat the pan with the potato inside,kitchen,FloorPlan25_002
+Complex,"Pick up the potato, place it in the toaster, then toast it before transferring it to a plate on the counter",kitchen,FloorPlan25_002
+Simple,Place the potato on the countertop next to the toaster,kitchen,FloorPlan25_003
+Medium,"Pick up the pan from the stove, place it on the countertop, and then put the potato inside the pan",kitchen,FloorPlan25_003
+Complex,"Turn on the stove burner under the pot, place the potato in the pot, and cook it until it is soft. Then transfer the cooked potato to a plate on the counter.",kitchen,FloorPlan25_003
+Simple,Place the potato on the countertop next to the stove,kitchen,FloorPlan25_004
+Medium,"Open the oven, place the pan inside, and close the oven door",kitchen,FloorPlan25_004
+Complex,"Pick up the potato, place it in the pan, put the pan on the stove burner, turn on the stove, and cook the potato until ready",kitchen,FloorPlan25_004
+Simple,Pick up the knife and place it in the drawer under the countertop,kitchen,FloorPlan25_005
+Medium,"Use the butter knife to cut the bread on the plate, then put the sliced bread into the microwave and heat it for two minutes",kitchen,FloorPlan25_005
+Complex,"Retrieve the cup from the countertop, fill it with water from the sink, then place it inside the microwave and heat it until warm before placing it back on the counter",kitchen,FloorPlan25_005
+Simple,Wash the apple in the sink and place it on the countertop,kitchen,FloorPlan25_006
+Medium,Slice the bread using the knife and put the slices on the plate,kitchen,FloorPlan25_006
+Complex,"Clean the lettuce under the faucet, dry it with a towel from the cabinet, and then place it on the plate next to the sliced bread",kitchen,FloorPlan25_006
+Simple,Pick up the apple from the sink and place it on the countertop next to the tomato,kitchen,FloorPlan26_001
+Medium,"Open the microwave, place the tomato inside, close the door, and turn it on for one minute",kitchen,FloorPlan26_001
+Complex,"Wash the apple under the faucet, slice it with the butter knife, and place the slices in a bowl on the counter",kitchen,FloorPlan26_001
+Simple,Place the bread into the pot on the dining table,kitchen,FloorPlan26_002
+Medium,Pick up the potato from the counter and place it into the bowl on the table,kitchen,FloorPlan26_002
+Complex,"Retrieve the cup from the table, fill it with water from the coffee machine, and then pour the water into the pot",kitchen,FloorPlan26_002
+Simple,Place the knife on the plate on the table,kitchen,FloorPlan26_003
+Medium,"Use the toaster to toast a slice of bread, then place it on the plate",kitchen,FloorPlan26_003
+Complex,"Turn on the stove burner, heat the pan, and cook the bread before placing it on the plate",kitchen,FloorPlan26_003
+Simple,Place the knife on the dining table next to the plate,kitchen,FloorPlan26_004
+Medium,Use the toaster to toast a slice of bread and then place it on the plate,kitchen,FloorPlan26_004
+Complex,"Heat the pan on the stove, add oil, and cook the bread slice until golden brown, then transfer it to the plate",kitchen,FloorPlan26_004
+Simple,Place the bread from the counter into the toaster oven on the countertop,kitchen,FloorPlan26_005
+Medium,"Retrieve the potato from the dining table, wash it in the sink, and then place it on the cutting board",kitchen,FloorPlan26_005
+Complex,"Turn on the coffee machine, wait for it to brew, then pour the coffee into the cup on the counter and place the cup on the dining table",kitchen,FloorPlan26_005
+Simple,Place the bread on the plate on the dining table,kitchen,FloorPlan27_001
+Medium,"Open the microwave, place the bowl inside, close the microwave, and turn it on",kitchen,FloorPlan27_001
+Complex,"Pick up the wine bottle, pour its contents into the cup, then place the bottle back on the table",kitchen,FloorPlan27_001
+Simple,Place the potato on the countertop next to the toaster,kitchen,FloorPlan27_002
+Medium,Heat the pot on the stove and add salt from the salt shaker,kitchen,FloorPlan27_002
+Complex,"Use the spatula to stir the contents in the pot, then transfer the cooked potato to a plate and place it on the counter",kitchen,FloorPlan27_002
+Simple,Place the tomato from the sink into the bowl on the countertop,kitchen,FloorPlan27_003
+Medium,"Wash the potato under the faucet, then place it on the cutting board next to the sink",kitchen,FloorPlan27_003
+Complex,"Retrieve the knife from the counter, cut the lettuce into two pieces, and place one piece in the sink while putting the other in a container on the counter",kitchen,FloorPlan27_003
+Simple,Place the salt shaker next to the pepper shaker on the countertop,kitchen,FloorPlan28_001
+Medium,Use the spatula to move the toast from the toaster to a plate on the counter,kitchen,FloorPlan28_001
+Complex,"Wash the lettuce in the sink, then use the knife to chop it and place the chopped pieces into a bowl on the counter",kitchen,FloorPlan28_001
+Simple,Place the apple on the countertop near the stove,kitchen,FloorPlan28_002
+Medium,"Turn on the stove, place the pan on the burner, and heat it for a few minutes",kitchen,FloorPlan28_002
+Complex,"Pick up the apple, wash it in the sink, slice it with the butter knife, and then microwave the slices for one minute before placing them on a plate.",kitchen,FloorPlan28_002
+Simple,Place the apple on the countertop next to the stove,kitchen,FloorPlan28_003
+Medium,Use the butter knife to slice the apple and place the slices on the plate,kitchen,FloorPlan28_003
+Complex,"Heat the pan on the stove, crack the egg into it, and cook it until done. Then transfer the cooked egg onto the plate using the spatula.",kitchen,FloorPlan28_003
+Simple,Pick up the bread from the dining table and place it on the side table.,kitchen,FloorPlan28_004
+Medium,"Take the tomato from the dining table, wash it in the sink, and then slice it on the cutting board.",kitchen,FloorPlan28_004
+Complex,"Retrieve the bread from the dining table, toast it using the toaster, and then serve it on a plate alongside the sliced tomato.",kitchen,FloorPlan28_004
+Simple,Pick up the mug from the dining table and place it on the countertop near the coffee machine,kitchen,FloorPlan28_005
+Medium,"Use the knife to slice the bread on the countertop, then put the sliced bread into the bowl",kitchen,FloorPlan28_005
+Complex,"Turn on the coffee machine, wait for it to brew, then pour the coffee into the mug on the table and place the mug back on the countertop",kitchen,FloorPlan28_005
+Simple,Pick up the knife and place it in the drawer under the counter,kitchen,FloorPlan29_001
+Medium,"Turn on the stove, heat the kettle, and then turn off the stove once the water boils",kitchen,FloorPlan29_001
+Complex,"Take the mug from the counter, fill it with water from the kettle, and place it on the table near the toaster",kitchen,FloorPlan29_001
+Simple,Wash the lettuce under the faucet and place it on the counter,kitchen,FloorPlan29_002
+Medium,Slice the bread using the butter knife and put the slices on the plate,kitchen,FloorPlan29_002
+Complex,"Heat the potato in the microwave, then slice it and serve it on a plate with the cooked lettuce",kitchen,FloorPlan29_002
+Simple,Place the spatula on the countertop next to the stove,kitchen,FloorPlan29_003
+Medium,Toast two slices of bread using the toaster and then place them on the counter,kitchen,FloorPlan29_003
+Complex,"Heat the kettle on the stove, open the microwave, place the kettle inside, close the microwave, and turn it on to heat the water",kitchen,FloorPlan29_003
+Simple,"Place the fork, spoon, and butter knife neatly on the plate",kitchen,FloorPlan29_004
+Medium,"Wash the apple and potato in the sink, then place them on the counter",kitchen,FloorPlan29_004
+Complex,"Slice the bread using the butter knife, toast it in the toaster, and serve it on a clean plate with the lettuce and apple",kitchen,FloorPlan29_004
+Simple,Place the bread on the plate and move it to the counter,kitchen,FloorPlan29_005
+Medium,"Wash the apple in the sink, then place it on the counter next to the bread",kitchen,FloorPlan29_005
+Complex,"Use the coffee machine to brew a cup of coffee, then pour it into the green cup on the counter",kitchen,FloorPlan29_005
+Simple,Pick up the potato from the counter and place it in the bowl,kitchen,FloorPlan2_001
+Medium,"Open the refrigerator, take out a bottle of water, and place it on the countertop next to the microwave",kitchen,FloorPlan2_001
+Complex,"Retrieve the bread from the pantry, slice it using the knife on the counter, heat it in the microwave for two minutes, then place it on a clean plate near the dining area",kitchen,FloorPlan2_001
+Simple,Place the ladle on the countertop next to the stove,kitchen,FloorPlan2_002
+Medium,"Turn on the stove and heat the kettle until it whistles, then turn off the stove",kitchen,FloorPlan2_002
+Complex,"Use the spatula to move the pepper shaker from the counter to the toaster, then open the microwave, place the salt shaker inside, close it, and start heating for two minutes",kitchen,FloorPlan2_002
+Simple,Place the kettle on the stove burner and turn it on,kitchen,FloorPlan2_003
+Medium,Use the spatula to move the toast from the toaster to a plate on the countertop,kitchen,FloorPlan2_003
+Complex,"Open the microwave, place the pepper shaker inside, close the door, and heat it for 30 seconds before removing it",kitchen,FloorPlan2_003
+Simple,Place the pot on the countertop next to the coffee machine,kitchen,FloorPlan2_004
+Medium,Fill the pot with water from the faucet and place it on the counter,kitchen,FloorPlan2_004
+Complex,"Use the knife to slice the bread, then heat it in the microwave before placing it on a plate",kitchen,FloorPlan2_004
+Simple,Place the bread on the counter next to the tomato,kitchen,FloorPlan2_005
+Medium,Retrieve the mug from the counter and fill it with water from the sink,kitchen,FloorPlan2_005
+Complex,"Slice the bread, toast it in the oven, and place it on a plate beside the tomato",kitchen,FloorPlan2_005
+Simple,Clean the sink basin using the dish sponge and soap bottle,kitchen,FloorPlan2_006
+Medium,Wash the knife under the faucet and place it on the counter,kitchen,FloorPlan2_006
+Complex,"Fill the pot with water from the faucet, place it on the stove, and heat it using the coffee machine as a heat source",kitchen,FloorPlan2_006
+Simple,Move the pan from the countertop to the sink and place it there.,kitchen,FloorPlan2_007
+Medium,"Open the fridge, take out a bottle of water, close the fridge, and place the bottle on the countertop.",kitchen,FloorPlan2_007
+Complex,"Retrieve a pot from the cabinet, place it on the stove, fill it with water from the faucet, and turn on the stove to boil the water.",kitchen,FloorPlan2_007
+Simple,Pick up the bread from the countertop and place it on the dining table.,kitchen,FloorPlan2_008
+Medium,Slice the tomato on the countertop and put the slices into the bowl.,kitchen,FloorPlan2_008
+Complex,"Take the potato, wash it in the sink, peel it using the knife, chop it into pieces, and then place the chopped pieces into a pot on the stove.",kitchen,FloorPlan2_008
+Simple,Place the cup on the counter next to the toaster,kitchen,FloorPlan30_001
+Medium,"Open the microwave, place the cup inside, close the door, and turn it on to heat the contents",kitchen,FloorPlan30_001
+Complex,"Retrieve the plate from the drawer, place it on the countertop, toast a slice of bread using the toaster, then transfer the toasted bread onto the plate",kitchen,FloorPlan30_001
+Simple,Pick up the kettle from the stove and place it on the countertop next to the fridge.,kitchen,FloorPlan30_002
+Medium,"Open the drawer beneath the counter, retrieve the salt shaker, and place it beside the pepper shaker on the countertop.",kitchen,FloorPlan30_002
+Complex,"Turn on the stove burner under the kettle, wait for the water to boil, then turn off the burner and move the kettle to the sink area to pour out the hot water.",kitchen,FloorPlan30_002
+Simple,Pick up the apple from the countertop and place it in the bowl.,kitchen,FloorPlan30_003
+Medium,"Use the knife to slice the bread on the countertop, then place the slices into the pot.",kitchen,FloorPlan30_003
+Complex,"Take the mug, fill it with water from the sink, heat it in the microwave, and then pour the hot water into the cup on the counter.",kitchen,FloorPlan30_003
+Simple,Clean the sink by picking up the dish sponge and wiping the sink basin.,kitchen,FloorPlan30_004
+Medium,"Pick up the fork and spoon from the sink, rinse them under the faucet, and place them in the dishwasher.",kitchen,FloorPlan30_004
+Complex,"Retrieve the potato from the counter, wash it under the faucet, peel it using a knife, and then slice it into pieces on a cutting board before placing it in a pot for cooking.",kitchen,FloorPlan30_004
+Simple,Pick up the bread from the countertop and place it on the plate in the kitchen.,kitchen,FloorPlan30_005
+Medium,"Use the knife to slice the bread on the countertop, then transfer the slices into the bowl.",kitchen,FloorPlan30_005
+Complex,"Heat the bread in the microwave by placing it inside, closing the door, turning it on for 30 seconds, and then removing it to serve on a plate.",kitchen,FloorPlan30_005
+Simple,Place the fork on the countertop near the microwave,kitchen,FloorPlan3_001
+Medium,Use the knife to slice the bread on the counter and then place the slices into the toaster,kitchen,FloorPlan3_001
+Complex,"Retrieve the salt shaker from the counter, open the microwave, place a plate inside, put the sliced bread on the plate, close the microwave, turn it on for two minutes, then remove the plate and sprinkle salt on the toasted bread",kitchen,FloorPlan3_001
+Simple,Place the green cup on the counter next to the coffee machine,kitchen,FloorPlan3_002
+Medium,Use the knife to slice the bread from the shelf and place it in the microwave for heating,kitchen,FloorPlan3_002
+Complex,"Retrieve a glass from the shelf, fill it with water from the sink, and place it on the counter beside the wine bottle",kitchen,FloorPlan3_002
+Simple,Place the apple from the countertop into the pot on the counter,kitchen,FloorPlan3_003
+Medium,"Wash the potato and lettuce in the sink, then place them on the countertop next to the pot",kitchen,FloorPlan3_003
+Complex,"Pick up the egg, crack it into the pot, then place the pot on the stove and heat it until the egg is cooked",kitchen,FloorPlan3_003
+Simple,Wash the apple under the faucet and place it on the counter,kitchen,FloorPlan3_004
+Medium,Slice the bread using the knife and put the slices on the plate,kitchen,FloorPlan3_004
+Complex,"Place the potato in the sink, fill it with water from the faucet, then drain it and transfer the potato to the bowl",kitchen,FloorPlan3_004
+Simple,Place the bread on the plate and move it to the counter edge,kitchen,FloorPlan3_005
+Medium,Use the butter knife to slice the bread and put one half into the bowl,kitchen,FloorPlan3_005
+Complex,"Pick up the bread, place it in the microwave, heat it for two minutes, then remove it and serve on the plate with butter from the bottle",kitchen,FloorPlan3_005
+Simple,"Open the fridge and take out a bottle of water, then place it on the countertop",kitchen,FloorPlan3_006
+Medium,"Pull out the drawer under the countertop, retrieve a knife, and use it to slice a piece of bread on the side table",kitchen,FloorPlan3_006
+Complex,"Retrieve a pot from the shelf above the stove, fill it with water from the sink, place it on the stove, and turn on the burner to heat the water",kitchen,FloorPlan3_006
+Simple,Pour wine from the bottle into the green cup on the counter,kitchen,FloorPlan3_007
+Medium,Clean the wine bottle with a cloth and place it back on the shelf,kitchen,FloorPlan3_007
+Complex,"Retrieve a plate from the cabinet, place it on the counter, pour wine into the cup, then transfer the cup to the plate and move the setup to the dining area",kitchen,FloorPlan3_007
+Simple,Wash the apple under the faucet and place it on the counter,kitchen,FloorPlan4_001
+Medium,Slice the potato using the knife and put the pieces into the pot on the stove,kitchen,FloorPlan4_001
+Complex,"Pick up the apple, wash it in the sink, slice it with the knife, then place the slices into the pot on the stove and turn on the burner to heat them",kitchen,FloorPlan4_001
+Simple,Place the spoon and fork neatly beside the bowl on the dining table,kitchen,FloorPlan4_002
+Medium,"Pick up the tomato, wash it in the sink, and then place it back on the table",kitchen,FloorPlan4_002
+Complex,"Slice the bread using the knife, place one slice in the pan, heat it on the stove, and serve it on a plate with the tomato",kitchen,FloorPlan4_002
+Simple,Place the spatula on the counter next to the microwave,kitchen,FloorPlan4_003
+Medium,Wash the knife under the faucet and then place it on the drying rack,kitchen,FloorPlan4_003
+Complex,"Take the plate from the counter, put it inside the microwave, close the door, turn it on for two minutes, then remove it and place it back on the counter.",kitchen,FloorPlan4_003
+Simple,Pick up the apple from the countertop and place it on the cutting board.,kitchen,FloorPlan4_004
+Medium,"Place the potato on the stove burner, then turn on the stove to heat it for a few minutes.",kitchen,FloorPlan4_004
+Complex,"Retrieve the butter knife, cut the apple into slices on the countertop, and then transfer the slices into the pot on the stove.",kitchen,FloorPlan4_004
+Simple,Place the bread into the toaster and turn it on to toast it.,kitchen,FloorPlan4_005
+Medium,Use the coffee machine to brew a cup of coffee and place the mug on the table.,kitchen,FloorPlan4_005
+Complex,"Slice the tomato, heat it in the pan, and then transfer it into the bowl using the spoon.",kitchen,FloorPlan4_005
+Simple,Open the drawer and place the red bowl inside,kitchen,FloorPlan4_006
+Medium,"Take the pot from the countertop, move it to the stove, and turn on the stove to heat the contents",kitchen,FloorPlan4_006
+Complex,"Retrieve the bread from the refrigerator, slice it on the cutting board, and then heat it in the microwave before placing it on a plate",kitchen,FloorPlan4_006
+Simple,Place the salt shaker next to the pepper shaker on the countertop,kitchen,FloorPlan5_001
+Medium,Fill the coffee machine with water from the sink and start brewing a pot of coffee,kitchen,FloorPlan5_001
+Complex,"Use the paper towel roll to dry the sink basin, then clean the countertop with the dish sponge and soap bottle",kitchen,FloorPlan5_001
+Simple,"Open the fridge and take out the milk bottle, then place it on the countertop.",kitchen,FloorPlan5_002
+Medium,"Move the pan from the countertop to the stove, turn on the stove, and heat the pan for two minutes.",kitchen,FloorPlan5_002
+Complex,"Retrieve bread from the fridge, slice it using the knife on the counter, place the slices in the microwave, close the microwave door, and heat them for one minute before placing them on a plate.",kitchen,FloorPlan5_002
+Simple,Place the fork and knife neatly beside the bowl on the countertop,kitchen,FloorPlan5_003
+Medium,"Pick up the potato, wash it in the sink, then slice it with the knife and place the slices in the bowl",kitchen,FloorPlan5_003
+Complex,"Heat the pot on the stove, add the bread inside, and toast it until golden brown. Then transfer the toasted bread to a plate using the spatula.",kitchen,FloorPlan5_003
+Simple,Place the bread on the stove burner and heat it using the stove.,kitchen,FloorPlan5_004
+Medium,"Pick up the tomato, wash it in the sink, then slice it with the knife and place it on the plate.",kitchen,FloorPlan5_004
+Complex,"Take the bread from the counter, toast it on the stove, use the spatula to flip it, then place it on the plate alongside the sliced tomato.",kitchen,FloorPlan5_004
+Simple,Wash the tomato under the faucet and place it on the plate,kitchen,FloorPlan5_005
+Medium,Use the paper towel roll to dry the countertop and then place the kettle on the counter,kitchen,FloorPlan5_005
+Complex,"Fill the kettle with water from the sink, place it on the coffee machine, and turn on the coffee machine to heat the water",kitchen,FloorPlan5_005
+Simple,"Open the fridge and take out the milk bottle, then place it on the countertop",kitchen,FloorPlan5_006
+Medium,Move the garbage can to the corner of the room and clean up any visible trash from the floor,kitchen,FloorPlan5_006
+Complex,"Retrieve a container from the cabinet, fill it with water from the sink, heat it in the microwave for two minutes, and then place it on the counter",kitchen,FloorPlan5_006
+Simple,Pick up the mug from the countertop and place it on the stool.,kitchen,FloorPlan5_007
+Medium,"Use the knife to slice the potato on the countertop, then transfer the slices into the bowl.",kitchen,FloorPlan5_007
+Complex,"Retrieve the ladle from the counter, scoop water from the bowl, pour it into the mug, and place the mug on the stove for heating.",kitchen,FloorPlan5_007
+Simple,Pick up the red vase from the shelf and place it on the top shelf of the shelving unit,kitchen,FloorPlan5_008
+Medium,Move the blue trash can to the corner near the fridge and clean the floor around it,kitchen,FloorPlan5_008
+Complex,"Retrieve the golden object from the middle shelf, place it in the blue trash can, then move the blue vase to the bottom shelf of the shelving unit",kitchen,FloorPlan5_008
+Simple,Wash the lettuce in the sink and place it on the countertop,kitchen,FloorPlan6_001
+Medium,Fill the kettle with water from the faucet and place it on the coffee machine,kitchen,FloorPlan6_001
+Complex,"Use the paper towel roll to dry the sink, then pick up the tomato and slice it using the knife before placing it on a plate",kitchen,FloorPlan6_001
+Simple,Pick up the tomato from the sink and place it on the countertop near the stove,kitchen,FloorPlan6_002
+Medium,"Retrieve the mug from the sink, fill it with water from the faucet, and place it back on the counter",kitchen,FloorPlan6_002
+Complex,"Take the butter knife from the counter, slice the tomato in half on the cutting board, and then place both halves into the mug for a quick snack",kitchen,FloorPlan6_002
+Simple,Pick up the apple from the countertop and place it in the fruit bowl on the counter.,kitchen,FloorPlan6_003
+Medium,Slice the bread using the knife on the countertop and place the slices on a plate.,kitchen,FloorPlan6_003
+Complex,"Take the cup from the countertop, fill it with water from the sink, then microwave it for 30 seconds before placing it back on the counter.",kitchen,FloorPlan6_003
+Simple,"Open the fridge and take out the potato, then place it on the countertop.",kitchen,FloorPlan6_004
+Medium,Use the knife to slice the potato on the countertop and put the slices into the plate.,kitchen,FloorPlan6_004
+Complex,"Place the potato in the oven, set the oven to bake mode, wait until it's cooked, then remove it and serve it on the plate.",kitchen,FloorPlan6_004
+Simple,Turn on the toaster and place a slice of bread inside it.,kitchen,FloorPlan6_005
+Medium,"Open the microwave, place a bowl of soup inside, close the door, and heat it for two minutes.",kitchen,FloorPlan6_005
+Complex,"Retrieve a loaf of bread from the counter, slice it using the knife, place one slice in the toaster, and while it toasts, heat another slice in the microwave before placing both on a plate.",kitchen,FloorPlan6_005
+Simple,Place the mug on the counter next to the toaster,kitchen,FloorPlan7_001
+Medium,Fill the pan with water from the sink and place it on the stove burner,kitchen,FloorPlan7_001
+Complex,"Retrieve the plate from the cabinet, heat the mug in the microwave for two minutes, then place the warmed mug on the plate.",kitchen,FloorPlan7_001
+Simple,Wash the apple under the faucet and place it on the countertop,kitchen,FloorPlan7_002
+Medium,Use the knife to slice the apple and put the slices on the plate,kitchen,FloorPlan7_002
+Complex,"Fill the kettle with water from the faucet, place it on the coffee machine, and start brewing a cup of coffee",kitchen,FloorPlan7_002
+Simple,Place the bread on the counter next to the lettuce,kitchen,FloorPlan7_003
+Medium,"Open the drawer, take out a knife, and slice the bread into two pieces",kitchen,FloorPlan7_003
+Complex,"Put the egg into the pot, place the pot on the stove, and heat it until the egg is cooked",kitchen,FloorPlan7_003
+Simple,Place the bread on the counter next to the lettuce,kitchen,FloorPlan7_004
+Medium,Wash the apple under the faucet and then slice it with the knife,kitchen,FloorPlan7_004
+Complex,"Take the bread, toast it in the toaster oven if available, then place it on the plate along with the sliced apple and lettuce",kitchen,FloorPlan7_004
+Simple,Move the houseplant to the center of the dining table,kitchen,FloorPlan7_005
+Medium,Arrange the chairs around the dining table in a symmetrical formation,kitchen,FloorPlan7_005
+Complex,"Pick up the houseplant, move it to the corner of the room, and place it on the floor next to the wall",kitchen,FloorPlan7_005
+Simple,Move to the table and place the potted plant on the floor near the refrigerator,kitchen,FloorPlan7_006
+Medium,"Open the refrigerator, take out a bottle of water, and place it on the dining table",kitchen,FloorPlan7_006
+Complex,"Retrieve a container from the refrigerator, pour its contents into the trash bin, then close the refrigerator door",kitchen,FloorPlan7_006
+Simple,Place the red vase on the top shelf of the shelving unit,kitchen,FloorPlan7_007
+Medium,Move the yellow vase from the middle shelf to the bottom shelf and place it beside the statue,kitchen,FloorPlan7_007
+Complex,"Pick up the statue from the bottom shelf, place it on the floor, then reposition the yellow vase on the middle shelf and the red vase on the top shelf for better display",kitchen,FloorPlan7_007
+Simple,Close the refrigerator doors to keep the contents cool,kitchen,FloorPlan8_001
+Medium,Retrieve a bottle of water from the fridge and place it on the counter,kitchen,FloorPlan8_001
+Complex,"Take out the milk from the fridge, check its expiration date, and then return it to the shelf",kitchen,FloorPlan8_001
+Simple,Place the egg on the countertop near the stove,kitchen,FloorPlan8_002
+Medium,"Turn on the faucet, wash the lettuce in the sink, and then place it on the counter",kitchen,FloorPlan8_002
+Complex,"Pick up the pan from the stove, heat it on the burner, then crack the egg into it and cook it before placing it on a plate",kitchen,FloorPlan8_002
+Simple,Place the spatula on the counter next to the toaster,kitchen,FloorPlan8_003
+Medium,"Pick up the salt shaker and sprinkle salt into the pan on the stove, then place it back on the counter",kitchen,FloorPlan8_003
+Complex,"Turn on the stove burner under the pan, heat it for a few seconds, then use the spatula to flip a pancake inside the pan before turning off the stove",kitchen,FloorPlan8_003
+Simple,Place the bowl on the countertop next to the stove,kitchen,FloorPlan9_001
+Medium,"Turn on the stove, place the pot on the burner, and heat the water inside",kitchen,FloorPlan9_001
+Complex,"Pick up the pan, place it on the stove, open the microwave, put the pan inside, close the microwave, and turn it on to heat the contents.",kitchen,FloorPlan9_001
+Simple,Wash the tomato in the sink using the faucet and dish sponge,kitchen,FloorPlan9_002
+Medium,Use the knife to slice the bread on the countertop and place the slices into the coffee machine,kitchen,FloorPlan9_002
+Complex,"Retrieve the kettle from the counter, fill it with water from the faucet, place it on the stove, and heat it until boiling",kitchen,FloorPlan9_002
+Simple,Place the bread into the toaster and turn it on,kitchen,FloorPlan9_003
+Medium,Pour coffee from the coffee machine into the mug and place it on the counter,kitchen,FloorPlan9_003
+Complex,"Take the bread, toast it using the toaster, then place it on the plate beside the sink",kitchen,FloorPlan9_003
+Simple,"Open the fridge and take out the milk, then place it on the countertop.",kitchen,FloorPlan9_004
+Medium,Use the coffee machine to make a cup of coffee by adding water from the sink and placing the mug underneath the dispenser.,kitchen,FloorPlan9_004
+Complex,"Take the bread from the toaster, slice it using the knife on the counter, heat it in the microwave for one minute, and place it on the plate beside the coffee machine.",kitchen,FloorPlan9_004
+Simple,Move the potato from the dining table to the chair seat.,kitchen,FloorPlan9_005
+Medium,Pick up the salt shaker and place it on the dining table next to the pepper shaker.,kitchen,FloorPlan9_005
+Complex,"Pick up the butter knife, use it to cut the potato in half on the dining table, then place both halves neatly on the table.",kitchen,FloorPlan9_005
+Simple,Turn on the light switch near the door to illuminate the kitchen.,kitchen,FloorPlan9_006
+Medium,"Open the cabinet above the stove, retrieve a pot, and place it on the stove burner.",kitchen,FloorPlan9_006
+Complex,"Pick up the fork from the counter, open the drawer under the countertop, place the fork inside, then close the drawer.",kitchen,FloorPlan9_006

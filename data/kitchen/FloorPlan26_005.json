@@ -1,0 +1,53 @@
+{
+    "scene_name": "FloorPlan26",
+    "scene_number": 5,
+    "image_filename": "saved_scenes/FloorPlan26_005.jpg",
+    "agent_position": [
+        -2.0,
+        0.9015909433364868,
+        3.75
+    ],
+    "agent_rotation": 270.0,
+    "visible_objects": [
+        {
+            "objectType": "Bowl",
+            "objectId": "Bowl|-02.64|+00.72|+02.87"
+        },
+        {
+            "objectType": "Bread",
+            "objectId": "Bread|-02.87|+00.77|+02.41"
+        },
+        {
+            "objectType": "CoffeeMachine",
+            "objectId": "CoffeeMachine|-02.94|+00.93|+03.61"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|-02.78|+00.97|+03.49"
+        },
+        {
+            "objectType": "Cup",
+            "objectId": "Cup|-02.91|+00.72|+02.91"
+        },
+        {
+            "objectType": "DiningTable",
+            "objectId": "DiningTable|-02.73|00.00|+02.61"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|-00.05|+00.00|+00.00"
+        },
+        {
+            "objectType": "Fridge",
+            "objectId": "Fridge|-02.80|+00.00|+04.43"
+        },
+        {
+            "objectType": "Pot",
+            "objectId": "Pot|-02.54|+00.72|+02.55"
+        },
+        {
+            "objectType": "Potato",
+            "objectId": "Potato|-02.62|+00.96|+03.34"
+        }
+    ]
+}

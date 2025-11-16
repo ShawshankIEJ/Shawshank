@@ -1,0 +1,37 @@
+{
+    "scene_name": "FloorPlan18",
+    "scene_number": 5,
+    "image_filename": "saved_scenes/FloorPlan18_005.jpg",
+    "agent_position": [
+        -0.25,
+        0.9009997248649597,
+        4.75
+    ],
+    "agent_rotation": 0.0,
+    "visible_objects": [
+        {
+            "objectType": "Bowl",
+            "objectId": "Bowl|-00.56|+00.83|+06.25"
+        },
+        {
+            "objectType": "Chair",
+            "objectId": "Chair|+00.29|+00.00|+06.14"
+        },
+        {
+            "objectType": "DiningTable",
+            "objectId": "DiningTable|-00.16|+00.00|+06.47"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "HousePlant",
+            "objectId": "HousePlant|-00.17|+00.83|+06.44"
+        },
+        {
+            "objectType": "Plate",
+            "objectId": "Plate|-00.23|+00.83|+06.06"
+        }
+    ]
+}

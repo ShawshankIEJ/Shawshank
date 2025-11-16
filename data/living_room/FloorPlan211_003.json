@@ -1,0 +1,41 @@
+{
+    "scene_name": "FloorPlan211",
+    "scene_number": 3,
+    "image_filename": "saved_scenes/FloorPlan211_003.jpg",
+    "agent_position": [
+        -0.5,
+        0.9009991884231567,
+        -0.25
+    ],
+    "agent_rotation": 270.0,
+    "visible_objects": [
+        {
+            "objectType": "ArmChair",
+            "objectId": "ArmChair|-01.76|+00.01|-01.47"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "GarbageCan",
+            "objectId": "GarbageCan|-01.89|-00.03|-00.41"
+        },
+        {
+            "objectType": "Shelf",
+            "objectId": "Shelf|-01.97|+00.33|+00.56"
+        },
+        {
+            "objectType": "Shelf",
+            "objectId": "Shelf|-01.97|+00.08|+00.56"
+        },
+        {
+            "objectType": "Television",
+            "objectId": "Television|-02.03|+01.08|+00.56"
+        },
+        {
+            "objectType": "TVStand",
+            "objectId": "TVStand|-01.97|+00.00|+00.56"
+        }
+    ]
+}

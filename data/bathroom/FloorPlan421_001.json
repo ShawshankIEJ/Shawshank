@@ -1,0 +1,61 @@
+{
+    "scene_name": "FloorPlan421",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan421_001.jpg",
+    "agent_position": [
+        -1.25,
+        0.9008256196975708,
+        2.25
+    ],
+    "agent_rotation": 180.0,
+    "visible_objects": [
+        {
+            "objectType": "Candle",
+            "objectId": "Candle|-00.45|+00.81|+01.29"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|-00.35|+00.01|+01.45"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-00.32|+00.62|+01.46"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|00.00|+00.00"
+        },
+        {
+            "objectType": "Mirror",
+            "objectId": "Mirror|-00.23|+00.47|+01.45"
+        },
+        {
+            "objectType": "ShowerDoor",
+            "objectId": "ShowerDoor|-01.51|+00.91|+01.17"
+        },
+        {
+            "objectType": "ShowerGlass",
+            "objectId": "ShowerGlass|-00.77|+00.54|+00.49"
+        },
+        {
+            "objectType": "Sink",
+            "objectId": "Sink|-00.30|+00.81|+01.73"
+        },
+        {
+            "objectType": "SinkBasin",
+            "objectId": "Sink|-00.30|+00.81|+01.73|SinkBasin"
+        },
+        {
+            "objectType": "SoapBottle",
+            "objectId": "SoapBottle|-00.14|+00.81|+01.33"
+        },
+        {
+            "objectType": "Towel",
+            "objectId": "Towel|-01.11|+01.15|+01.29"
+        },
+        {
+            "objectType": "TowelHolder",
+            "objectId": "TowelHolder|-01.11|+01.14|+01.18"
+        }
+    ]
+}

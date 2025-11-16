@@ -1,0 +1,93 @@
+{
+    "scene_name": "FloorPlan10",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan10_001.jpg",
+    "agent_position": [
+        0.0,
+        0.9009992480278015,
+        -1.25
+    ],
+    "agent_rotation": 90.0,
+    "visible_objects": [
+        {
+            "objectType": "Bowl",
+            "objectId": "Bowl|+00.79|+00.90|-00.12"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+00.95|+02.16|-02.38"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+00.95|+02.16|-00.76"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+00.95|+02.16|-00.14"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|+00.95|+02.44|-01.78"
+        },
+        {
+            "objectType": "CoffeeMachine",
+            "objectId": "CoffeeMachine|+00.89|+00.90|-02.13"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|+00.93|+00.95|-02.05"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|+00.93|+00.95|-00.21"
+        },
+        {
+            "objectType": "Cup",
+            "objectId": "Cup|+01.08|+00.90|-00.77"
+        },
+        {
+            "objectType": "Microwave",
+            "objectId": "Microwave|+01.04|+01.68|-01.30"
+        },
+        {
+            "objectType": "Pan",
+            "objectId": "Pan|+00.85|+00.95|-01.08"
+        },
+        {
+            "objectType": "PaperTowelRoll",
+            "objectId": "PaperTowelRoll|+01.22|+01.01|-00.52"
+        },
+        {
+            "objectType": "PepperShaker",
+            "objectId": "PepperShaker|+01.09|+00.90|-01.82"
+        },
+        {
+            "objectType": "SaltShaker",
+            "objectId": "SaltShaker|+01.19|+00.90|-01.80"
+        },
+        {
+            "objectType": "Spatula",
+            "objectId": "Spatula|+01.10|+00.91|-00.63"
+        },
+        {
+            "objectType": "StoveBurner",
+            "objectId": "StoveBurner|+00.84|+00.92|-01.50"
+        },
+        {
+            "objectType": "StoveBurner",
+            "objectId": "StoveBurner|+00.84|+00.92|-01.10"
+        },
+        {
+            "objectType": "StoveBurner",
+            "objectId": "StoveBurner|+01.08|+00.92|-01.50"
+        },
+        {
+            "objectType": "StoveBurner",
+            "objectId": "StoveBurner|+01.08|+00.92|-01.10"
+        },
+        {
+            "objectType": "Window",
+            "objectId": "Window|+00.02|+01.00|-02.64"
+        }
+    ]
+}

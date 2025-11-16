@@ -1,0 +1,53 @@
+{
+    "scene_name": "FloorPlan30",
+    "scene_number": 5,
+    "image_filename": "saved_scenes/FloorPlan30_005.jpg",
+    "agent_position": [
+        2.5,
+        0.9277887344360352,
+        0.75
+    ],
+    "agent_rotation": 270.0,
+    "visible_objects": [
+        {
+            "objectType": "Apple",
+            "objectId": "Apple|+01.30|+00.98|+00.02"
+        },
+        {
+            "objectType": "Bowl",
+            "objectId": "Bowl|+01.14|+00.90|+00.87"
+        },
+        {
+            "objectType": "Bread",
+            "objectId": "Bread|+01.53|+00.97|+00.49"
+        },
+        {
+            "objectType": "ButterKnife",
+            "objectId": "ButterKnife|+01.59|+00.90|+00.03"
+        },
+        {
+            "objectType": "CellPhone",
+            "objectId": "CellPhone|+01.61|+00.90|+00.83"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|+01.21|+00.94|+00.46"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+03.38|+00.00|-01.88"
+        },
+        {
+            "objectType": "Knife",
+            "objectId": "Knife|+01.37|+00.91|+00.31"
+        },
+        {
+            "objectType": "Mug",
+            "objectId": "Mug|+01.10|+00.90|+00.11"
+        },
+        {
+            "objectType": "Spatula",
+            "objectId": "Spatula|+01.38|+00.91|+00.17"
+        }
+    ]
+}

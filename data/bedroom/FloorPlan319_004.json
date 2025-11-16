@@ -1,0 +1,73 @@
+{
+    "scene_name": "FloorPlan319",
+    "scene_number": 4,
+    "image_filename": "saved_scenes/FloorPlan319_004.jpg",
+    "agent_position": [
+        0.0,
+        0.9020015001296997,
+        -1.0
+    ],
+    "agent_rotation": 180.0,
+    "visible_objects": [
+        {
+            "objectType": "Box",
+            "objectId": "Box|+00.25|+00.22|-02.04"
+        },
+        {
+            "objectType": "CreditCard",
+            "objectId": "CreditCard|-00.95|+00.71|-01.71"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "HousePlant",
+            "objectId": "HousePlant|-00.81|+00.95|-01.73"
+        },
+        {
+            "objectType": "KeyChain",
+            "objectId": "KeyChain|-00.83|+00.43|-01.76"
+        },
+        {
+            "objectType": "Pen",
+            "objectId": "Pen|-00.34|+00.71|-01.69"
+        },
+        {
+            "objectType": "Pencil",
+            "objectId": "Pencil|-00.41|+00.71|-01.66"
+        },
+        {
+            "objectType": "Shelf",
+            "objectId": "Shelf|-00.44|+00.56|-01.75"
+        },
+        {
+            "objectType": "Shelf",
+            "objectId": "Shelf|-00.90|+00.82|-01.75"
+        },
+        {
+            "objectType": "Shelf",
+            "objectId": "Shelf|-00.62|+00.98|-01.75"
+        },
+        {
+            "objectType": "Shelf",
+            "objectId": "Shelf|-00.80|+00.98|-01.76"
+        },
+        {
+            "objectType": "Shelf",
+            "objectId": "Shelf|-00.44|+00.82|-01.75"
+        },
+        {
+            "objectType": "Shelf",
+            "objectId": "Shelf|-00.90|+00.56|-01.75"
+        },
+        {
+            "objectType": "ShelvingUnit",
+            "objectId": "ShelvingUnit|-00.64|+00.01|-01.75"
+        },
+        {
+            "objectType": "Stool",
+            "objectId": "Stool|+00.80|+00.00|-02.11"
+        }
+    ]
+}

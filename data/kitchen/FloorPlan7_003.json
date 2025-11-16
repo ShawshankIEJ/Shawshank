@@ -1,0 +1,61 @@
+{
+    "scene_name": "FloorPlan7",
+    "scene_number": 3,
+    "image_filename": "saved_scenes/FloorPlan7_003.jpg",
+    "agent_position": [
+        -1.0,
+        0.9009991884231567,
+        -0.5
+    ],
+    "agent_rotation": 270.0,
+    "visible_objects": [
+        {
+            "objectType": "Book",
+            "objectId": "Book|-01.94|+00.90|-01.69"
+        },
+        {
+            "objectType": "Bowl",
+            "objectId": "Bowl|-02.04|+00.90|+00.49"
+        },
+        {
+            "objectType": "Bread",
+            "objectId": "Bread|-01.60|+00.98|-00.84"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-01.48|+00.37|-01.24"
+        },
+        {
+            "objectType": "Cabinet",
+            "objectId": "Cabinet|-02.17|+02.01|-01.54"
+        },
+        {
+            "objectType": "CounterTop",
+            "objectId": "CounterTop|-01.87|+00.95|-00.61"
+        },
+        {
+            "objectType": "Cup",
+            "objectId": "Cup|-01.91|+00.90|-00.02"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-01.64|+00.68|-00.93"
+        },
+        {
+            "objectType": "Egg",
+            "objectId": "Egg|-01.61|+00.93|-00.45"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "Lettuce",
+            "objectId": "Lettuce|-01.65|+00.96|-01.05"
+        },
+        {
+            "objectType": "Pot",
+            "objectId": "Pot|-01.60|+00.90|-00.17"
+        }
+    ]
+}

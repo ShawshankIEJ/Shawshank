@@ -1,0 +1,53 @@
+{
+    "scene_name": "FloorPlan415",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan415_001.jpg",
+    "agent_position": [
+        -1.5,
+        0.9007236361503601,
+        -0.75
+    ],
+    "agent_rotation": 90.0,
+    "visible_objects": [
+        {
+            "objectType": "Cloth",
+            "objectId": "Cloth|-00.11|+01.04|-00.67"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|-01.15|+00.03|-03.98"
+        },
+        {
+            "objectType": "Plunger",
+            "objectId": "Plunger|-00.37|00.00|-00.10"
+        },
+        {
+            "objectType": "ScrubBrush",
+            "objectId": "ScrubBrush|-00.14|00.00|-00.10"
+        },
+        {
+            "objectType": "Sink",
+            "objectId": "Sink|-00.31|+00.00|-02.08"
+        },
+        {
+            "objectType": "Toilet",
+            "objectId": "Toilet|-00.41|00.00|-00.55"
+        },
+        {
+            "objectType": "ToiletPaper",
+            "objectId": "ToiletPaper|-00.10|+01.03|-00.39"
+        },
+        {
+            "objectType": "ToiletPaperHanger",
+            "objectId": "ToiletPaperHanger|+00.00|+00.87|-00.97"
+        },
+        {
+            "objectType": "Towel",
+            "objectId": "Towel|-01.34|+01.19|-00.11"
+        },
+        {
+            "objectType": "TowelHolder",
+            "objectId": "TowelHolder|-01.34|+01.18|+00.00"
+        }
+    ]
+}

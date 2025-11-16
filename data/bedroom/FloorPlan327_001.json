@@ -1,0 +1,81 @@
+{
+    "scene_name": "FloorPlan327",
+    "scene_number": 1,
+    "image_filename": "saved_scenes/FloorPlan327_001.jpg",
+    "agent_position": [
+        0.0,
+        0.9009992480278015,
+        -1.5
+    ],
+    "agent_rotation": 180.0,
+    "visible_objects": [
+        {
+            "objectType": "Book",
+            "objectId": "Book|+00.62|+00.58|-02.47"
+        },
+        {
+            "objectType": "CD",
+            "objectId": "CD|+01.15|+00.50|-01.89"
+        },
+        {
+            "objectType": "CellPhone",
+            "objectId": "CellPhone|+00.39|+00.57|-02.48"
+        },
+        {
+            "objectType": "Chair",
+            "objectId": "Chair|+00.28|00.00|-02.26"
+        },
+        {
+            "objectType": "Desk",
+            "objectId": "Desk|+00.45|+00.00|-02.43"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|+00.98|+00.40|-01.96"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-01.31|+00.16|-02.05"
+        },
+        {
+            "objectType": "Drawer",
+            "objectId": "Drawer|-01.31|+00.46|-02.05"
+        },
+        {
+            "objectType": "Floor",
+            "objectId": "Floor|+00.00|+00.00|+00.00"
+        },
+        {
+            "objectType": "Laptop",
+            "objectId": "Laptop|+00.08|+00.57|-02.46"
+        },
+        {
+            "objectType": "Pen",
+            "objectId": "Pen|+00.97|+00.58|-02.43"
+        },
+        {
+            "objectType": "Pencil",
+            "objectId": "Pencil|+00.88|+00.58|-02.38"
+        },
+        {
+            "objectType": "Shelf",
+            "objectId": "Shelf|+01.22|+00.86|-01.80"
+        },
+        {
+            "objectType": "SideTable",
+            "objectId": "SideTable|-01.44|00.00|-02.05"
+        },
+        {
+            "objectType": "Window",
+            "objectId": "Window|-00.36|+00.96|-02.68"
+        },
+        {
+            "objectType": "Window",
+            "objectId": "Window|+00.24|+00.96|-02.68"
+        },
+        {
+            "objectType": "Window",
+            "objectId": "Window|-00.96|+00.96|-02.68"
+        }
+    ]
+}
