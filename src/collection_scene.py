@@ -115,7 +115,7 @@ def get_caption_from_gpt4o(img):
                     "content": [
                         {
                             "type": "text",
-                            "text": "please describe what you see. exmple： I see a desk in the room."
+                            "text": "please describe what you see. exmple: I see a desk in the room."
                         },
                         {
                             "type": "image_url",
