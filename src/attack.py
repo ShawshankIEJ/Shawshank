@@ -286,7 +286,7 @@ class RejectAttack:
             scene_description = ""
         else:
             PROMPT = "you are a robot, please describe the scene you see."
-            text = "please describe what you see. exmple： I see a desk in the room."
+            text = "please describe what you see. exmple: I see a desk in the room."
             vlm_agent = Agent.from_config(QWEN_VL, PROMPT)
             scene_description = vlm_agent.chat_vlm(image, text)
             
@@ -439,7 +439,7 @@ class MaliciousAttack:
             scene_description = ""
         else:
             PROMPT = "you are a robot, please describe the scene you see."
-            text = "please describe what you see. exmple： I see a desk in the room."
+            text = "please describe what you see. exmple: I see a desk in the room."
             vlm_agent = Agent.from_config(QWEN_VL, PROMPT)
             scene_description = vlm_agent.chat_vlm(image, text)
 
@@ -583,7 +583,7 @@ class InterferenceAttack:
             scene_description = ""
         else:
             PROMPT = "you are a robot, please describe the scene you see."
-            text = "please describe what you see. exmple： I see a desk in the room."
+            text = "please describe what you see. exmple: I see a desk in the room."
             vlm_agent = Agent.from_config(QWEN_VL, PROMPT)
             scene_description = vlm_agent.chat_vlm(image, text)
             
